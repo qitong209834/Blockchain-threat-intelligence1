@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1742755805135609919",
+        "timestamp": "2024-01-04 11:42:37",
+        "original_content": "?\nWe've observed a few in-the-wild exploitations. The exploiter has stolen\n~$3.4M worth of cryptos and bridged them from\n[#Arbitrum] to\n[#Ethereum]"
+    }
+}
