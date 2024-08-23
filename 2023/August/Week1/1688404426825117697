@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1688404426825117697",
+        "timestamp": "2023-08-07 12:19:19",
+        "original_content": "[#PeckShieldAlert] A total of\n~$73.5M worth of cryptos on [#Ethereum]\nwere stolen in the [#Curve] Reentrancy\nexploit. So far, ~73% of them (~$52.3M) have been returned. The remaining\n~$19.7M worth of cryptos on [#Ethereum]\nhave not yet been returned by the 1st Curve CRV-ETH exploiter (0xb752\u2026b324).\nThe breakdown of returned funds is as follows: AlchemixFi returned all: $22M\n(consisting of 7,258 ETH + 4,821 alETH) Jpegd Frontrunner returned 90%: $11.5M\n(equivalent to 5,495.4 WETH) Metronome ($1.6M) + CRV pool ($5.3M) returned by\nc0ffeebabe.eth: $7M Alchemix (Whitehat Operation): $13M"
+    }
+}
