@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1692469871962202522",
+        "timestamp": "2023-08-18 17:33:56",
+        "original_content": "Hi\n\n[@exactlyprotocol](/ExactlyProtocol)\n\n, we have detected an ongoing attack. Users are strongly suggested to take\nnecessary actions. Here is the encrypted hash:\n20bae0a96e90d5590a98bc81a16c2b1e8e96eba8248f266c244870d18232b258. Actual hash\nwill be released once the situation is stable."
+    }
+}
