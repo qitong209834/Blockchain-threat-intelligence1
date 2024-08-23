@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1646421063176450048",
+        "timestamp": "2023-04-13 14:10:36",
+        "original_content": "The loss of today's\n\n[@iearnfinance](/iearnfinance)\n\nyUSDT hack is ~$11.6m. As mentioned earlier, the hacker exploits a bug in the\nmisconfigured yUSDT -\n[https://etherscan.io/address/0x83f798e925bcd4017eb265844fddabb448f1707d\u2026](https://t.co/FWMQLF2eGn)\n\\- to mint extremely huge amount of yUSDT (1,252,660,242,212,927.5) from a\nsmall $10K USDT. Next, the minted yUSDT is then swapped to other stable coins.\nHere comes the flow of stolen funds."
+    }
+}
