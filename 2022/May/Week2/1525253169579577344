@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1525253169579577344",
+        "timestamp": "2022-05-14 05:41:44",
+        "original_content": "Apparently, it is a malicious ad served by Coinzilla (a crypto ad network)\nthat targets a number of crypto websites, including\n\n[@coingecko](/coingecko)\n\n. If you interacted with the signature request while browsing them, revoke\naccess with [http://revoke.cash](https://t.co/4DogFvzWNy)"
+    }
+}
