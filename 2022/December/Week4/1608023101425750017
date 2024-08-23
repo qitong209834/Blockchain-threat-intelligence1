@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1608023101425750017",
+        "timestamp": "2022-12-28 16:52:37",
+        "original_content": "[#PeckShieldAlert] Alameda-labeled\naddresses have been swapping ERC20 tokens (e.g.\n[$LDO],\n[$AAVE]) for ETH/USDT, then sent\n[$ETH] to ChangeNOW and\n[$USDT] to Fixedfloat and Binance through\nfresh wallets within the last 10 hours[](https://t.co/G2sgEVBnHN)\n"
+    }
+}
