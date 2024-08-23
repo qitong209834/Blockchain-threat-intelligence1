@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1584638779712630784",
+        "timestamp": "2022-10-25 04:11:40",
+        "original_content": "[#Security]\n\n[@Apple](/Apple)\n\niOS 16.1 is out, including a fix for \"actively exploited\" 0-day\nCVE-2022-42827, which allows an application to execute arbitrary code with\nkernel privileges. [https://support.apple.com/en-\nus/HT213489](https://t.co/QNkwvfrxgT)"
+    }
+}
