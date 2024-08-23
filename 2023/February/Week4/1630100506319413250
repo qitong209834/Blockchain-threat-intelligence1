@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1630100506319413250",
+        "timestamp": "2023-02-27 15:00:21",
+        "original_content": "?\nThere is an in-the-wild hack\n[https://bscscan.com/tx/0x3ee23c1585474eaa4f976313cafbc09461abb781d263547c8397788c68a00160\u2026](https://t.co/sM70tpesZb).\nWhile the contract is not verified, the root cause appears to be the wild\nallowance at the loss of innocent users. Please revoke your allowance, if any,\nto\n[https://bscscan.com/address/0x6d8981847eb3cc2234179d0f0e72f6b6b2421a01\u2026](https://t.co/dP4JqOlxMF)"
+    }
+}
