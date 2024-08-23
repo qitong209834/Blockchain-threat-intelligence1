@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1614774855999844352",
+        "timestamp": "2023-01-16 08:01:41",
+        "original_content": "The Jarvis Polygon pool of @MidasCapitalxyz is exploited (w/ the loss of\n>650K) due to the known read-only-reentrancy issue when interacting w/ certain\nCurve pools. Here is the hack tx\n[https://polygonscan.com/tx/0x0053490215baf541362fc78be0de98e3147f40223238d5b12512b3e26c0a2c2f\u2026](https://t.co/IK1xnwrDY6)\n([https://quillaudits.medium.com/decoding-220k-read-only-reentrancy-exploit-\nquillaudits-30871d728ad5\u2026](https://t.co/Vpp09dx0Ck))"
+    }
+}
