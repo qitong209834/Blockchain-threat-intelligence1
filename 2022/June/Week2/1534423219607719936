@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1534423219607719936",
+        "timestamp": "2022-06-08 14:32:58",
+        "original_content": "The GymSinglePool of\n\n[@GymNet_Official](/GymNet_Official)\n\nis hacked w/ the loss of $2.1m (~7.5K BNB). The bug is due to the lack of\ncaller verification, which is exploited to increase the balance without making\nany payment. The stolen funds are now deposited via\n\n[@TornadoCash](/TornadoCash)\n\n[https://bscscan.com/tx/0x8432c1c6613995eeea8a3ae2cfeb9577913db6b7b35dbe26a8c56c02066096e6\u2026](https://t.co/I2eD8WBWXk)"
+    }
+}
