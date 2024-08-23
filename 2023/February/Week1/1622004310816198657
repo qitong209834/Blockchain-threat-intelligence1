@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1622004310816198657",
+        "timestamp": "2023-02-04 09:45:31",
+        "original_content": "The root cause of the\n\n[@SperaxUSD](/SperaxUSD)\n\nhack is due to its internal balance accounting discrepancy caused when\nmigrating an account from non-rebasing to rebasing-based accounting. And here\nis the triggering tx from a simple transfer:\n[https://arbiscan.io/tx/0xe74641b4b7e9c9eb7ab46082f322efbc510b8d39af609d934f41c41d7057fe49\u2026](https://t.co/tkLORdWnmg)"
+    }
+}
