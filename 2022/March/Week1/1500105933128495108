@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1500105933128495108",
+        "timestamp": "2022-03-05 21:48:19",
+        "original_content": "The\n\n[@BaconProtocol](/baconprotocol)\n\nwas just hacked w/ ~$1M loss\n([https://etherscan.io/tx/0xacfcaa8e1c482148f9f2d592c78ca7a27934c7333dab31978ed0aef333a28ab6\u2026](https://t.co/Q5bBdh3xWa)\nand\n[https://etherscan.io/tx/0x7d2296bcb936aa5e2397ddf8ccba59f54a178c3901666b49291d880369dbcf31\u2026](https://t.co/Yk3qjeidsJ)).\nThe hack is made possible due to a reentrancy bug in the lend() routine so\nthat the hacker can get more lending credits via re-entering the lend()\nroutine."
+    }
+}
