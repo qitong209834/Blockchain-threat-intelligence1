@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1585587858978623491",
+        "timestamp": "2022-10-27 17:49:56",
+        "original_content": "1/\n\n[@TeamFinance_](/TeamFinance_)\n\nwas exploited in\n[https://etherscan.io/tx/0xb2e3ea72d353da43a2ac9a8f1670fd16463ab370e563b9b5b26119b2601277ce\u2026](https://t.co/9s5lLx7EOr),\nleading to the loss of ~$15.8M for the protocol: $11.5M\n(V2_USDC_CAW)+$1.7M(V2_USDC_TSUKA)+0.7M(V2_KNDX_WETH)+1.9M(V2_FEG_WETH).\n\n[@trustswap](/TrustSwap)"
+    }
+}
