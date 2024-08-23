@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1800176089316163831",
+        "timestamp": "2024-06-10 20:18:14",
+        "original_content": "Today's\n\n[@UwU_Lend](/UwU_Lend)\n\nhack leads to $19.4m loss. The root cause is a price oracle issue. In\nparticular, the sUSDe asset is priced as median from multiple sources. Five of\nthem, i.e., FRAXUSDe, USDeUSDC, USDeDAI, USDecrvUSD, and GHOUSDe, were\nmanipulated during the hack. The stolen funds are parked in the following two\naddresses:\n[https://etherscan.io/address/0x48d7c1dd4214b41eda3301bca434348f8d1c5eb6\u2026](https://t.co/JKXAcYtsCc)\n[https://etherscan.io/address/0x050c7e9c62bf991841827f37745ddadb563feb70\u2026](https://t.co/RuQNvmuGyY)[](https://t.co/4WrFEdfo6V)\n"
+    }
+}
