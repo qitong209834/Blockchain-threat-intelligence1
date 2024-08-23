@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1590382258271027200",
+        "timestamp": "2022-11-10 00:34:12",
+        "original_content": "[#PeckShieldAlert]\n[#MEVBoost]\n?\nA\n\n[@LidoFinance](/LidoFinance)\n\nvalidator rewarded 44.07 ETH (~$51k) via an anon builder at block 15933616.\nThe [#MEV] bot bribed with 23.9 ETH to backrun\nthe big UniswapV3_USDC_WETH swap:"
+    }
+}
