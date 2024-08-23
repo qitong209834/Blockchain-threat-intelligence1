@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1582322864296165381",
+        "timestamp": "2022-10-18 18:49:03",
+        "original_content": "[#PeckShieldAlert]\n[#THEProtocol] PeckShield has detected\n~25 [$THE] are newly created on both\nEthereum and BSC 6 out of 25 of these\n[$THE] appear to be\n[#honeypot] 0x0cbA6 distributed 100M\n[$THE] to address Vb (Vitalik) 0x716Fb\ndistributed 6.4M [$THE] to address\nvitalik.eth Be Cautious!"
+    }
+}
