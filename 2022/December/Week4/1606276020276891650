@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1606276020276891650",
+        "timestamp": "2022-12-23 21:10:21",
+        "original_content": "The\n\n[@Defrost_Finance](/Defrost_Finance)\n\nis exploited, leading to the gain of ~$173k for the hacker. The hack is made\npossible due to the lack of reentrancy lock for the flashloan()/deposit()\nfunctions, which was used by the hacker to manipulate the share price of\nLSWUSDC."
+    }
+}
