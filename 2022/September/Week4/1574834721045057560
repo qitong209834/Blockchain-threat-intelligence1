@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1574834721045057560",
+        "timestamp": "2022-09-28 01:14:28",
+        "original_content": "Our analysis shows the bug is part of the\n[#MEV] bot's callback routine, i.e.,\ncallFunction(), which was exploited to approve an arbitrary address for\nspending. Here is the related tx:\n[https://etherscan.io/tx/0x59ddcf5ee5c687af2cbf291c3ac63bf28316a8ecbb621d9f62d07fa8a5b8ef4e\u2026](https://t.co/A2LtcCfEkT)"
+    }
+}
