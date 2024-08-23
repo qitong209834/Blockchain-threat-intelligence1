@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1625676580487041025",
+        "timestamp": "2023-02-15 10:01:15",
+        "original_content": "[#PeckShieldAlert]\n\n[@MikeBurgersburg](/MikeBurgersburg)\n\nhas detected that BINANCE US has announced a pause in\n[$USDC] withdrawals on the ETH network\ndue to a temporary shortage. However, withdrawals on other chains such as\nAVAXC, BSC, TRX, MATIC, and SOL are not affected"
+    }
+}
