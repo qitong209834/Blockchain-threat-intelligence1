@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1523143886079623169",
+        "timestamp": "2022-05-08 11:32:55",
+        "original_content": "Hi,\n\n[@BistrooIO](/BistrooIO)\n\nERC777-based reentrancy issue (w/ loss of ~47k)\n[https://bscscan.com/tx/0x8c96b3314e30cf62bdfd4f94df38a2f040e171e849208b328dcd4ac2cdbcb748\u2026](https://t.co/GWbLKxe6ZU)\n(thanks\n\n[@bbbb](/bbbb)\n\nfor the intel)"
+    }
+}
