@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1683034275489382401",
+        "timestamp": "2023-07-23 10:49:49",
+        "original_content": "[#PeckShieldAlert]\n\n[@zachxbt](/zachxbt)\n\nhas detected that [#Alphapo] hot wallets\nwere drained for $23M+ worth of cryptos. ~6.074M\n[$USDT], $108K\n[$USDC], 100.2M\n[$FTN], 430K\n[$TFL], 2.5K\n[$ETH], and ~1.7K\n[$DAI] were drained from\n[#Alphapo] to 0x040a...0d17. The drainer\nthen swapped stablecoins and some other cryptos for 5.73K\n[$ETH] and bridged them via the Avalanche\nbridge to [#BTC]. ~12M\n[$USDT] and 5.2M\n[$TRX] were drained to TKSitn...XDiY and\ntransferred to TDoNAZHa7WxarUAFbQUhiijTGtd7EpbzRh"
+    }
+}
