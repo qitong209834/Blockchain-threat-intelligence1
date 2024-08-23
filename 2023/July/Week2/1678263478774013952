@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1678263478774013952",
+        "timestamp": "2023-07-10 11:42:27",
+        "original_content": "Our analysis shows that the\n\n[@ArcadiaFi](/ArcadiaFi)\n\nhack (w/ ~455K loss) is due to the lack of untrusted input validation, which\nis exploited to drain funds from both darcWETH and darcUSDC vaults."
+    }
+}
