@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1742335801336250858",
+        "timestamp": "2024-01-03 07:57:08",
+        "original_content": "Today's hack on\n\n[@RDNTCapital](/RDNTCapital)\n\nresults in the loss of 1.9k eth (~$4.5m). The root cause is not new: It\nbasically exploits a time window when a new market is activated in a lending\nmarket (forked from the popular Compound/Aave). The exploitation also relies\non a known rounding\n[https://x.com/RDNTCapital/st/RDNTCapital/status/1742317660397011313\u2026](/RDNTCapital/status/1742317660397011313)"
+    }
+}
