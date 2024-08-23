@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1644925384709009413",
+        "timestamp": "2023-04-09 11:36:53",
+        "original_content": "It seems the exploited RouteProcess02 contract has been deployed in multiple\nchains.\n\n[@SushiSwap](/SushiSwap)\n\nPlease *REVOKE* the following addresses ASAP. ETH: 0x044b7..7357 BSC:\n0xd75f...6550 POLYGON: 0x5097...649a AVAX: 0xbace...9c4f FTM: 0x3e60...c715"
+    }
+}
