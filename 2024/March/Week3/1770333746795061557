@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1770333746795061557",
+        "timestamp": "2024-03-20 12:55:05",
+        "original_content": "[#PeckShieldAlert]\n\n[@paraswap](/paraswap)\n\nreported that they discovered a critical vulnerability affecting users who\napproved the Augustus V6 contract. Please *REVOKE* PERMISSIONS TO THE AUGUSTUS\nV6 contract: 0x00000000FdAC7708D0D360BDDc1bc7d097F47439"
+    }
+}
