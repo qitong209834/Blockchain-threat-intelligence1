@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1575890733373849601",
+        "timestamp": "2022-10-01 00:50:04",
+        "original_content": "Hi,\n\n[@thb_crypto](/THB_crypto)\n\n, it seems the rewards are being drained due to a reentrancy bug. Please\ndouble check the claimReward() and apply necessary reentrancy protection."
+    }
+}
