@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1554298983107166208",
+        "timestamp": "2022-08-02 07:45:33",
+        "original_content": "The\n\n[@nomadxyz_](/nomadxyz_)\n\nbridge hack is made possible due to an improper initialization leading to the\nzero address (0x00) being marked as a trusted root, which led to every message\nbeing proven valid by default. (1 hack tx:\n[https://etherscan.io/tx/0xc4938e6f6368061194d076d44f73a8cae3a318b1ee7cf8b026abe10b7c206c2a\u2026](https://t.co/M8ef8epCAo))"
+    }
+}
