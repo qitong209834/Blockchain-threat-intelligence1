@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/GammaStrategies/status/1742882840247779453",
+        "timestamp": "2024-01-04 20:17:04",
+        "original_content": "We have preliminarily reached the root cause of the recent exploit attack on\nour vaults. Out of abundance of caution, we shut off all deposits on our\npublic-facing vaults -- this effectively nullifies the attack any further\nbecause a deposit is required for the attack to take place A\n?"
+    }
+}
