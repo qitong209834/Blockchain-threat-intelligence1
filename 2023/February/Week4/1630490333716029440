@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1630490333716029440",
+        "timestamp": "2023-02-28 16:49:23",
+        "original_content": "It seems Shata Capital's EFVault\n([https://shatacapital.com](https://t.co/9aXYysFdjz) \u6c99\u5854\u57fa\u91d1) suffered from an\nupgrade glitch (~4 days ago), which leads to a loss of ~$5.1m. Here is one\nrelated tx (the glitch may be introduced due to the 6fe866 commit!):\n[https://etherscan.io/tx/0x1fe5a53405d00ce2f3e15b214c7486c69cbc5bf165cf9596e86f797f62e81914\u2026](https://t.co/D7Ukn11rlU)"
+    }
+}
