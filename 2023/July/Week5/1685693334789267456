@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1685693334789267456",
+        "timestamp": "2023-07-31 00:44:58",
+        "original_content": "?\nVyper versions 0.2.15, 0.2.16 and 0.3.0 are vulnerable to malfunctioning\nreentrancy locks. Affected protocols may want to double check!!!"
+    }
+}
