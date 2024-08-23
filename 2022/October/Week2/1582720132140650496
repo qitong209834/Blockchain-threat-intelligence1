@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1582720132140650496",
+        "timestamp": "2022-10-14 23:47:06",
+        "original_content": "We've warned earlier about the risks from unprotected flashloan callback.\nAnother MEV bot victim was exploited by smithbot.eth (w/ loss ~$150K).\n[https://etherscan.io/tx/0x56dec4033c1e24209ead9a36f24b703f9533fc8263493bcc9be4e746000f97c0\u2026](https://t.co/8RRpg57692)"
+    }
+}
