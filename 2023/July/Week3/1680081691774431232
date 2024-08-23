@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1680081691774431232",
+        "timestamp": "2023-07-15 13:07:44",
+        "original_content": "It seems a staking contract has a \"public approve\" bug, which was just\nexploited to drain $21K USDT:\n[https://etherscan.io/tx/0xfc872bf5ca8f04b18b82041ec563e4abf2e31e1fc27d1ea5dee39bc8a79d2d06\u2026](https://t.co/9wG25c835F)"
+    }
+}
