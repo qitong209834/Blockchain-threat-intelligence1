@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1615963474106126336",
+        "timestamp": "2023-01-19 14:23:15",
+        "original_content": "Interesting, our monitor detects multiple exploits following the\n\n[@ThoreumFinance](/ThoreumFinance)\n\nupgrade tx:\n[https://bscscan.com/tx/0x5a1788e1fbd582d1b89dc23fdf6cb7600c5ab07e4156b37cc3a6da27d5aa0349\u2026](https://t.co/SnjagkFD8I).\nHere is one decoded hack tx:\n[https://bscscan.com/tx/0x908525966c7e2ee20e86f4a73b0130253072c3519af58080e49d6e9060eda34a\u2026](https://t.co/XKUqmFvxir)"
+    }
+}
