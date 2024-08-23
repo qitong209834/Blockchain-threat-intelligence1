@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1683830339637219328",
+        "timestamp": "2023-07-25 21:08:08",
+        "original_content": "The team confirms a price oracle issue that is caused by a reentrancy with\ninconsistent swap pool state\n[https://explorer.zksync.io/tx/0x99efebacb3edaa3ac34f7ef462fd8eed85b46be281bd1329abfb215a494ab0ef\u2026](https://t.co/M0guCS0WiO)[](https://t.co/WZOYOJGsRu)\n"
+    }
+}
