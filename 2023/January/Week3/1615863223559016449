@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1615863223559016449",
+        "timestamp": "2023-01-19 08:06:28",
+        "original_content": "[#PeckShieldAlert]\n[#MEVBoost]\n?\nA validator rewarded 134.71 ETH ($203,984.42) via the\n\n[@beaverbuild](/beaverbuild)\n\nbuiler @ block#16437082 . The [#MEV] bot\nbribed with 54.1 eth to backrun the large big swap (>$40M):"
+    }
+}
