@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1603606941775040512",
+        "timestamp": "2022-12-16 12:24:23",
+        "original_content": "[#PeckShieldAlert]\n\n[@cashioapp](/CashioApp)\n\nExploiter-labeled address has transferred ~11,517 ETH (~$14.6M) to an\nintermediary address 0xfe4b...a85 ~200\n[$ETH] already into Tornado Cash\n[https://etherscan.io/tx/0xf8d6cb5f80fee59199d0ea34c094bf66b62f20629a4bba510f0a824586eb9a76\u2026](https://t.co/RA5RaIlO29)"
+    }
+}
