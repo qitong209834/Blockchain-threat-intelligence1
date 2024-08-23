@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1686209024587710464",
+        "timestamp": "2023-08-01 09:41:55",
+        "original_content": "Our analysis shows the root case is from the exposed\nLeetSwapV2Pair::_transferFeesSupportingTaxTokens() function, which is hardly\nforked from solidly."
+    }
+}
