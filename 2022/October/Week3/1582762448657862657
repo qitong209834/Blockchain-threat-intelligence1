@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1582762448657862657",
+        "timestamp": "2022-10-19 23:31:55",
+        "original_content": "We've confirmed an active exploit that makes use of huge gas price to game the\nTransactionRequestCore contract for reward at the cost of original owner. In\nfact, the exploit pays the 51% of the profit to the miner, hence this huge\nMEV-Boost reward.\n[https://etherscan.io/tx/0x4a84d0872887f91546cd5400cf99763b654975efb3376ee55e4463bcfbca4e97\u2026](https://t.co/7UAI0JFv72)"
+    }
+}
