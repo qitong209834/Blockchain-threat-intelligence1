@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1742334242120466580",
+        "timestamp": "2024-01-03 07:57:08",
+        "original_content": "Today's hack on\n\n[@RDNTCapital](/RDNTCapital)\n\nresults in the loss of 1.9k eth (~$4.5m). The root cause is not new: It\nbasically exploits a time window when a new market is activated in a lending\nmarket (forked from the popular Compound/Aave). The exploitation also relies\non a known rounding issue in current Compound/Aave codebase. Specifically,\ntoday's actor\n[https://arbiscan.io/address/0x826d5f4d8084980366f975e10db6c4cf1f9dde6d\u2026](https://t.co/5zpYEpmPlN)\nsniped the new USDC market deployment and exploited it *6 seconds* after the\nactivation."
+    }
+}
