@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1690877589005778945",
+        "timestamp": "2023-08-14 06:47:59",
+        "original_content": "Hi\n\n[@ZunamiProtocol](/ZunamiProtocol)\n\nToday's hack leads to >$2.1m loss and there are two hack txs involved: \\- tx1:\n[https://etherscan.io/tx/0x2aec4fdb2a09ad4269a410f2c770737626fb62c54e0fa8ac25e8582d4b690cca\u2026](https://t.co/UNouq1UwfZ)\n\\- tx2:\n[https://etherscan.io/tx/0x0788ba222970c7c68a738b0e08fb197e669e61f9b226ceec4cab9b85abe8cceb\u2026](https://t.co/vPv1ChVcPv)\nIt is a price manipulation issue, which can be exploited by donation to\nincorrectly calculate the price as shown in the following figures."
+    }
+}
