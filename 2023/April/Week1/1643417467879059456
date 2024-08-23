@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1643417467879059456",
+        "timestamp": "2023-04-05 02:03:57",
+        "original_content": "The root cause is known to be the read-only reentrancy of Balancer:\n[https://forum.balancer.fi/t/reentrancy-vulnerability-scope-\nexpanded/4345\u2026](https://t.co/ynuWr6PZMR). Here is the related tx:\n[https://arbiscan.io/tx/0xa9ff2b587e2741575daf893864710a5cbb44bb64ccdc487a100fa20741e0f74d\u2026](https://t.co/iqvS48njau)"
+    }
+}
