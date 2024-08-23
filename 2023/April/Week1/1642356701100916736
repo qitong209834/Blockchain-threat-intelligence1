@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1642356701100916736",
+        "timestamp": "2023-04-02 09:43:34",
+        "original_content": "The\n\n[@Allbridge_io](/Allbridge_io)\n\nhack results in the loss of ~$570K (282,889 BUSD + 290,868 USDT). The root\ncause appears to be the manipulation of pool's swap price. The actor plays\ndual roles of acting as LP and swapper to manipulate the price and then drain\nthe pool funds."
+    }
+}
