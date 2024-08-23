@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1583416829237526528",
+        "timestamp": "2022-10-14 02:39:03",
+        "original_content": "It seems the related\n\n[@OlympusDAO](/OlympusDAO)\n\n's BondFixedExpiryTeller contract has a redeem() function that does not\nproperly validate the input, resulting in ~$292K loss.\n[https://etherscan.io/tx/0x3ed75df83d907412af874b7998d911fdf990704da87c2b1a8cf95ca5d21504cf\u2026](https://t.co/dkhC5Ex9sz)[](https://t.co/XTowxLN136)\n"
+    }
+}
