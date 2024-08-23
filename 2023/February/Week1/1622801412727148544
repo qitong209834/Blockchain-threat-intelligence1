@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1622801412727148544",
+        "timestamp": "2023-02-07 11:06:15",
+        "original_content": "It seems (1)\n\n[@CoWSwap](/CoWSwap)\n\n's GPv2Settlement contract has been tricked 10 days ago to approve SwapGuard\nfor DAI spending and (2) SwapGuard was just triggered to transfer out DAI from\nGPv2Settlement. Here are the two related txs:\n[https://etherscan.io/tx/0x92f906bce94bab417cccc87ae046448d7fb8c2c0350b7ed911545577acb3bfc1\u2026](https://t.co/Tb8Sk5xqMR)\nand\n[https://etherscan.io/tx/0x90b468608fbcc7faef46502b198471311baca3baab49242a4a85b73d4924379b\u2026](https://t.co/JS7ejDhiAs)"
+    }
+}
