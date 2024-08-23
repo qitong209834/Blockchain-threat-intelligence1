@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1634416894806728706",
+        "timestamp": "2023-03-11 12:52:08",
+        "original_content": "[#PeckShieldAlert]\n[#MEVBoost]\n?\nAn anon validator rewarded 23.79 ETH ($34.4k) via the\n\n[@builder0x69](/builder0x69)\n\nrelay at block#16802196. The [#MEV] bot bribed\nwith 23.789 eth to backrun the large 3Crv-USDT swap:\n[https://etherscan.io/tx/0xde46a6bb1fc7834dde4d01428c88f84d65a607f4dc11b7f3dd710e86b7d226a8\u2026](https://t.co/bnlPvTRjAG)"
+    }
+}
