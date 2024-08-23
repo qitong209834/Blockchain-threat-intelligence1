@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1583761135215718401",
+        "timestamp": "2022-10-22 18:04:14",
+        "original_content": "[#PeckShieldAlert]\n[#MEVBoost]\n?\nA validator 0xee5f rewarded 337.95 ETH ($439k) via the\n\n[@Flashbots](/FlashBots)\n\nrelay @ block#15802413. The [#MEV] bot bribed\nwith 337.91 ETH to frontrun with the following tx:"
+    }
+}
