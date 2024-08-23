@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/iqlusioninc/status/1580582099157143554",
+        "timestamp": "2022-10-13 23:31:52",
+        "original_content": "Attention all validators of any IBC-connected chains: IBC Security Advisory\nDragonberry has been released following an audit in the aftermath of the\nrecent BSC exploit. All IBC-connected chains need to be patched. A public\npatch to Cosmos SDK is imminent [https://forum.cosmos.network/t/ibc-security-\nadvisory-dragonberry/7702\u2026](https://t.co/j8bZLdrZlg)"
+    }
+}
