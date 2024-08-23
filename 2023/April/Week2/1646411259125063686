@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1646411259125063686",
+        "timestamp": "2023-04-13 14:10:36",
+        "original_content": "It appears the root cause is due to the misconfigured yUSDT, which is\nexploited to mint huge yUSDT (1,252,660,242,212,927.5) from a small $10K USDT.\nThe huge yUSDT is then cashed out by swapping to other stable coins."
+    }
+}
