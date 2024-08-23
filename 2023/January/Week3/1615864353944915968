@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1615864353944915968",
+        "timestamp": "2023-01-19 08:10:57",
+        "original_content": "It seems a MEV bot\n([https://bscscan.com/address/0x5f3239aa0553a5c496e1aec831f1e41847faa3d0\u2026](https://t.co/FeyUcYyYUu))\non BSC is being exploited. Here is the decoded tx:\n[https://bscscan.com/tx/0xab78dca427d84c018401873d18517027a00623b6ce20fab19c8c03b825fffb32\u2026](https://t.co/KaHhL7VLcv)"
+    }
+}
