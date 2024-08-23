@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1674776856531202048",
+        "timestamp": "2023-06-30 21:48:13",
+        "original_content": "Hi\n\n[@Biswap_Dex](/Biswap_Dex)\n\nyou may want to take a look:\n[https://bscscan.com/address/0xa7a98876c1dc2bffc4b2c8ccdebb847ff808662b\u2026](https://t.co/I61DdbGDsm)\nThe V3 migrator logic needs to validate the caller for the liquidity\nmigration.[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1825468811581222912/3DvmTQHg?format=jpg&name=small)](https://t.co/PBfoHwXS0T)\n"
+    }
+}
