@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1814323300941881559",
+        "timestamp": "2024-07-19 23:35:58",
+        "original_content": "[#PeckShieldAlert] The MEV bot\nlabeled address, which profited from the\n[#RhoMarkets] price oracle\nmisconfiguration, has transferred 2,202.85\n[$ETH] (worth ~$7.6m) to MultiSig: Safe\n0x2a9c...6401\n\n[@Scroll_ZKP](/Scroll_ZKP)\n\n[@RhoMarketsHQ](/RhoMarketsHQ)"
+    }
+}
