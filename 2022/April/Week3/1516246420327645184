@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1516246420327645184",
+        "timestamp": "2022-04-19 10:44:51",
+        "original_content": "[#PeckShieldAlert]\n[#honeypot] PeckShield has detected\n[$ZTZ] is honeypot.\n[$ZTZ] dropped -99%\n[https://bscscan.com/address/0x68b40c66287dd085622b7f7122f7a0d17ba1f38f\u2026](https://t.co/wDki4l7V0l)"
+    }
+}
