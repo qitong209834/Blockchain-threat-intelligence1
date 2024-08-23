@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1591412929702031363",
+        "timestamp": "2022-11-12 20:49:44",
+        "original_content": "[#PeckShieldAlert]\n[#FTX] Accounts Drainer dumps $1.7M\n[#PAXG] w/ slippages as arbs for\n[#MEV] Bot: A validator just rewarded 126.4\nETH (~$159.5k) via\n\n[@builder0x69](/builder0x69)\n\nat block 15953984. The [#MEV] bot bribes with\n126.39 ETH to backrun the FTX Accounts Drainer dump:"
+    }
+}
