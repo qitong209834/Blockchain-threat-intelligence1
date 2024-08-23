@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1580948319660306432",
+        "timestamp": "2022-10-14 22:58:11",
+        "original_content": "This is indeed a potential \"trap\" about flashloans. The callback may be\ntriggered by a malicious actor, *NOT* the invoked protocol itself. Besides\nvarious flashloan-supported protocols, current MEV bots may also need to\ndouble check.\n[https://etherscan.io/tx/0x160c5950a01b88953648ba90ec0a29b0c5383e055d35a7835d905c53a3dda01e\u2026](https://t.co/G1fHkvMHP6)\n\n[@danielvf](/danielvf)\n\n[@MevRefund](/MevRefund)"
+    }
+}
