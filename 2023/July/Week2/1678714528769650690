@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1678714528769650690",
+        "timestamp": "2023-07-11 17:39:14",
+        "original_content": "Our analysis shows that the\n\n[@Rodeo_Finance](/Rodeo_Finance)\n\nhack (w/ ~$1.53M loss) is a so-called \"ForceInvestment\" hack: the\nInvestor.earn() routine has a flaw that can be forced to swap\n[$USDC] ->\n[$WETH] -> $unshETH, but the slippage\ncontrol cannot take effect as expected due to the flawed"
+    }
+}
