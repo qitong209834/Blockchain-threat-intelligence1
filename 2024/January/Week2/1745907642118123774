@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1745907642118123774",
+        "timestamp": "2024-01-13 04:36:33",
+        "original_content": "The\n\n[@Wise_Lending](/Wise_Lending)\n\nmarket was exploited today, resulting in ~177 ETH loss (~$464K). Our initial\nanalysis shows the share accounting logic is flawed with a precision issue to\ndrain the market funds. Here is the related hack tx:\n[https://etherscan.io/tx/0x04e16a79ff928db2fa88619cdd045cdfc7979a61d836c9c9e585b3d6f6d8bc31\u2026](https://t.co/aadbYIjX9o)"
+    }
+}
