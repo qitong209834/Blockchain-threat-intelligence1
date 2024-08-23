@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1507024110534422532",
+        "timestamp": "2022-03-24 23:58:41",
+        "original_content": "[#PeckShieldAlert] Unverified PYE\n(PYE) smart contract is exploited in a flurry of TXs (one representative hack\nTX:\n[https://bscscan.com/tx/0x3823a6841b025e871928306de1805d994366bc8d283494a8f15d0884e67fe2b1\u2026](https://t.co/NhTsgGXYH7)\u2026),\nleading to the loss of ~$2.6m. The exploit is possible because of the lack of\n\"k invariant verification\" in swap() routine. @PyeEcosystem"
+    }
+}
