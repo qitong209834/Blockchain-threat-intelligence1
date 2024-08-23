@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1631491972337893379",
+        "timestamp": "2023-03-03 11:09:32",
+        "original_content": "[#PeckShieldAlert] A\n[#ZeroTransfer] scammer grabbed 2M\n[$USDC] on Feb. 17th The victim tested a\ntransfer of 10 [$USDC] to 0x74C3...1cA\n(Target Address), but scammer conducted a\n[#ZeroTransfer] & mimic the transfer,\ncausing 0x74ce...1cA (Fake Address) to appear in the user's wallet records"
+    }
+}
