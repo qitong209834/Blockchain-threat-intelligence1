@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1779870226223345864",
+        "timestamp": "2024-04-15 21:51:44",
+        "original_content": "Hi @FinanceChainge, it seems insufficient input validation leads to fund being\ntransferred out without authorization."
+    }
+}
