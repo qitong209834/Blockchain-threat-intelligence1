@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1678688731908411393",
+        "timestamp": "2023-07-11 16:01:47",
+        "original_content": "Our analysis shows that the\n\n[@Libertify_](/Libertify_)\n\nhack (w/ ~452K loss) is possible due to the lack of reentrancy protection,\nwhich allows the hacker to mint more shares via re-entering deposit() routine."
+    }
+}
