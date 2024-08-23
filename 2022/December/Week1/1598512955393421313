@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1598512955393421313",
+        "timestamp": "2022-12-02 10:44:36",
+        "original_content": "Our analysis shows the [$aBNBc] token\ncontract has an unlimited mint bug. Specifically, while mint() is protected\nwith onlyMinter modifier, there is another function (w/ 0x3b3a5522 func.\nsignature) that completely bypasses the caller verification to have arbitrary\nmint !!!\n[https://x.com/PeckShieldAler/PeckShieldAlert/status/1598491115887661056\u2026](/PeckShieldAlert/status/1598491115887661056)"
+    }
+}
