@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1686278380306731008",
+        "timestamp": "2023-08-01 15:31:10",
+        "original_content": "[#PeckShieldAlert] A\n[#ZeroTransfer] scammer grabbed 20M\n[$USDT] from 0x4071...9Cbc. Intended\nAddress: 0xa7B4BAC8f0f9692e56750aEFB5f6cB5516E90570 Phishing Address:\n0xa7Bf48749D2E4aA29e3209879956b9bAa9E90570\n[#Tether]\n[$USDT] has already added the scammer's\naddress 0xa7bf...0570 to the Blacklist.\n[https://etherscan.io/tx/0x2675aaf5db84f9f966c431ff82f2173d3251020b11b4939b4961ebedf92c78dd\u2026](https://t.co/QiIZOJDKJX)"
+    }
+}
