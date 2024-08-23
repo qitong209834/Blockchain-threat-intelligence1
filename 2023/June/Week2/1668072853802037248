@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1668072853802037248",
+        "timestamp": "2023-06-12 09:28:12",
+        "original_content": "The loss of today's\n\n[@SturdyFinance](/SturdyFinance)\n\nhack is ~442 ETH (w/ ~$800K). The root cause is due to the faulty price oracle\nto compute the cB-stETH-STABLE asset price\n\n[@SturdyFinance](/SturdyFinance)"
+    }
+}
