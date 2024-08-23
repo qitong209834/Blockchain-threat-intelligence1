@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1645702939498135552",
+        "timestamp": "2023-04-03 15:13:19",
+        "original_content": "[#PeckShieldAlert]\n[#Tether] has blacklisted the address\n0x3c98d617db017f51c6a73a13e80e1fe14cd1d8eb, labeled as Sandwich the Ripper, in\nblock 17019365, which holds ~3 million\n[$USDT]\n[https://x.com/usdtblacklist//usdtblacklist/status/1645486844623089664\u2026](/usdtblacklist/status/1645486844623089664)\nThe stolen funds (~25M) were consolidated in 0x3c98...8eb 4 days ago from\n0x5b04...5b6 (~2.3M) and 0x27bf...f69 (~3M) Additionally, ~2.68M\n[$USDC] has been supplied to\n[#Compound], and ~2.6M $$USDC has been\nsupplied to [#AAVE]"
+    }
+}
