@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1683609019334950912",
+        "timestamp": "2023-07-25 06:27:15",
+        "original_content": "Today's hack on\n\n[@Palmswaporg](/Palmswaporg)\n\nresults in >$900k loss. The root cause is an internal accounting issue inside\nPlpManager. This issue is exploited by direct buyUSDP to inflate the\ngetAumInUsdp so that more USDT can be redeemd."
+    }
+}
