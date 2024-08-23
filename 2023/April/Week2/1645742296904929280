@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1645742296904929280",
+        "timestamp": "2023-04-11 18:27:02",
+        "original_content": "The total loss of\n\n[@paribus_io](/paribus_io)\n\nhack is ~$100K. The root cause turns out to a known reentrancy issue from the\nforked old version of CompoundV2. Here comes the flow of stolen funds."
+    }
+}
