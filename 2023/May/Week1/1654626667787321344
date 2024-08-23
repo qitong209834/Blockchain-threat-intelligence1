@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1654626667787321344",
+        "timestamp": "2023-05-06 06:32:04",
+        "original_content": "Hi\n\n[@DeusDao](/DeusDao)\n\n: it appears to be a pubic burn vulnerability with loss > $1.3M alone at BSC.\nThe ARB/ETH deployments are also affected. The BSC hack was successfully\nfrontrun by a bot:\n[https://bscscan.com/tx/0xde2c8718a9efd8db0eaf9d8141089a22a89bca7d1415d04c05ba107dc1a190c3\u2026](https://t.co/hXskQOIfwV)\nThe DEI token @ BSC was upgraded on Apr-10-2023"
+    }
+}
