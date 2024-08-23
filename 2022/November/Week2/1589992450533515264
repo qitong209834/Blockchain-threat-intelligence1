@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1589992450533515264",
+        "timestamp": "2022-11-08 22:45:15",
+        "original_content": "[#PeckShieldAlert]\n[#MEVBoost]\n?\nA validator rewarded 387.2 ETH ($559k) via the\n\n[@bloXroute](/bloxroute)\n\n\\- Regulated relay @ block#15925049. The\n[#MEV] bot bribed with 387.19 eth to backrun\nthe large UniswapV3_wstETH_WETH swap:"
+    }
+}
