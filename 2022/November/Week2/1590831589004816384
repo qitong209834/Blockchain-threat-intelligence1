@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1590831589004816384",
+        "timestamp": "2022-11-11 06:19:41",
+        "original_content": "It seems\n\n[@DFXFinance](/DFXFinance)\n\n's DEX pool (named Curve) is hacked (w/ loss of 3000 ETH or $~4M) due to the\nlack of proper reentrancy protection. Here comes an example tx:\n[https://etherscan.io/tx/0x6bfd9e286e37061ed279e4f139fbc03c8bd707a2cdd15f7260549052cbba79b7\u2026](https://t.co/tB6Q0SIBSA).\nThe stolen funds are being deposited into\n\n[@TornadoCash](/TornadoCash)"
+    }
+}
