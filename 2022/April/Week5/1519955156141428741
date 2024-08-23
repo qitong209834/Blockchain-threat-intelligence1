@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1519955156141428741",
+        "timestamp": "2022-04-29 16:22:03",
+        "original_content": "The\n\n[@Legend_LFW](/Legend_LFW)\n\nwas exploited in tx\n([https://bscscan.com/tx/0x8e47bdfbf0ba217498beb985418d1e79c35d6404b031748933e0c26bcf3bf68a\u2026](https://t.co/pn1gZgVqfE))\nwith current loss of ~$219K (& possibly growing). It is a *KNOWN* bug with the\nwrong \"k invariant\" in swap() routine. Remove your liquidity from LFW_LPs\nASAP![![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1795056798325768192/ZaEYpfgo?format=jpg&name=small)](https://t.co/w4Q1WBc80M)\n"
+    }
+}
