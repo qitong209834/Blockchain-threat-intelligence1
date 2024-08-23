@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1598491115887661056",
+        "timestamp": "2022-12-02 09:35:55",
+        "original_content": "[#PeckShieldAlert] Seems like\n\n[@ankr](/ankr)\n\nhas been exploited, [$aBNBc] has dropped\n-50%, tons of [$aBNBc] have minted to\n[https://bscscan.com/token/0xe85afccdafbe7f2b096f268e31cce3da8da2990a?a=0xf3a465c9fa6663ff50794c698f600faa4b05c777\u2026](https://t.co/nyfwdd6fWI)\nand the exploiter transferred some of the stolen funds to Tornado cash or\nbridged them via celer and deBridgeGate to Ethereum\n\n[@peckshield](/peckshield)[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1825468811581222912/3DvmTQHg?format=jpg&name=small)](https://t.co/OR3ABcuZy3)\n"
+    }
+}
