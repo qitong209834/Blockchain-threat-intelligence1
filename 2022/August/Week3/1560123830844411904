@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CelerNetwork/status/1560123830844411904",
+        "timestamp": "2022-08-18 12:38:01",
+        "original_content": "?(1/n)A DNS cache poisoning\nattack on cBridge\u2019s frontend UI appprox. during 08/17 07:45pm to 10:00 pm UTC\ncaused some users to be redirected to malicious smart contracts that can drain\nall approved token amount. FIRST, PLEASE check&revoke any approval to the\nfollowings:"
+    }
+}
