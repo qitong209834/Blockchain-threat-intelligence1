@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1685647455382355970",
+        "timestamp": "2023-07-30 21:34:35",
+        "original_content": "Looks like a reentrancy issue. And it seems a MEV bot front-running the\noriginal (failed) tx:\n[https://txinfo.peckshield.com/eth/0xb5d91f1e0afc96a52f8c6c28eae405eda7fcc5d34d6d03bdd8b16bd58089e939\u2026](https://t.co/XLk5ZbN7gn)"
+    }
+}
