@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1653149493133729794",
+        "timestamp": "2023-05-02 04:54:04",
+        "original_content": "It seems the\n\n[@Level__Finance](/Level__Finance)\n\n's LevelReferralControllerV2 contract has a bug that allows for repeated\nreferral claims from the same epoch. So far 214k LVLs have been drained and\nswapped into 3,345 BNB (~1M) Here is an example hack tx:\n[https://bscscan.com/tx/0xe1f257041872c075cbe6a1212827bc346df3def6d01a07914e4006ec43027165\u2026](https://t.co/isqHhzFk1Z)"
+    }
+}
