@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1635253247912079360",
+        "timestamp": "2023-03-13 16:59:10",
+        "original_content": "Our followup analysis shows the very first hack tx is from a frontrunning bot.\nThis bot gains nothing as the stolen $8.8M DAI funds are saved on another\ncontract under the control of the original hacker\n[https://etherscan.io/tx/0xdae809e4a1ddf77c39d44a4acfe6165bedbc19a385c4b241242cc9bd582a80b9\u2026](https://t.co/jjTNhJw4Nn)"
+    }
+}
