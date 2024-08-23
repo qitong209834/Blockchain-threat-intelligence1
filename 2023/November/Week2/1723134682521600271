@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1723134682521600271",
+        "timestamp": "2023-11-11 03:18:31",
+        "original_content": "The\n\n[@raft_fi](/raft_fi)\n\nhack leads to the mint of unbacked ~$6.7m stablecoin R. Our analysis shows the\nhack takes advantage of round issue and donation to (1) manipulate the\ncollateral token's index rate of rcbETH-c to borrow/mint $6.7m R and (2) mint\nextra rcbETH-c so that the donation can be fully redeemed back. Here is the\nrelated tx:\n[https://etherscan.io/tx/0xfeedbf51b4e2338e38171f6e19501327294ab1907ab44cfd2d7e7336c975ace7\u2026](https://t.co/VYGpcDDsiX)"
+    }
+}
