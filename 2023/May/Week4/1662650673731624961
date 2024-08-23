@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1662650673731624961",
+        "timestamp": "2023-05-28 10:11:03",
+        "original_content": "It appears today's\n\n[@jimbosprotocol](/jimbosprotocol)\n\nhack leads to the 4090 ETH loss (w/ ~$7.5M). This hack is due to the lack of\nslippage control of liquidity-shifting operation -- such that the protocol-\nowned liquidity is invested into a skewed/imbalanced price range, which is\nexploited in reverse swap for profit. Here comes the trace flow of the hack\ntx:\n[https://arbiscan.io/tx/0x44a0f5650a038ab522087c02f734b80e6c748afb207995e757ed67ca037a5eda\u2026](https://t.co/11DpqZOILo)"
+    }
+}
