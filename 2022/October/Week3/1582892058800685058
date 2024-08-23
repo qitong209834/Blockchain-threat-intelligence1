@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1582892058800685058",
+        "timestamp": "2022-10-20 08:30:50",
+        "original_content": "It seems the BGEO token's mint() is fundamentally flawed and allows for\nunlimited mints!\n[https://bscscan.com/tx/0x2673936a1191a35c24b60dd697644c953da321b4395b836439faa319b8335886\u2026](https://t.co/RMiFkW1CRv)"
+    }
+}
