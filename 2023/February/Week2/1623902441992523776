@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1623902441992523776",
+        "timestamp": "2023-02-10 11:34:04",
+        "original_content": "The estimated loss of today's\n\n[@dForcenet](/dForcenet)\n\nhack is \uff5e$3.65M (w/ 1,236.65 ETH + 719,437 USX on\n\n[@arbitrum](/arbitrum)\n\nand 1,037,492 USDC on @optimismFND). Our initial analysis shows the root cause\nis an oracle price issue. More details to come!"
+    }
+}
