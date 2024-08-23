@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1642799036972544006",
+        "timestamp": "2023-04-03 15:13:19",
+        "original_content": "?\n[#MEV] The interesting bundles from sandwich-\nfocused MEV bots on\n[https://etherscan.io/txs?block=16964664\u2026](https://t.co/vzttSFJknH) seems\nbroken. The backrun txs, which are supposed to do the reverse swap and take\nprofits, were reverted! Our analysis shows that the victim txs were replaced\nby the bot-exploiting transactions, which already included the reverse swap to\ntake profits. Who to blame?"
+    }
+}
