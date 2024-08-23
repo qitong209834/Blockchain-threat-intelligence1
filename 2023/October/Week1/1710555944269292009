@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1710555944269292009",
+        "timestamp": "2023-10-07 14:25:49",
+        "original_content": "Our initial analysis on today's\n\n[@starsarenacom](/starsarenacom)\n\n$2.9M hack indicates a reentrancy issue on the Stars Arena: Shares contract at\n[https://snowtrace.io/address/0xa481b139a1a654ca19d2074f174f17d7534e8cec#internaltx\u2026](https://t.co/Wm48TRTHvi)\nThe reentrancy is abused to update the weight when the share/ticket is issued\nso that 1 share can be sold at a much higher price ~274k\n[$AVAX]"
+    }
+}
