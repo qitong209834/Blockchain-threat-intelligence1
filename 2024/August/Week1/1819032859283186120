@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1819032859283186120",
+        "timestamp": "2024-08-01 23:30:04",
+        "original_content": "It seems\n\n[@Convergence_fi](/Convergence_fi)\n\nwas just exploited (w/ ~$210k loss) to mint 58m\n[$CVG] (58,718,395.05681812), which are\nswapped to 60 WETH and 15.9k crvFRAX. The bug is part of the\nCvxRewardDistributor contract, which does not validate the (untrusted) user\ninput to claim rewards. Here is the hack tx:\n[https://etherscan.io/tx/0x636be30e58acce0629b2bf975b5c3133840cd7d41ffc3b903720c528f01c65d9\u2026](https://t.co/Yv14bPEn1G)"
+    }
+}
