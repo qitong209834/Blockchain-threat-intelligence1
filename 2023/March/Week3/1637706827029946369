@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1637706827029946369",
+        "timestamp": "2023-03-20 14:45:09",
+        "original_content": "It appears the MEV Bot (0x000...2D4) is losing\n?\n[https://etherscan.io/address/0x000000000dfde7deaf24138722987c9a6991e2d4\u2026](https://t.co/2NRExtrSBA).\nAn example tx is supposed to be part of sandwich, but not the case:\n[https://etherscan.io/tx/0x9eec256bd3cf5bdbb7aa14a23f79289e065439785d055acc096bf9f36abbaa68\u2026](https://t.co/dhibBFoFYz)\n[https://etherscan.io/tx/0xa04dfaed667da3d8927a123860c3dca3b6ea985a3303036c26d91f3095f8ea6a\u2026](https://t.co/ijfRR6kEaq)"
+    }
+}
