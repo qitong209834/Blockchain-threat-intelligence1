@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1762870782495985750",
+        "timestamp": "2024-02-28 23:10:19",
+        "original_content": "Hi\n\n[@SenecaUSD](/SenecaUSD)\n\nWe have confirmed the critical approval bug in Seneca protocol that allows to\nsteal funds from approving users. Please revoke your approvals from the\nfollowing addresses: \\- eth: 0xbc83f2711d0749d7454e4a9d53d8594df0377c05 -arb:\n0x2d99e1116e73110b88c468189aa6af8bb4675ec9 We also notice the affected\ncontract is *NOT* pausable, even though it inherits from Pausable !"
+    }
+}
