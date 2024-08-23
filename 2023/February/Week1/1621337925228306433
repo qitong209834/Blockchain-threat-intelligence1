@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1621337925228306433",
+        "timestamp": "2023-02-03 00:08:07",
+        "original_content": "1/ Again, a $3M lesson from the reentrancy bug! The\n\n[@orion_protocol](/orion_protocol)\n\nis hacked due to a reentrancy issue in its core contract:\nExchangeWithOrionPool. Both eth/bsc deployment are hacked. Here are the two\nrelated hack txs:\n[https://bscscan.com/tx/0xfb153c572e304093023b4f9694ef39135b6ed5b2515453173e81ec02df2e2104\u2026](https://t.co/YvRIRq6T57)\n[https://etherscan.io/tx/0xa6f63fcb6bec8818864d96a5b1bb19e8bd85ee37b2cc916412e720988440b2aa\u2026](https://t.co/GbexocEZAo)"
+    }
+}
