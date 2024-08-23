@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1551053190904238080",
+        "timestamp": "2022-07-24 11:54:32",
+        "original_content": "The issue of @AudiusProject lies in inconsistent storage layout between its\nproxy and impl. In particular, the collision of Audius Community Treasury\ncontract results in an equivalence of disabling the initializer modifier. The\nproxyAdmin addr (0x..abac) plays a role here."
+    }
+}
