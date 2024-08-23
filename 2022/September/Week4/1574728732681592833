@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1574728732681592833",
+        "timestamp": "2022-09-27 19:52:41",
+        "original_content": "?\nA validator just received 36.54 ETH ($51k) from the MEV Builder: 0x690...990\n(flashbots relay?) @ 15624219\n([https://etherscan.io/block/15624219](https://t.co/oBqtc6Q1VL)). Here comes\nthe payment tx:"
+    }
+}
