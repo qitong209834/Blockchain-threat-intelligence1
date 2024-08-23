@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1690857760412610560",
+        "timestamp": "2023-08-14 06:47:59",
+        "original_content": "Hi\n\n[@zunamiprotocol](/ZunamiProtocol)\n\n, we have detected an ongoing attack. Users are strongly suggested to take\nnecessary actions. Here is the encrypted hash:\n2638ae2969ce932d61c3ca66f9b8a4a6c01c4d89bb2b34ddcf2c4145960f41c4. Actual hash\nwill be released once the situation is stable."
+    }
+}
