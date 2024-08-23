@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1526844751562977281",
+        "timestamp": "2022-05-17 00:23:26",
+        "original_content": "The vulnerable tokensReceived() function does not validate the caller\n\n[@ArtisLifeNet](/ArtisLifeNet)\n\n[https://polygonscan.com/tx/0x799760c3e0c6166b3818764fbe18ba25b6fab0229ee529341362cc46a6af7404\u2026](https://t.co/xcbjn8YpjT)"
+    }
+}
