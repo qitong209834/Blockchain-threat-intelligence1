@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1815930352373813590",
+        "timestamp": "2024-07-24 10:01:49",
+        "original_content": "[#PeckShieldAlert]\n[#Phishing] An address 0x0719...fdc9 has\nfallen victim to a [#phishing] by\n[#Fake_Phishing187019],\nresulting in a loss of a total of $4.7m worth of PT-ezETH & PT-zs-rsETH,\nincluding ~700 PT Zircuit Staking rsETH 22AUG2024 (PT-zs-rsETH-22AUG2024)\n(worth ~$2.4m) & ~688 PT Renzo ezETH 26DEC2024 (PT-ezETH-26DEC2024) (worth\n~$2.27m)"
+    }
+}
