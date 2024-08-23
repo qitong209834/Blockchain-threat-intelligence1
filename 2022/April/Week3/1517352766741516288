@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1517352766741516288",
+        "timestamp": "2022-04-19 22:26:06",
+        "original_content": "\u270d\ufe0f\nIt is a great thread.\n\n[@danielvf](/danielvf)\n\nAnd the ERC4626 tokenized vault implementation from\n\n[@RariCapital](/RariCapital)\n\nalso emphasizes the need to transfer before minting (or ERC777s could\nreenter)!!!"
+    }
+}
