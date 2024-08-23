@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/AegisWeb3/status/1650671442189783041",
+        "timestamp": "2023-04-25 09:21:54",
+        "original_content": "[#AegisWeb3Alert]\n[#rugpull] AegisWeb3 detected that\n[$OFI] dropped -95.9%, the deployer rugged\nand transferred ~85.5 [$ETH] to 0x34eA99.\n[$OEB] deployer 0xa14AdA removed ~521.9K\n[$USDC] & 3.56M\n[$OEB] liquidity from\n\n[@Uniswap](/Uniswap)\n\n, then swap them to [$ETH] and transferred\nto 0x34eA99."
+    }
+}
