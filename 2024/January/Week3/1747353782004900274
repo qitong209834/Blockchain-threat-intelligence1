@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1747353782004900274",
+        "timestamp": "2024-01-17 04:05:41",
+        "original_content": "Today's hack on\n\n[@SocketDotTech](/SocketDotTech)\n\nresults in the loss of >$3.3m. The bad route exploited in the hack was added 3\ndays ago and is now disabled. Here are related txs: \\- add route tx:\n[https://etherscan.io/tx/0x1df44e224c7a715da25fa33dcad2ca3a930d1a4dafd263e61c07b52673d505f4\u2026](https://t.co/NMCwaMD9PC)\n\\- disable route tx:\n[https://etherscan.io/tx/0xac75adcc1cb3fef158c4f200c48fcbcbb9b6ce3250bdf3751d6231d41a9e604b\u2026](https://t.co/igevpNoKCJ)\nThe hack is due to incomplete validation of user input, which is exploited to\nsteal funds from users who have approved the vulnerable SocketGateway contract\nat\n[https://etherscan.io/address/0x3a23f943181408eac424116af7b7790c94cb97a5\u2026](https://t.co/8PnDC5rp9t)"
+    }
+}
