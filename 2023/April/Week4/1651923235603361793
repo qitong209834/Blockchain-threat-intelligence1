@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1651923235603361793",
+        "timestamp": "2023-04-28 20:16:05",
+        "original_content": "With joint investigation with\n\n[@0vixProtocol](/0vixProtocol)\n\n, we determined the root cause is due to the introduction of a vulnerable\nVGHSTOracle,\n[https://polygonscan.com/address/0x738fe8a918d5e43b705fc5127450e2300f7b08ab\u2026](https://t.co/OYutkamVez),\nwhich was deployed on Mar-17-2023 and suffers from today's donation-based\nprice manipulation. Basically, the hacker involves a flashloan deposit of\n~24.5m USDC as collateral to borrow 5.4m USDT and 720k USDC. In the meantime,\nit involved a series of leveraged borrow of vGHST, which suffers from a\ndonation-based price manipulate and makes the hacker's borrow position\nliquidatable. The borrow position is then liquidated to take back the original\nUSDC collateral."
+    }
+}
