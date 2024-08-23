@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1518803977529294848",
+        "timestamp": "2022-04-26 12:07:40",
+        "original_content": "[#PeckShieldAlert] We detected\n[$JST] has its presale on\n\n[@pinkecosystem](/pinkecosystem)\n\n& is *backdoored*. The owner is EOA & may change its impl. (via Approve()). We\nurge users to remove their $~3.85m WBNB-JST LPs\n\n[@PancakeSwap](/PancakeSwap)\n\n, which are now at high risk. @JUMPNofficial\n[https://pinksale.finance/#/launchpad/0xEED76CD72E22C430F7723D5A655218A8425989f3\u2026](https://t.co/BuTC5x43zK)"
+    }
+}
