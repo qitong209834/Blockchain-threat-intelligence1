@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1678248292327763968",
+        "timestamp": "2023-07-10 11:42:27",
+        "original_content": "[#PeckShieldAlert] Our community\ncontributor has detected that\n\n[@ArcadiaFi](/ArcadiaFi)\n\nhas been exploited on both [#Ethereum]\nand [#Optimism] for ~$455K The exploiter\non [#Ethereum] was frontrun by\n0x5C75e94dD0Ab9c10BFd1B8073DafEF031D3c050d\n[https://etherscan.io/tx/0xefc4ac015069fdf9946997be0459db44c0491221159220be782454c32ec2d651\u2026](https://t.co/lZDFg5ymQ2)\nThe exploiter on [#optimism]\n(0xd3641c912a6a4c30338787e3c464420b561a9467) has already transferred ~179.3\n[$ETH] (bridged 148\n[$ETH] & swapped 59K\n[$USDC]) to Tornado Cash\n[https://optimistic.etherscan.io/tx/0xca7c1a0fde444e1a68a8c2b8ae3fb76ec384d1f7ae9a50d26f8bfdd37c7a0afe\u2026](https://t.co/e8EH0gXEwj)"
+    }
+}
