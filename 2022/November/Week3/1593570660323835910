@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PeckShieldAlert/status/1593570660323835910",
+        "timestamp": "2022-11-18 19:43:47",
+        "original_content": "[#PeckShieldAlert]\n[#MEVBoost]\n?\nA anon validator rewarded 93.15 ETH ($113k) via the @\n\n[@builder0x69](/builder0x69)\n\nbuilder @ block#15995535. The [#MEV] bot pays\n93.1 gas fee to backrun the following large UniswapV2 MCB_WETH swap:"
+    }
+}
