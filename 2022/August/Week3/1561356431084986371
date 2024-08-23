@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1561356431084986371",
+        "timestamp": "2022-08-21 22:15:56",
+        "original_content": "The BSC deployment of\n\n[@CreamdotFinance](/CreamdotFinance)\n\nsuffers from a liquidity crisis, caused by (inappropriately?) allowing a\ncredit user\n[https://bscscan.com/address/0xe94f7a43d3fd2a159952a28b23d3a181564b7baa\u2026](https://t.co/rRerZihJ6C)\nto borrow up to 107k BNB limit w/o collateral. The credit user is a 1-out-2\nmultisig wallet and borrowed 25.7k BNB debt on 06/27.[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1822938734461165569/7TP8eKvu?format=jpg&name=small)](https://t.co/2Su6L0RKLk)\n"
+    }
+}
