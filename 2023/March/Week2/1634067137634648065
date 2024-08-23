@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1634067137634648065",
+        "timestamp": "2023-03-10 13:42:19",
+        "original_content": "Hi @Mosquitos_Fin, we observed the sudden 99.9% price drop of\n[$SUCKR] on\n[$Aptos]. Our analysis shows the admin\n0x760...cff3 minted 100M SUCKRs & immediately swap to\n[$USDT] via\n\n[@PontemNetwork](/PontemNetwork)\n\n's liquidityswap. (Admin key leak?) Here is the mint tx:\n[https://explorer.aptoslabs.com/txn/99278879](https://t.co/7PYLOzvgtx)\n\n[@AptosLabs](/AptosLabs)"
+    }
+}
