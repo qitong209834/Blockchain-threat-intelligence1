@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1682354822899712001",
+        "timestamp": "2023-07-21 19:08:11",
+        "original_content": "Hi\n\n[@ConicFinance](/ConicFinance)\n\nBased on the initial analysis from the malicious tx, our initial analysis\nshows the root cause comes from the new CurveLPOracleV2 contract.\n[https://etherscan.io/tx/0x8b74995d1d61d3d7547575649136b8765acb22882960f0636941c44ec7bbe146\u2026](https://t.co/LnMguJEvV0)\nFWIW, our audit identifies a similar read-only reentrancy issue. However, the\nsame issue is introduced in the newly introduced CurveLPOracleV2 contract,\nwhich was not part of the audit scope."
+    }
+}
