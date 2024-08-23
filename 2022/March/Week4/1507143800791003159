@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1507143800791003159",
+        "timestamp": "2022-03-24 23:58:41",
+        "original_content": "Hi, @PyeEcosystem You may need to explain why the caller verification is\nremoved in the PYESwapPair. Otherwise, this is an inside job!!! Note the lack\nof caller verification is the key behind the hack (anyone now can drain the LP\nliquidity)! Thanks for the tip\n\n[@DegenSwapDex](/DegenSwapDex)"
+    }
+}
