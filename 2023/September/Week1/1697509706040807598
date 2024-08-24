@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1697509706040807598",
+        "timestamp": "2023-09-01 15:20:26",
+        "original_content": "?Our\nsystem has detected a multiple suspicious transactions with following tokens\ndeployers: \\- [$ROE] \\-\n[$PRIN] \\-\n[$WARM] \\-\n[$SFM] Total of 94\n[$ETH] $155K has gained and transferred to\ndifferent EOAs. Addresses ?\n[#CyversAlert]"
+    }
+}
