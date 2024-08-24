@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1682011700831059969",
+        "timestamp": "2023-07-20 20:56:54",
+        "original_content": "?Our\nsystem has detected a flashloan attack at\n[https://bscscan.com/tx/0x4ea0dbe5b7e7395a42098d24c9fcd96cfb4b434c438102dbd4dc79ab58f4d245\u2026](https://t.co/FfaqsFW9j7)\nBefore invoking withdrawLP(), the attacker purchased CMC and BAeT tokens,\nresulting in a profit of approximately $7.2K Attacker address:\n[https://bscscan.com/address/0x4c1f90281421ca00207f7890342eaa808c322e5a\u2026](https://t.co/Do21LCAx57)\n[#CyversAlert]"
+    }
+}
