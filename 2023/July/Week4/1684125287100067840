@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1684125287100067840",
+        "timestamp": "2023-07-26 16:55:32",
+        "original_content": "?Our\nsystem has detected a malicious transaction at\n[https://etherscan.io/tx/0x566e0693a9b91da7dcb9a73df75692b9b34a03acd59904ed369aecee7004dbee\u2026](https://t.co/Gpezd56X9D)\nAttacker was able to gain $27.K and distributed to EOA via\n[https://etherscan.io/address/0x83148f56e0403f30a8a85125aa0c36f912828053\u2026](https://t.co/Pg0OaGzWk9)\nAttacker address:\n[https://etherscan.io/address/0x9af4d799d432cde13165ac84f215d511cbdadfcf\u2026](https://t.co/NAWwWPpfmu)\n[#CyversAlert]"
+    }
+}
