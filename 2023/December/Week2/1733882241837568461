@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Cyvers_/status/1733882241837568461",
+        "timestamp": "2023-12-11 00:11:55",
+        "original_content": "? On Nov 23, 2023, a hacker\nexploited a KyberSwap smart contract vulnerability, stealing $45M. This caused\nKyberSwap's TVL to plummet by 90%. Our alert system was the first to detect\nthis breach.\n\n[@CyversAlerts](/CyversAlerts)\n\n[@KyberNetwork](/KyberNetwork)"
+    }
+}
