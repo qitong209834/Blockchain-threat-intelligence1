@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1714625825083953487",
+        "timestamp": "2023-10-18 20:30:53",
+        "original_content": "?It\nseems that the transaction below\n? was the front run of the\noriginal attack. Original malicious contract:\n[https://etherscan.io/address/0x16ae74e51cc134fcb374be1f59fd7abc41816b96\u2026](https://t.co/VfFgHUYuPD)\nWe have detected the deployment of a malicious contract with hardcoded victim\naddresses 30 seconds prior to the attack\n[#CyversAlert]"
+    }
+}
