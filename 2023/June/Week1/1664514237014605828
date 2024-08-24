@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1664514237014605828",
+        "timestamp": "2023-06-02 14:08:13",
+        "original_content": "?\nOur system has detected a malicious transaction at\n[https://polygonscan.com/tx/0xa1f2377fc6c24d7cd9ca084cafec29e5d5c8442a10aae4e7e304a4fbf548be6d\u2026](https://t.co/0nJYOmX3pZ)\nit seems that it was front running at\n[https://polygonscan.com/tx/0x0ef500ef64e6921eb80d69dddbcd662eb9c52a2e0e147943a33e2df989fd294d\u2026](https://t.co/m62mqQ7apE)\n[#wdaoeon] has lost $30K, attacker was\nfunded by\n\n[@TornadoCash](/TornadoCash)\n\n. [#CyversAlert]"
+    }
+}
