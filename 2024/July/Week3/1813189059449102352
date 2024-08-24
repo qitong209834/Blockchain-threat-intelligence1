@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1813189059449102352",
+        "timestamp": "2024-07-16 20:28:53",
+        "original_content": "?\n\n[@lifiprotocol](/lifiprotocol)\n\n, Our system has raised suspicious transactions involving your\n[https://etherscan.io/address/0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae\u2026](https://t.co/vhoz6y6aKf)\nWe recommend users to revoke their approvals for:\n0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae More than $8M have been drained so\nfar from users and mostly stablecoins! Attacker is already swapping\n[$USDC],\n[$USDT] to\n[$ETH]. Details will follow soon!\n[#CyversAlert]"
+    }
+}
