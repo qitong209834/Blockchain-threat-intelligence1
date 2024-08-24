@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1811317276588605834",
+        "timestamp": "2024-07-11 16:31:06",
+        "original_content": "?The\nwebsite http://compound[.]finance (\n\n[@compoundfinance](/compoundfinance)\n\n) has been compromised and is currently being used for phishing. Please avoid\ninteracting with the http://compound[.]finance site until further notice. The\nCompound protocol itself remains unaffected, and all smart contract funds are\nsecure. [#CyversAlert]"
+    }
+}
