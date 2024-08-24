@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1688451066231185408",
+        "timestamp": "2023-08-07 15:24:38",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0xdf5bcbd4067f7451c759582047aa0b6e332297dc3c27e4b01e63198f8df041dc\u2026](https://t.co/TnmiErVysD)\n[https://etherscan.io/address/0xd4d5332c7133978f34eb0b40e78475cab93367e3\u2026](https://t.co/bGhFMOaX1F)\nhas bridged 635 [$ETH] from\n[#ARBITRUM] and deposited 733\n[$ETH] to\n\n[@TornadoCash](/TornadoCash)\n\n[#CyversAlert]"
+    }
+}
