@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1702272298705670152",
+        "timestamp": "2023-09-12 21:44:13",
+        "original_content": "?\nOn September 12, Our system detected a $54M hack at\n\n[@coinexcom](/coinexcom)\n\nThe breach impacted hot wallets across 19 chains CoinEx halted crypto\ndeposits/withdrawals Moved assets to safe addresses. Rebuilt, redeployed\nwallet system Asked exchanges to freeze attackers' assets"
+    }
+}
