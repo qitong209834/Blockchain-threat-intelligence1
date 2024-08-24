@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1785586224406642892",
+        "timestamp": "2024-05-01 15:32:02",
+        "original_content": "?\n\n[@PikeFinance](/PikeFinance)\n\nhas experienced a security breach and cause more than $1.6M loss on\n[#ARB], [#ETH]\nand [#OP] chains due the initial USDC\nvulnerability reported on April 26th, protocol paused for upgrades. The\ninclusion of a new dependency shifted storage layout, causing misalignment.\nAttackers leveraged this to upgrade contracts, bypass admin access, and\nwithdraw funds! Read more ?\n[#CyversAlert]"
+    }
+}
