@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1684195658339610625",
+        "timestamp": "2023-07-26 21:35:10",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0x4358608caa219a652d17ea027c243008af857b61542fd139e28ea2fe774bd1b3\u2026](https://t.co/imnrWdXz8g)\nIt seems that deployer of the [$TERK]\ntoken has removed 65 [$ETH] $121K from\nliquidity pool. Funds are currently sitting at deployer address\n[https://etherscan.io/address/0x82d8ee740fa7dfb0c9bfedeee552ff3acdfded92\u2026](https://t.co/98IpWlrOkx)\nIs it a rugpull? [#CyversAlert]"
+    }
+}
