@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1678676145628225538",
+        "timestamp": "2023-07-11 16:02:36",
+        "original_content": "?Our\nsystem has detected a malicious contract interaction with (L-ETHUSDT-T1)\ntoken. Attacker gained $167K at\n[https://etherscan.io/tx/0xcb0ad9da33ecabf75df0a24aabf8a4517e4a7c5b1b2f11fee3b6a1ad9299a282\u2026](https://t.co/UNbnS9FTu2)\nSame attacker also attacked on [#Polygon]\nand gained $232K at\n[https://explorer.phalcon.xyz/tx/polygon/0x7320accea0ef1d7abca8100c82223533b624c82d3e8d445954731495d4388483\u2026](https://t.co/1iLDCuRCY2)\nAttacker is funded by\n\n[@TornadoCash](/TornadoCash)\n\n! [#CyversAlert]"
+    }
+}
