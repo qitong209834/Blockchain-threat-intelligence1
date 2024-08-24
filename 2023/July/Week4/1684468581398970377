@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1684468581398970377",
+        "timestamp": "2023-07-27 15:39:40",
+        "original_content": "?Our\nsystem has detected multiple malicious transactions at\n[https://etherscan.io/tx/0xc9d3e2f260e785454517f3e07f4089e1434066507b6b4a91e68b3e0cc56c2ca5\u2026](https://t.co/ZvhzL9Uf6F)\n[https://etherscan.io/tx/0x02f1dadb1101ee2ce1c5e6f576be1e17ff1073d88e0655ed795b1aa263a958bc\u2026](https://t.co/wtajV8BzF8)\nIt seems that\n\n[@Equalizer_Fi](/Equalizer_Fi)\n\nhas been exploited around $7.5K Attacker\n0x740d618e92484b6f142e49b3644b26cc370232be has deposited 3.2\n[$ETH] $6.K to\n\n[@okx](/okx)\n\n[#CyversAlert]"
+    }
+}
