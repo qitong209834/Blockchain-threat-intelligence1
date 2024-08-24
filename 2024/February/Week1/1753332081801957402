@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1753332081801957402",
+        "timestamp": "2024-02-02 16:18:38",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0xcf834aff4de9992f5da9c443600dad9c6277a8a00de5007842fece51564992db\u2026](https://t.co/vH9Eo3yPXV)\nAttacker has been funded by\n\n[@PineProtocol](/PineProtocol)\n\n's exploiter. Total loss is around 40.2K. Victim:\n[https://etherscan.io/address/0xde46fcf6ab7559e4355b8ee3d7fba0f2730cddd8\u2026](https://t.co/vtANvZd28O)\nAttacker:\n[https://etherscan.io/address/0x24a0c66f185874b251eb70bee2c2e35e39848419\u2026](https://t.co/0JQMlLpbrD)\nAll the funds are deposited to\n\n[@FixedFloat](/FixedFloat)\n\n. Every\n\n[@Cyvers_](/Cyvers_)\n\ncustomer is safe! and assets monitored by\n\n[@Cyvers_](/Cyvers_)\n\nnever have been hacked. 0 incidents!\n[#CyversAlert]"
+    }
+}
