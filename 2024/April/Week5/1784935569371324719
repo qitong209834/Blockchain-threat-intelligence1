@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1784935569371324719",
+        "timestamp": "2024-04-29 19:48:44",
+        "original_content": "?Our\nsystem has detected an another address that fell victim to an address\npoisoning transaction at\n[https://etherscan.io/tx/0xecd48ffd8d6a09f1ca18e7acbaad4ff4f70116d70fa65dab842a7cd1651df8a0\u2026](https://t.co/xPGjc5XNXa)\nVictim's address:\n[https://etherscan.io/address/0x1f3dcbd4f9b6c5fdf5c732590bebed6586d836f7\u2026](https://t.co/N397VfAXxk)\nScammer's address:\n[https://etherscan.io/address/0xd7F373cFbe7E36ffE2958a0A6E581846FE7B7403\u2026](https://t.co/RGiEiHBFZl)\n[#CyversAlert]"
+    }
+}
