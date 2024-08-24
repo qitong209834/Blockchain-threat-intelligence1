@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1681912784903188480",
+        "timestamp": "2023-07-20 14:23:51",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://bscscan.com/tx/0xeb4eb487f58d39c05778fed30cd001b986d3c52279e44f46b2de2773e7ee1d5e\u2026](https://t.co/Kw0iad0bxf)\nIt seems that [$Utopia] has been hack.\nAttacker has funded 1 [$BNB] from\n\n[@TornadoCash](/TornadoCash)\n\nLoss is 496 [$BNB] $120K. Attacker address\n[https://bscscan.com/address/0xe84ef3615b8df94c52e5b6ef21acbf0039b29113\u2026](https://t.co/uDpAwj8GbM)\nSee attacker behavior\nbelow?\n[#CyversAlert]"
+    }
+}
