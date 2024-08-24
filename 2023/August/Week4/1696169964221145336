@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1696169964221145336",
+        "timestamp": "2023-08-27 16:26:17",
+        "original_content": "?Our\nsystem has detected 2 more hack transactions with\n\n[@Balancer](/Balancer)\n\n:\n[https://etherscan.io/tx/0x72a655cedf8dca4551db987a8196d5063a768be48cfba64553f0b6087e64686e\u2026](https://t.co/E2wlWkAjVd)\n[https://etherscan.io/tx/0xaee36c67ea4d0523e3db9137204712abb16c79bcb2907bf47cec88c2485c8b75\u2026](https://t.co/YR5zJQHf5i)\nTotal loss in these two transactions about $20K Attackers:\n[https://etherscan.io/address/0xcc3a5dc003b3a58621745a39f706ef9646d5c481\u2026](https://t.co/oJ9Rke8rmM)\n[https://etherscan.io/address/0xed187f37e5ad87d5b3b2624c01de56c5862b7a9b\u2026](https://t.co/xvTV3C3Mnk)\n[#CyversAlert]"
+    }
+}
