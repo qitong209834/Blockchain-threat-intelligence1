@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1678829392590434316",
+        "timestamp": "2023-07-12 02:11:32",
+        "original_content": "?Our\nsystem has detected a suspicious transaction initiated by\n\n[@aic3p0](/aic3p0)\n\n's deployer at\n[https://etherscan.io/tx/0x58b6bd04a069b3bd5b181f68bb11b6c7aa60bb5dd12fb3ecc1ee8da1d6e03fa9\u2026](https://t.co/lggwd6p4Uo)\nDeployer has removed 79 [$ETH] $148K from\n[#Uniswap] and moved to\n0x7147Cb04d1DC736eD60eC9DB7AeccFB5E0822b96 Their twitter address is\nsuspended!! [#CyversAlert]"
+    }
+}
