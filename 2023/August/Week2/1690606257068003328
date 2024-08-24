@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1690606257068003328",
+        "timestamp": "2023-08-13 14:08:36",
+        "original_content": "?Our\nsystem has detected anther attack on\n\n[@CurveFinance](/CurveFinance)\n\nvyper 0.3.0 pool. The attacker has been funded by ChangeNOW. Vyper Contract:\n[https://etherscan.io/address/0x8301ae4fc9c624d1d396cbdaa1ed877821d7c511\u2026](https://t.co/q1zYANSylt)\nExploit Transaction:\n[https://etherscan.io/tx/0x1c51db2e21366a94a1e373c278294618495a2addfd5c51e018761446a59d1ec7\u2026](https://t.co/csWt7UM8Dw)"
+    }
+}
