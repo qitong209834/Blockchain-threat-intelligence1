@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1737416245450772696",
+        "timestamp": "2023-12-20 16:09:45",
+        "original_content": "?Our\nAI system has detected another malicious transaction with\n\n[@TransitFinance](/TransitFinance)\n\nat\n[https://etherscan.io/tx/0xbcadedcea05457066682a20df9af8af9ad29c29a907e668a674934418099b838\u2026](https://t.co/5xELr0AEMc)\nAttacker was able to gain $1K with that transaction! Furthermore, the\nattacker, claiming to be a whitehat hacker, has requested to be contacted by\nthe affected parties. Exploiter also sent an on-chain message to\n\n[@BlockSecTeam](/BlockSecTeam)\n\nat\n[https://etherscan.io/tx/0x2a94b557ac35497dcffcb1dbab4a61887bdbb53a487bbb98c03affaac7e22c3d\u2026](https://t.co/HrVvMMwwAi)\n[#CyversAlert]"
+    }
+}
