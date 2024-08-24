@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1682273155702747137",
+        "timestamp": "2023-07-21 14:15:50",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0x758208aa6dafd3d1b6f2b1e1e457c99a4b2af791699b431975dc5e90eb8ad6e2\u2026](https://t.co/pyo1pncPWp)\nDeployer of [$SCO] token has removed 128\n[$ETH] $243K from liquidity pool and\ntransferred to\n[https://etherscan.io/address/0xdab778b5e78fd68c39e3b80bceccdeab4a57f5c1\u2026](https://t.co/SjAJYUhQ9W)\n[#CyversAlert]"
+    }
+}
