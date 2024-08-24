@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/stanchev_33/status/1813861686807310833",
+        "timestamp": "2024-07-18 17:01:40",
+        "original_content": "If you're currently participating in the\n\n[@Karak_Network](/Karak_Network)\n\nRestaking contest on\n\n[@code4rena](/code4rena)\n\n, make sure that you read the ERC-4626: Tokenized Vault standard. It is\ncrucial to understand it, as it allows ERC-20 tokens to be represented as\nshares of a tokenized vault, while keeping the basic ERC-20\nfunctionality(deposit, withdraw etc.). Make sure to read it thoroughly. Here\nis a link to the\ndocumentation?\n[https://eips.ethereum.org/EIPS/eip-4626](https://t.co/HXo5ZwspFb)"
+    }
+}
