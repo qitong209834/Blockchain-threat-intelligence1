@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/PrismaFi/status/1773316945430852058",
+        "timestamp": "2024-03-28 19:51:21",
+        "original_content": "We are aware of a possible exploit on Prisma. Core engineering contributors\nwill pause the protocol and investigate. We'll share an update and a post-\nmortem."
+    }
+}
