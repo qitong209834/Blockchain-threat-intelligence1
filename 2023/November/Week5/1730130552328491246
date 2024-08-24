@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1730130552328491246",
+        "timestamp": "2023-11-29 16:59:33",
+        "original_content": "?\n\n[@FinanceFlorence](/FinanceFlorence)\n\n's multi-sign Safe wallet lost $1.45M to address poisoning attacks about 1 day\nago! We have reached out the team and they are investigating the incident! The\nphisher converted [$USDC] to\n[$DAI] in a single transaction to avoid\nfreezing! Phisher has funded by\n\n[@FixedFloat](/FixedFloat)\n\n. Attacker transferred the stolen 727\n[$ETH] $1.45M to 20 different BTC\naddresses via\n\n[@THORChain](/THORChain)\n\nAttacker address:\n[https://etherscan.io/address/0x88e22f0feedecead439786c76474ec518edbc1e8\u2026](https://t.co/wCmyjIC3zz)\nVictim address:\n[https://etherscan.io/address/0x26e4cb4a6787419ac53b7d3fe92fa1dad1c8548e\u2026](https://t.co/FMm6IdRGN1)\nReach out to us to protect your digital assets!\n[#CyversAlert]"
+    }
+}
