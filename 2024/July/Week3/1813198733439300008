@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1813198733439300008",
+        "timestamp": "2024-07-16 21:07:20",
+        "original_content": "?Announcement\nfrom\n\n[@lifiprotocol](/lifiprotocol)\n\nteam? Only users that have\nmanually set infinite approvals seem to be affected. Revoke all approvals for:\n0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae\n0x341e94069f53234fE6DabeF707aD424830525715\n0xDE1E598b81620773454588B85D6b5D4eEC32573e\n0x24ca98fB6972F5eE05f0dB00595c7f68D9FaFd68\n[#CyversAlert]\n[https://x.com/lifiprotocol/s/lifiprotocol/status/1813196697641570635\u2026](/lifiprotocol/status/1813196697641570635)"
+    }
+}
