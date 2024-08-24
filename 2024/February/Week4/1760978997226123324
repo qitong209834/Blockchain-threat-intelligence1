@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1760978997226123324",
+        "timestamp": "2024-02-23 18:44:45",
+        "original_content": "?\n\n[@Jihoz_Axie](/Jihoz_Axie)\n\n's wallets on Ronin Network, co-founder of\n\n[@Ronin_Network](/Ronin_Network)\n\n, have been breached due to a private key compromise. The total loss amounts\nto approximately $10M worth of [$RON]\ntokens. Despite this, it's crucial to note that the\n\n[@Ronin_Network](/Ronin_Network)\n\nremain unaffected by the incident. Hack\nTransactions:?\n[https://app.roninchain.com/tx/0x6a89b582d37920e7c5ffde327417c2fd06f39c4c4a9aeef6e8bb3a45096f0585\u2026](https://t.co/FOpizW65ks)\n[https://app.roninchain.com/tx/0xe5fcb3ea3993811a23eb919a2c78806a9af7ea907f0c5abf4d85394aba937003\u2026](https://t.co/2D0AE01Gpb)\n[https://app.roninchain.com/tx/0x87841c81acde4828c10e7ce51f033c1bca613a0eaee2000a1ee6df3c3827830e\u2026](https://t.co/3kPfGLZM5Y)\n[https://app.roninchain.com/tx/0x002e0c2213ea72c5ea749f6fa00f74c7bfab792189255fe9046c3aa865a68d1f\u2026](https://t.co/BzoZQbdRVD)\nThe stolen funds were initially transferred to the hacker's address\n[https://etherscan.io/address/0x39f817976c51a91b60145febad81067e69713105\u2026](https://t.co/tab7QtI5uy)\non the Ronin chain and subsequently moved to\n[$ETH], eventually being deposited to\n\n[@TornadoCash](/TornadoCash)\n\n. [#CyversAlert]"
+    }
+}
