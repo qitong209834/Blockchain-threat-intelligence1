@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1697142817431101706",
+        "timestamp": "2023-08-31 15:02:33",
+        "original_content": "?Our\nAI-powered system has detected multiple\n[#rugpull] transactions with the deployer\nof [$ESP]. The deployer has executed 12\ntransactions at the following address:\n[https://etherscan.io/address/0xee34Cc550D130A1Ac6292d396266b344cf3C0f18\u2026](https://t.co/QYwfwc6p3F).\nThe rug puller has summed of $91K across these 12 transactions.\n[#CyverAlert]"
+    }
+}
