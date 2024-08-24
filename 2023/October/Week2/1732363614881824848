@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1732363614881824848",
+        "timestamp": "2023-10-08 00:31:59",
+        "original_content": "?Our\nsystem has detected an [#OTC] scammer at\n[https://etherscan.io/address/0xe7408135417549d46704eeB959b8D85aAEc7Bd48\u2026](https://t.co/t9zrQYQu1f)\nstarted transferring [$USDT] to\n[https://etherscan.io/address/0x05bd4f6dcfc493a951e8e99b1ace4c433ed3dfd8\u2026](https://t.co/ZH5CpaI4fV).\nThe scammer has already transferred $7.2M in\n[$USDT] and currently retains $7.5M worth\nof digital assets, including $5.8M in\n[$USDT] at the main address.\n\n[@Tether_to](/Tether_to)\n\n, you may want to consider freezing these\n[$USDT] before the scammer attempts to\nswap them! [#CyversAlert]"
+    }
+}
