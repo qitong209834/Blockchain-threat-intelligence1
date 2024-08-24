@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1770375243900629497",
+        "timestamp": "2024-03-20 14:44:17",
+        "original_content": "?\n\n[@paraswap](/paraswap)\n\n's vulnerability resulted in a total loss of $123.5K across\n[$ETH],\n[#POLYGON], and\n[#ARB]. [#ETH]\nTRX: 0x1de32e063b42cfa8c288810871c080902847ce9e823d48975d67b6702319b3d9\n[#Polygon] TRX:\n0x1de32e063b42cfa8c288810871c080902847ce9e823d48975d67b6702319b3d9\n0x9eee7bddbcfd83eaf28414e98572791a97767b11529088c6ff92c58cd559660e\n0x3c70c92ad324843c86541e9548636798cf214e7a8eedc315b670d9cddb546d0d\n[#ARB] TRX:\n0x96ff800bd652f805f46b982589380fef32cc080ad0423b6f399aeb8441c229fa\n0xe7b7cebc6f3aface0e7d9279e7eb007280e4f90a81285abeb4e08c40439645f3 Do NOT\nforget to revoke your approvals for 0x00000000FdAC7708D0D360BDDc1bc7d097F47439\n[#CyversAlert]"
+    }
+}
