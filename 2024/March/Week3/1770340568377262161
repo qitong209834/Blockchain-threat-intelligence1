@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1770340568377262161",
+        "timestamp": "2024-03-20 12:55:05",
+        "original_content": "?\n\n[@paraswap](/paraswap)\n\nhas detected a critical vulnerability in the Augustus V6 contract. To\nsafeguard your funds, we strongly advise revoking your approvals immediately!\n[#CyversAlert]"
+    }
+}
