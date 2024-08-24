@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/GalloDaSballo/status/1794072198178587078",
+        "timestamp": "2024-05-25 00:48:57",
+        "original_content": "My favourite findings: \\- Minting the right address allows stealing all funds\nvia execute (77) \\- How to find an encoding error with fuzzing (69) \\- How I\nused Recon to find me a way to drive the twTap cumulative to 0 causing a DOS\n(55)"
+    }
+}
