@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1678658843021131776",
+        "timestamp": "2023-07-11 14:53:50",
+        "original_content": "?Our\nsystem has detected a suspicious transaction with\n[$SPIDER] token. Token deployer has\nremoved 58 [$eth] $110K at\n[https://etherscan.io/tx/0x1c3ae40bd8509daacc17baff3ae7564e043ee5b9471c9a3db5016552a5646000\u2026](https://t.co/SyWVIeTWC7)\ntransferred to EOA\n[https://etherscan.io/address/0xa0a9a015e42fadadab3df5df910ae7547597d3e8\u2026](https://t.co/J3uYt7xhCP)\n[#CyversAlert]"
+    }
+}
