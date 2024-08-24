@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1722383051886321926",
+        "timestamp": "2023-11-09 04:14:35",
+        "original_content": "?Today,\n\n[@coinspotau](/coinspotau)\n\nhas experienced a major hack due to the possible hot wallet access control.\nAttacker has gained around $2.4M from two different\n\n[@coinspotau](/coinspotau)\n\n's hot wallet. Attacker swapped some of the stolen\n[$ETH] to 24\n[$WBTC] then, bridged to\n[$BTC] Lastly, 831\n[$ETH] bridged to\n[$BTC] via\n\n[@THORChain](/THORChain)\n\nWe appreciate the help of\n\n[@tayvano_](/tayvano_)\n\nand\n\n[@zachxbt](/zachxbt)\n\n[#CyversAlert]"
+    }
+}
