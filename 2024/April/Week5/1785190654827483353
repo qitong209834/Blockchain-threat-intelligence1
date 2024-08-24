@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1785190654827483353",
+        "timestamp": "2024-04-30 14:13:14",
+        "original_content": "?Our\nsystem has identified a suspicious transaction linked to\n\n[@yield](/yield)\n\n. This suspicious address has been flagged since the malicious contract\ndeployment. The attacker managed to acquire $181K, initially funded by\n\n[@ChangeNOW_io](/ChangeNOW_io)\n\non [#Arbitrum]. The funds remain in the\nattacker's address. Contact us at\n\n[@Cyvers_](/Cyvers_)\n\nto discover how to better protect your digital assets\n[#CyversAlert]"
+    }
+}
