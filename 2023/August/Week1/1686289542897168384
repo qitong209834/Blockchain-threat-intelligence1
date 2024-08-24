@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1686289542897168384",
+        "timestamp": "2023-08-01 16:15:31",
+        "original_content": "?Hey\n@HUTA0Spirit , Our system has detected a suspicious transaction at\n[https://etherscan.io/tx/0x4c839977001b05b4867b563a43324ed7b640f7a6474209ac38fa1cc3fa5e41e5\u2026](https://t.co/D2K4FOUbKh)\nIt seems that deployer [$HUTAO] has\nremoved 163 [$ETH] $306K. 100\n[$ETH] transferred to\n\n[@cointool](/cointool)\n\nand 30 [$ETH] is deposited to\n\n[@TornadoCash](/TornadoCash)\n\nvia\n[https://etherscan.io/address/0xdd53bbcfea5adafd28b08a54f1ac0fc67f74c862\u2026](https://t.co/YFVzQKpJSA)\n[#CyversAlert]"
+    }
+}
