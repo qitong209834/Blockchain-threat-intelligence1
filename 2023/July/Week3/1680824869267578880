@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1680824869267578880",
+        "timestamp": "2023-07-17 14:20:51",
+        "original_content": "?Our\nsystem has detected a malicious contract interaction called\n\"USDTStakingContract28\" at\n[https://etherscan.io/tx/0xfc872bf5ca8f04b18b82041ec563e4abf2e31e1fc27d1ea5dee39bc8a79d2d06\u2026](https://t.co/VpcZyLTR3I)\nVictim \"0x800cf\" has lost 21K [$USDT] .\nAttacker has funded by\n\n[@TornadoCash](/TornadoCash)\n\nand swapped stolen funds for 11 [$ETH]\ndeposited to\n\n[@TornadoCash](/TornadoCash)\n\n[#CyversAlert]"
+    }
+}
