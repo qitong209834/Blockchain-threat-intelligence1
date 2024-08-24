@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1717058135267922048",
+        "timestamp": "2023-10-25 13:58:55",
+        "original_content": "?Our\nsystem has detected multiple malicious transactions with\n\n[@MaestroBots](/MaestroBots)\n\nIt seems that their contract\n[https://etherscan.io/address/0x80a64c6D7f12C47B7c66c5B4E20E72bc1FCd5d9e\u2026](https://t.co/I0JmcU9zo0)\nhas been compromised. Attacker was able to gain 280\n[$ETH] $500K and deposited to\n[#railgun] Attacker:\n[https://etherscan.io/address/0xce6397e53c13ff2903ffe8735e478d31e648a2c6\u2026](https://t.co/ANrCtokOdS)\nMalicious contract:\n[https://etherscan.io/address/0xe6c6e86e04de96c4e3a29ad480c94e7a471969ab\u2026](https://t.co/C5uIbQQ3di)\nWe have detected the malicious contract deployment 2 min earlier than an\nattack transactions?\n[#CyversAlert]"
+    }
+}
