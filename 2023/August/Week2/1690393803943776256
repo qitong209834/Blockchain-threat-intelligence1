@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1690393803943776256",
+        "timestamp": "2023-08-13 00:04:23",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0x7b675b1d5be88dd25ac998b8f4f0ae044f654e5089fd1e566aa06858b6ad96e0\u2026](https://t.co/XllHZEyOg0)\n\n[@safe](/safe)\n\nuser has lost $72K worth of [$CRV]\n[$USDT]\n[$WBTC] and\n[$WETH]. Attacker has funded by\n\n[@RAILGUN_Project](/RAILGUN_Project)\n\n. Attacker has swapped all for [$DAI] and\nsent them to\n\n[@RAILGUN_Project](/RAILGUN_Project)\n\n. [#CyversAlert]"
+    }
+}
