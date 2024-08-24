@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1762871679372382634",
+        "timestamp": "2024-02-29 00:05:35",
+        "original_content": "?It\nseems that\n\n[@SenecaUSD](/SenecaUSD)\n\nis under an ongoing attack due to an open external call vulnerability! We urge\nyou to revoke all approvals for\n? ETH:\n0xbc83f2711d0749d7454e4a9d53d8594df0377c05 ARB:\n0x2d99e1116e73110b88c468189aa6af8bb4675ec9\n[#CyversAlert]"
+    }
+}
