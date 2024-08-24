@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1695734265604943993",
+        "timestamp": "2023-08-27 16:26:17",
+        "original_content": "?\n\n[@Balancer](/Balancer)\n\n, we saw another malicious transaction at\n[https://etherscan.io/tx/0x773fa597c4b58f86ee91b2c57d0d4b12014a60b939a6eb186d50ec45300bfa4a\u2026](https://t.co/3LZ2CreVff)\nHacker, now executed another transaction and got $240K. You may want to pause\nyour protocol. Is this related to your recent security report? You may contact\nus for protection! [#CyversAlert]"
+    }
+}
