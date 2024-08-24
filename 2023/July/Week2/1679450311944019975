@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1679450311944019975",
+        "timestamp": "2023-07-13 19:18:51",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0x9b88f32f82b7f43fee1b8e430cbe8ce8374ba460fc3a6c45447124634d5ae4c6\u2026](https://t.co/8h920D0NVR)\nDeployer of @agenttssmith token has removed 121\n[$eth] $226K. Website\n[https://agenttssmith.xyz](https://t.co/uTmMV0PG3C) is also shut down. Funds\nare currently sitting here:\n[https://etherscan.io/address/0x0c46deb26275db82fe3564a1f18de954cd8fe918\u2026](https://t.co/iRxY1tD7UL)\n[#CyversAlert]"
+    }
+}
