@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1688434104696524800",
+        "timestamp": "2023-08-07 14:17:14",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0x5c7aa807816718f5befdaa132a2874ac494c3acb9cb89be4562fbf56400f83e6\u2026](https://t.co/QscVcCAAxS)\nIt seems that deployer of the [$TOM] has\nremoved 168 [$ETH] $308K from liquidity\npool. 50 [$ETH] has been posited to\n\n[@TornadoCash](/TornadoCash)\n\nvia\n[https://etherscan.io/address/0x51602b4508a1b565203b732e667c25aedde4cac2\u2026](https://t.co/AWSSOOZkN8)\nAre you aware of this @TommyViceciity?"
+    }
+}
