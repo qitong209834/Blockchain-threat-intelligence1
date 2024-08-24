@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1742821784057954574",
+        "timestamp": "2024-01-04 16:14:28",
+        "original_content": "?Our\nAI powered system has detected multiple suspicious transactions involving\n\n[@GammaStrategies](/GammaStrategies)\n\nTotal loss is more than $4M so far! Attacker has created many malicious\ncontracts and executed the transactions! Attacker's address:\n[https://arbiscan.io/address/0x5351536145610aa448a8bf85ba97c71caf31909c\u2026](https://t.co/kvqMhCd6a6)\nExample transaction:\n[https://arbiscan.io/tx/0x1b9911770ef30e51ecec6992c623c79af9871e2898d34f2adaeb8a8ab1a75354\u2026](https://t.co/Uw3H7zVyr0)\nAttacker has bridged the stolen funds to\n[$ETH] as\n[$USDT] then immediately swapped them to\n[$ETH] to avoid being frozen. Attacker has\n1535 [$ETH] $3.4M at\n[https://etherscan.io/address/0x5351536145610aa448a8bf85ba97c71caf31909c\u2026](https://t.co/JDHBYM41ps).\nEvery\n\n[@Cyvers_](/Cyvers_)\n\ncustomer is safe??\n[#CyversAlert]"
+    }
+}
