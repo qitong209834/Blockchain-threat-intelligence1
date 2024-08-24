@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1684118991365902337",
+        "timestamp": "2023-07-26 16:30:31",
+        "original_content": "?Our\nsystem has detected malicious transaction at\n[https://etherscan.io/tx/0x5161c4bee875b68c5a97fdb404e3df7c57f565b170b667c3f547b1a9b035e145\u2026](https://t.co/MD6SkUSUiu)\nIt seems that [#XWALLET] has exploited\naround $4K Funds are staying at attacker address at\n[https://etherscan.io/address/0xc8a75b69fdaa286b7d014a8a21d1188faf6af984\u2026](https://t.co/eLNfkIhacl)\n[#CyversAlert]"
+    }
+}
