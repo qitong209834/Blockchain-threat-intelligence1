@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1710617626622173222",
+        "timestamp": "2023-10-07 19:26:38",
+        "original_content": "?\n\n[@starsarenacom](/starsarenacom)\n\nexperienced a devastating hack due to a reentrancy issue in their shares\ncontract, resulting in a staggering 2.9M\nloss?\n?\ufe0f\u200d\u2642\ufe0f\nThe Attacker:\n[https://snowtrace.io/address/0xa2Ebf3FCD757e9BE1E58B643b6B5077D11b4ad7A\u2026](https://t.co/g31wZjWhLm)\n? The Victim Contract:\n[https://snowtrace.io/address/0xa481b139a1a654ca19d2074f174f17d7534e8cec\u2026](https://t.co/Xr19vCpnvB)\n? Reentrancy issue:\nAttackers abused reentrancy to inflate share prices during issuance.\n[#CyversAlert]"
+    }
+}
