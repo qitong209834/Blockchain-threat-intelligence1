@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1781208167428370729",
+        "timestamp": "2024-04-19 14:28:15",
+        "original_content": "?Our\nsystem has identified multiple phishing transactions this morning.\nUnfortunately, victims have approved the phishers' External Owned Account\n(EOA). We strongly advise revoke approvals for\n[https://etherscan.io/address/0x0000b831c452f5c4c0f765fefa2cee6d3b9b0000\u2026](https://t.co/Ido741q8wu)\nThe phishers have collected approximately $3M across various chains. Scammer\nAddresses:\n[https://etherscan.io/address/0xfc4eaa4ac84d00f1c5854113581f881b42b4a745\u2026](https://t.co/bKpNPS3YVD)\n[https://etherscan.io/address/0xa212763d2bddb0bd704f1df9ab9f3a6b64aca633\u2026](https://t.co/tYIVUo1b2V)\nScammers' contract:\n[https://etherscan.io/address/0x0000b831c452f5c4c0f765fefa2cee6d3b9b0000\u2026](https://t.co/Ido741q8wu)\n\n[@xiaolon99226528](/xiaolon99226528)\n\n, we urge you to revoke approvals for\n[https://etherscan.io/address/0x0000b831c452f5c4c0f765fefa2cee6d3b9b0000\u2026](https://t.co/Ido741q8wu)\n[#CyversAlert]"
+    }
+}
