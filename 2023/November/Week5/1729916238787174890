@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1729916238787174890",
+        "timestamp": "2023-11-30 01:32:26",
+        "original_content": "?A\n[#GnosisSafe] address just lost $100K\n[$USDT] due to an address poisoning\nphishing method! Victim:\n[https://etherscan.io/address/0xd366f566d560c18aea6ab89268dac40f428308f5\u2026](https://t.co/vgwZ1rJMGo)\nPoison transaction:\n[https://etherscan.io/tx/0xb120098df3cef50b4226fd73fb42a56f95409d39c64318e213083dbfc500dd3e\u2026](https://t.co/FCslGvHZIX)\nFunds are swapped to avoid being frozen. Funds are parked here:\n[https://etherscan.io/address/0x96717655300b4021ce6418848d62a5aa8d23daa7\u2026](https://t.co/NlP8e8Iq65)\n[#CyversAlert]"
+    }
+}
