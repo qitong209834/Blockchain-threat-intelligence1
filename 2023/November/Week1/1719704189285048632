@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1719704189285048632",
+        "timestamp": "2023-11-01 18:19:38",
+        "original_content": "?Today,\n[#DeFi] lending protocol\n\n[@OnyxProtocol](/OnyxProtocol)\n\nhas been exploited due to precision loss vulnerability in CompoundV2 fork.\nAttacker has gained around $2.2M and funds are deposited to\n\n[@TornadoCash](/TornadoCash)\n\n? Our system has detected\nmalicious contract deployment 1 min earlier than the hack transaction. The\nsame bug was leveraged in a previous hack of\n[#HundredFinance], resulting in a\nloss of approximately $7 million. Get in touch with us for assistance in\nsafeguarding your assets\u23f0\n[#CyversAlert]"
+    }
+}
