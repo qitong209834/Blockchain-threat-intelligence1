@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/SlowMist_Team/status/1820783952145355247",
+        "timestamp": "2024-08-06 18:52:31",
+        "original_content": "Due to the weights being modified to unexpected values, funds can be withdrawn\nwithout going through any multisig threshold checks."
+    }
+}
