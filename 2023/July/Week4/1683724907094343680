@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1683724907094343680",
+        "timestamp": "2023-07-25 14:24:34",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0xdfd24972d16b80ee13b127df70a0020e5e4c537a868776029e770096f5905322\u2026](https://t.co/SiNT8WmuLv)\nIt seems that deployer of [#BEAR] has removed\n109.5 [$ETH] $202.8K and transferred to\n[https://etherscan.io/address/0x6f7c898054b784ec4cbdf22e179f73d8d6b352ff\u2026](https://t.co/EfGSwHrW88)\nvia EOAs. [#CyversAlert]"
+    }
+}
