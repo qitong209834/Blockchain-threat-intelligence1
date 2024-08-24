@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1690965372160073728",
+        "timestamp": "2023-08-14 13:52:20",
+        "original_content": "?Root\ncause of\n\n[@ZunamiProtocol](/ZunamiProtocol)\n\nis due to flawed LP price calculation in strategies like MIMCurveStakeDao,\ncausing artificial inflation of sdt and sdtPrice.\n[#CyversAlert]"
+    }
+}
