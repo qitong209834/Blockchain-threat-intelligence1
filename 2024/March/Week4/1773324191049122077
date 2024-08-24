@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BSCNews/status/1773324191049122077",
+        "timestamp": "2024-03-28 19:44:29",
+        "original_content": "?DETAILS: ONGOING PRISMA\nFINANCE EXPLOIT - AT LEAST $10 MILLION\nSTOLEN? \\-\n\n[@PrismaFi](/PrismaFi)\n\n, which currently boasts around $223 million according to DefiLlama, has\nsuffered an exploit which appears to be ongoing. \\- The hack was first\nhighlighted by\n\n[@CyversAlerts](/CyversAlerts)\n\nwhich is currently investigating the incident in real time. \\- According to a\nstatement shared with BSCN by Cyvers, $10.1 million worth of digital assets\nhave already been stolen and the attack is \u201cstill ongoing. \\- According to\nCyvers, Prisma Finance Trove Manager Contract was the specific target of the\nexploit and the attacker was funded via FixedFloat just 7 minutes before the\nheist. \\- They deployed a malicious contract which was detected by\n\n[@CyversAlerts](/CyversAlerts)\n\n2 minutes before the attack took place. \\- The\n[$PRISMA] team have acknowledged the\nattack and intend to report with a post-mortem later on. \\- Stay tuned for\nfurther updates. Image: Prisma Finance"
+    }
+}
