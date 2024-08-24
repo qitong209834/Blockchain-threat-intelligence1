@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1717158353728569498",
+        "timestamp": "2023-10-08 00:31:59",
+        "original_content": "?Our\nAI-powered system has identified a phishing address (Ongoing):\n[https://etherscan.io/address/0xb7dae3e6428f5c762f0755df54b5a28f3077ddd5\u2026](https://t.co/nq92ny9vrb).\nThis address has accumulated $156K worth of USDT, and $77K in USDT has been\ntransferred to an EOA. It appears that this phishing operation is linked to\nthe address we previously reported in a\ntweet?\n[https://etherscan.io/address/0xe7408135417549d46704eeb959b8d85aaec7bd48\u2026](https://t.co/9zfrq76JNI).\n?Revoke approvals for\n[https://etherscan.io/address/0xa3584158c36a8276708a6180ac2e7f9f97d584c5\u2026](https://t.co/ZzNit1JAmU)\nASAP! [#CyversAlert]"
+    }
+}
