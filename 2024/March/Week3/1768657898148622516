@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1768657898148622516",
+        "timestamp": "2024-03-15 23:17:57",
+        "original_content": "?Today,\n\n[@Mozaic_Fi](/Mozaic_Fi)\n\nexperienced a hack due to a loss of access control on\n[#Arbitrum]. Our system detected multiple\nunauthorized transactions in real-time! Attacker has drained around $2.1M from\nvaults and transferred them to\n\n[@MEXC_Official](/MEXC_Official)\n\nCurrently, funds are in custody at\n\n[@MEXC_Official](/MEXC_Official)\n\n, and assured that once the required procedures are completed, the exchange\nwill return these funds. Attacker's address:\n[https://arbiscan.io/address/0xd6d4e8038df50803412d1b1ad2c9845bacf7c52b\u2026](https://t.co/udiN4WIL4n)\n[#CyversAlert]"
+    }
+}
