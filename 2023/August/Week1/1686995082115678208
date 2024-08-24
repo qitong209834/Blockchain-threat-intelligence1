@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1686995082115678208",
+        "timestamp": "2023-08-03 14:59:05",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0xba3946847a648d88dc4cc13d21f39c8ed3fbbbeca7a13b8363ad940460becf52\u2026](https://t.co/GEq0V1cI5x)\nIt seems that deployer of [$BUU] has\nremoved 129 [$ETH] $236.6K. 55\n[$ETH] has deposited to\n\n[@TornadoCash](/TornadoCash)\n\ncash via\n[https://etherscan.io/address/0x255c376c39fcd932d7984c4df1a072daba3af886\u2026](https://t.co/fVlE0B77kx)\nWebsite is shot down at [https://majinbuu.xyz](https://t.co/xml9QnIuaH)\n[#CyversAlert]"
+    }
+}
