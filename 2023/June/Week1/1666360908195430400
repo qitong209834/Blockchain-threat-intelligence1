@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1666360908195430400",
+        "timestamp": "2023-06-07 16:26:14",
+        "original_content": "?Our\nsystem has detected an address which received around 500\n[$eth] from 235 addresses less than 1 hour\nand started transferring the funds to different EOAs already. Currently\ntransferred 162 [$ETH] $310K to 3\ndifferent EOAs. Address:\n[https://etherscan.io/address/0xc97424b43a04f889a0d40c71ca12abfbb37b8aaf\u2026](https://t.co/obiRnN8f5x)\n[#CyversAlert]"
+    }
+}
