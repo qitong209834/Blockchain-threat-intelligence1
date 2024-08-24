@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1783045506471432610",
+        "timestamp": "2024-04-24 16:09:10",
+        "original_content": "?Hey\n\n[@XBridge_](/XBridge_)\n\n,Our system has raised multiple suspicious transactions! (Ongoing) We\nrecommend you checking out this ongoing transaction!\n? A suspicious address was\nrecently funded by\n\n[@TornadoCash](/TornadoCash)\n\non [#BNBChain], then bridged to\n[#ETH], and subsequently deposited 0.15\n[$ETH] into 'OwnedUpgradeabilityProxy.'\nShortly after, a withdrawal of 482M [$STC]\ntotaling $824K was made from your 'OwnedUpgradeabilityProxy' contract\n[#CyversAlert]"
+    }
+}
