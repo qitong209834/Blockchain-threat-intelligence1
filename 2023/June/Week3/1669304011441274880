@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1669304011441274880",
+        "timestamp": "2023-06-15 19:21:05",
+        "original_content": "?Our\nsystem has detected malicious contract interaction with\n[#DEPUSDT] &\n[#LEVUSDT] Total loss is 105K 36K\n[$USDC] and 69.8K\n[$USDT] Root cause is CurveSwap allows\nthe attacker to have approval as a spender of the contract.\n[#CyversAlert]"
+    }
+}
