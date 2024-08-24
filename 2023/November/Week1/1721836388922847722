@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1721836388922847722",
+        "timestamp": "2023-11-07 04:38:00",
+        "original_content": "?\n\n[@TrustPad](/TrustPad)\n\nexperienced an exploit today. Our AI-powered system detected the malicious\ntransactions The root cause is attributed to multiple design flaws within its\nstaking mechanism. We could have prevented this attack because we detected the\ndeployment of the malicious contract before the malicious transactions\noccurred! Attacker is:\n[https://bscscan.com/address/0x1a7b15354e2F6564fcf6960c79542DE251cE0dC9\u2026](https://t.co/G1cBEzXe1h)\nAttacker's contract:\n[https://bscscan.com/address/0x1694d7fabf3b28f11d65deeb9f60810daa26909a\u2026](https://t.co/Q6a6DCdhKM)\nStolen funds are in the attacker's contract 615\n[$BNB] $152K Feel free to contact us for\nfurther investigation and safeguarding your digital assets!\n[#CyversAlert]"
+    }
+}
