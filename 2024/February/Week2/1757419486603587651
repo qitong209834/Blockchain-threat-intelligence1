@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xNickLFranklin/status/1757419486603587651",
+        "timestamp": "2024-02-13 16:27:24",
+        "original_content": "Synthetix protocol exploited. That's a kind of sandwitch attack. As in the\npicture, the attacker exchanged sEUR to ibEUR and called \"distribute\",\nexchanged ibEUR to sEUR. As a result, he got 4000 more sEUR."
+    }
+}
