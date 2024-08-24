@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1806676887428612312",
+        "timestamp": "2024-06-28 21:11:51",
+        "original_content": "?Our\nAI-powered system has detected an address poisoning attack.\n[https://arbiscan.io/tx/0xe35fa66ba1238c203b8235197cf59869068dcbdb021f30c194a6ce93a31f0f5f\u2026](https://t.co/ZAePYxKjmN)\nThe attacker initiated the poison transaction two days ago:\n[https://arbiscan.io/tx/0x30f00ed1ae48b59055b30c0cdca4ec96e7e567b23b048ea328670dff19c4f994\u2026](https://t.co/733eTcdNLl)\nUnfortunately, 23 hours ago, the victim mistakenly sent 70k USDT to the\nscammer. The funds are currently held at the scammer's address: Scammer's\nAddress\n[https://arbiscan.io/address/0xfd0cc46b2bc2cf24dc4249aa3f10e2e46430c11b\u2026](https://t.co/pz0ULTWu1k)\nWant to keep your protocol safe from address poisoning attacks? Learn how to\nsecure your assets: Book a Demo\n?\n[https://calendly.com/d/cpx9-yvd-vpp/demo-\ncall?utm_source=twitter\u2026](https://t.co/qYomYZUVB1)\n[#CyversAlert]"
+    }
+}
