@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1668151889282715648",
+        "timestamp": "2023-06-12 15:02:57",
+        "original_content": "?Hey\n\n[@SturdyFinance](/SturdyFinance)\n\nOur system has detected a price manipulation attack at\n[https://etherscan.io/tx/0xeb87ebc0a18aca7d2a9ffcabf61aa69c9e8d3c6efade9e2303f8857717fb9eb7\u2026](https://t.co/8v0rMmbgkl)\nThe attacker took advantage of faulty price oracle to compute the cB-stETH-\nSTABLE asset price. Total loss is around 442\n[$eth] $800K\n[#CyversAlert]"
+    }
+}
