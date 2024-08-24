@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1770731199440240900",
+        "timestamp": "2024-03-21 16:36:31",
+        "original_content": "?\n\n[@airdao_io](/airdao_io)\n\nexperienced a breach, resulting in the loss of 126.5\n[$ETH] and 41.61M\n[$AMB]. It appears the victim has lost\naccess and control of its wallet! The attacker has interacted with multiple\nexchanges including [#Binance],\n[#MEXC],\n[#ChangeNOW],\n[#KuCoin], and\n[#BitMart]. Stolen funds have been swapped\nto [$ETH] and then deposited to\n\n[@MEXC_Official](/MEXC_Official)\n\nvia different addresses! Attacker's address:\n[https://etherscan.io/address/0xFD1754f6Cb9DA53c6F26E3E2eE3DE875CC11C7AA\u2026](https://t.co/WdTPKc1Vmd)\n[#CyversAlert]"
+    }
+}
