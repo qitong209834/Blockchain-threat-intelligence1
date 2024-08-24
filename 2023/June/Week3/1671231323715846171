@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1671231323715846171",
+        "timestamp": "2023-06-21 02:59:32",
+        "original_content": "?Our\nsystem has detected a malicious contract interaction with\n\n[@MIM_Spell](/MIM_Spell)\n\n. Total loss is $17K Hacker is funded by\n\n[@TornadoCash](/TornadoCash)\n\nWe have contacted the team and issue is with their multisig when interacting\nwith a contract, no users funds are effected.\n[#CyversAlert]"
+    }
+}
