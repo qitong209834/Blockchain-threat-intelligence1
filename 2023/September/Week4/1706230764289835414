@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1706230764289835414",
+        "timestamp": "2023-09-25 13:45:19",
+        "original_content": "?Our\ninternal investigation has uncovered suspicious funding transactions involving\n\n[@MixinKernel](/MixinKernel)\n\nhacker addresses. ? Two of\nhacker addresses received 51 [$ETH] from\n0x1795F0eBDa5A836aE63F28CE546E72de069A8bd2 who was interacted with\n\n[@HuobiGlobal](/HuobiGlobal)\n\nand\n\n[@binance](/binance)\n\n? The hacker utilized\n[#disperse] to send gas fees to\n[#USDT] holders before transferring funds to\ntheir main address.\n?\ufe0f\u200d\u2642\ufe0f\nCan\n\n[@binance](/binance)\n\n,\n\n[@cz_binance](/cz_binance)\n\n, and\n\n[@HuobiGlobal](/HuobiGlobal)\n\nhelp identify 0x1795f0ebda5a836ae63f28ce546e72de069a8bd2? Let's strengthen our\ncybersecurity! [#CyversAlert]\n?"
+    }
+}
