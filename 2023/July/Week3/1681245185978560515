@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1681245185978560515",
+        "timestamp": "2023-07-18 18:11:03",
+        "original_content": "?Our\nsystem has detected suspicious transaction at\n[https://etherscan.io/tx/0x11a1c493a73b24e953bb2b08ddc29ca61c71af53b4ba4836cab73124031cf7f0\u2026](https://t.co/wMHFMqY0P6)\nDeployer of [$BUMBEE] token has removed\n11.6 [$ETH] $22K from pool and transferred\nto EOA\n[https://etherscan.io/address/0x1c6992e274aaab3adbde12a9ca787bf0928a479e\u2026](https://t.co/ERJocz4VP8)\n[#CyversAlert]"
+    }
+}
