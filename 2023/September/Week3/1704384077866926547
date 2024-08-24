@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1704384077866926547",
+        "timestamp": "2023-09-20 14:36:44",
+        "original_content": "?\n\n[@Balancer](/Balancer)\n\nhas experienced Hijacking attack. Beware of phishing risks when accessing the\nwebsite and linking your wallet triggers the phishing security alert at\n[https://app.balancer.fi](https://t.co/wQvDBj3G5A). The attacker has swapped\nthe HTTPS certificate with their own. The stolen amount is ~ $238,000\nMalicious addresses are: 0x00006DEAcd9ad19dB3d81F8410EA2B45eA570000\n0x645710Af050E26bB96e295bdfB75B4a878088d7E\n0x0000626d6DC72989e3809920C67D01a7fe03000\n[#CyversAlert][](https://t.co/cN1Bs4MdSm)\n"
+    }
+}
