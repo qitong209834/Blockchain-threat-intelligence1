@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1685660161266909184",
+        "timestamp": "2023-07-30 22:23:52",
+        "original_content": "?Our\nsystem has detected that\n\n[@JPEGd_69](/JPEGd_69)\n\nhas been exploited around $11.4M 6,106\n[$WETH] Attacker caused a price\ncalculation error by reentering the add liquidity function right after calling\nremove liquidity, updating the balance in the process.\n[#CyversAlert]"
+    }
+}
