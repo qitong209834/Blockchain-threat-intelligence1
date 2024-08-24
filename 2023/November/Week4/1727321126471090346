@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1727321126471090346",
+        "timestamp": "2023-11-22 19:13:19",
+        "original_content": "?Today,\nwe have flagged multiple suspicious transactions with\n\n[@HTX_Global](/HTX_Global)\n\n's hot wallet. Shortly, hack was confirmed by\n\n[@justinsuntron](/justinsuntron)\n\nTwo hot wallets of\n\n[@HTX_Global](/HTX_Global)\n\nhave been impacted by this incident, involving 1,240\n[$ETH], 7.3M\n[$USDT], 1.78M\n[$USDC], and 62.2K\n[$LINK] Hacker has distributed all the\nassets to different EOAs with 1 [$ETH] for\ngas fee per each address. Then transferred all\n[$ETH] to another EOAs. Right now all\nstolen funds are parked at 4 different addresses!\n[#CyversAlert]"
+    }
+}
