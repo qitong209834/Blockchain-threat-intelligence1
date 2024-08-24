@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/blockthreat_2da/status/1824084482510471584",
+        "timestamp": "2024-08-15 22:03:25",
+        "original_content": "Aug 15 2010: Integer overflow exploit in Bitcoin allowed attackers to mint\n184.4 billion BTC. The exploit resulted in a soft fork which took 19 hours to\novertake the one with the hack.\n[https://bitcointalk.org/index.php?topic=822.0\u2026](https://t.co/1oxgHd5RyO)"
+    }
+}
