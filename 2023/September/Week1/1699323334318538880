@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1699323334318538880",
+        "timestamp": "2023-09-06 15:27:09",
+        "original_content": "?Our\nAI-powered system has detected a [#rug] pull\ntransaction at\n[https://etherscan.io/tx/0x68ee5c57c1468680615b035f9e752a2e055448291bb063c4facf81908c43d991\u2026](https://t.co/1dJmSdY7Xc)\nDeployer of [$BOOST] has transferred\n363.4 [$ETH] and 62\n[$ETH] transferred to\n\n[@FixedFloat](/FixedFloat)\n\n, rest of the funds are distributed to different EOA. Stay Vigilant!\n[#CyversAlert]"
+    }
+}
