@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Meir_Dv/status/1813860614340837821",
+        "timestamp": "2024-07-18 15:12:10",
+        "original_content": "it looks like the attacker delegated the call from Safe: Singleton 1.3.0\ncontract to his malicious contract 0xef279c2ab14960aa319008cbea384b9f8ac35fc6\non this transaction.\n[https://etherscan.io/tx/0x48164d3adbab78c2cb9876f6e17f88e321097fcd14cadd57556866e4ef3e185d\u2026](https://t.co/o7ILnuAA9g)"
+    }
+}
