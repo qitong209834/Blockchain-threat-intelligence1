@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1770711862092419559",
+        "timestamp": "2024-03-21 15:19:40",
+        "original_content": "?Our\nsystem has detected a phishing address that has generated around $2.7 M in the\nlast couple of hours! The address in question is named\n\"watchandlearnniggaz.eth\". This phishing address is likely connected to\n[#PinkDrainer]. Phishing address:\n[https://etherscan.io/address/0x6c0e83422cd73ffd3a5ec4506638f6a0a8e22b38\u2026](https://t.co/9Kx9O41hot)\nThe address has swapped stolen assets to\n[$ETH] and transferred 500\n[$ETH] $1.7M to\n[https://etherscan.io/address/0x638bc75107dd6bfd018a2392a7fd4f9b8b40146f\u2026](https://t.co/Vx7C6TcL6W).\n[#CyversAlert]"
+    }
+}
