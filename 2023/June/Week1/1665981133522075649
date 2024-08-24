@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1665981133522075649",
+        "timestamp": "2023-06-06 15:17:09",
+        "original_content": "?Our\nsystem has detected a malicious transaction around deployer of the\n[$KINGCZ]. 8.1\n[$ETH] $14.8K has been sent to EOA at\n0x0f951df53 and EOA deposited to\n\n[@FixedFloat](/FixedFloat)\n\n. is this contract 0x8DF619c6f4A07d9E4AD8f3e5eb46cd08e5C44463 belongs to you?\n\n[@KingCZ_Finance](/KingCZ_Finance)\n\n? [#CyversAlert]"
+    }
+}
