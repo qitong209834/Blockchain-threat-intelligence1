@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1739576725707673688",
+        "timestamp": "2023-12-26 17:19:45",
+        "original_content": "?Our\nAI-powered system has identified several irregular transactions linked to\n[https://etherscan.io/address/0xd55fc6eeab8f373a4f36e172848c81cf8c29201d\u2026](https://t.co/AiznVBgXHr)\nAddress has been funded by [#Angel] drainer\nand collected $647K worth of digital assets using transfer from function! A\nuser lost total $644K worth of digital assets including 10\n[$WBTC], 92\n[$WETH] and 10K\n[$USDC] Most of the funds are transferred\nto\n[https://etherscan.io/address/0x7b3b8c6bfbdde16411536151de78760f47a3e960\u2026](https://t.co/qekWj1Bmgb)\nand being swapped at the time of writing! We strongly advise revoking any\npermissions granted to this suspicious address to safeguard your assets and\nprevent further unauthorized activity.\n[#CyversAlert]"
+    }
+}
