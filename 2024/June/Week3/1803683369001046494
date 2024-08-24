@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/ItsBitcoinWorld/status/1803683369001046494",
+        "timestamp": "2024-06-20 14:56:40",
+        "original_content": "?\ufe0f Meir Dolev, founder of\non-chain security company Cyberse, stated that the same signature hash used in\nthe Polygon network was confirmed, with similar contracts found in Coinbase\nand OKX, suggesting Kraken's security vulnerability wasn't first discovered by\nCertik. Kraken claimed that Certik embezzled $3 million after reporting the\nvulnerability. Certik countered that Kraken's security team demanded the\nreturn of an unreasonable amount of cryptocurrency after fixing the issue,\naccusing Kraken of violating white hat activity ethics. Some communities\nallege that Certik transferred the funds to Tornado Cash, but this hasn't been\nconfirmed. Certik attempted to return the funds but wasn't provided with a\nreturn address or method by Kraken.\n[#Bitcoinworld]"
+    }
+}
