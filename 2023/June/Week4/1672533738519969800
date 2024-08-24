@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1672533738519969800",
+        "timestamp": "2023-06-24 17:14:51",
+        "original_content": "?\nOur system has detected a [#flashloan]\nattack on\n\n[@ShidoGlobal](/ShidoGlobal)\n\nattacker took advantage of the lock and claim mechanism of the price\ndifferences in the two pools. Attacker was funded by\n\n[@TornadoCash](/TornadoCash)\n\ncaused 977 [$WBNB] $239K\n[#CyversAlert]"
+    }
+}
