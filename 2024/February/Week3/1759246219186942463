@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1759246219186942463",
+        "timestamp": "2024-02-18 23:05:03",
+        "original_content": "In addition to the incident on Ethereum,\n\n[@FixedFloat](/FixedFloat)\n\nhas been exploited also on Bitcoin, total loss of 409 BTC worth $21M.\nFixedFloat drained wallet bc1qns9f7yfx3ry9lj6yz7c9er0vwa0ye2eklpzqfw Attacker:\nbc1q2skp47p9f5mr4n4m27k66v0l68gh3xdd7ad4e5"
+    }
+}
