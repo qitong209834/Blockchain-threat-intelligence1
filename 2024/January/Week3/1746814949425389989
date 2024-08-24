@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1746814949425389989",
+        "timestamp": "2024-01-15 16:41:52",
+        "original_content": "?Beware\nof a new phishing scam targeting [#crypto]\nusers! Scammers are now sending real\n[$ETH] to trick you.\n?\ufe0f\u200d\u2642\ufe0f\nThey expect you to accidentally copy a scam address. Similar to address\npoisoning, they might also send fake\n[$USDT]. If you send funds to this wrong\naddress, you'll fall victim to their scam.\n? Example of an address\npositioning, received funds from\n\n[@TornadoCash](/TornadoCash)\n\n[https://etherscan.io/address/0x1f6b8d58cf26d8d7262bbf1314e9a0a87c190c23\u2026](https://t.co/rhwt4QEUzh).\nThese funds were then swapped for\n[$USDT], and later back to\n[$ETH].\n? The intriguing part?\nThese [$ETH] were distributed across\nhundreds of different addresses, initiating a widespread address poisoning\ncampaign! \u2705 Always double-\ncheck the address before transactions. Stay vigilant and spread the word! FYI:\n\n[@realScamSniffer](/realScamSniffer)\n\n[#CyversAlert]"
+    }
+}
