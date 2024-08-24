@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1683361788111253505",
+        "timestamp": "2023-07-24 14:21:40",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0x19e96c9c3ff1d8ed5d8f4c369f7002629cc278c888303b2945fd4a78569aac0b\u2026](https://t.co/F339VnoHGk)\nIt seems that deployer of [$GAN] has\nremoved 141 [$ETH] from liquidity pool and\ntransferred to EOA\n[https://etherscan.io/address/0x8d5bc3b78164295b1f84cc0bb8731c6329904628\u2026](https://t.co/KvH5NgvDGp)\n[#CyversAlert]"
+    }
+}
