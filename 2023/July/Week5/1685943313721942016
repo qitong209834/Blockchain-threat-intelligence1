@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1685943313721942016",
+        "timestamp": "2023-07-31 17:19:43",
+        "original_content": "?Heads\nup: [#Vyper] versions 0.2.15, 0.2.16, and\n0.3.0 have a vulnerability involving reentrancy locks. Effected ETH pairs are\nat risk: alETH/ETH, msETH/ETH, pETH/ETH, CRV/ETH pairs! Total loss estimated\nat ~$60.7M, with $5.3M returned by\n[#c0ffeebabe].eth\n[#CyversAlert]"
+    }
+}
