@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1666382677501530112",
+        "timestamp": "2023-06-07 17:52:44",
+        "original_content": "?Hey\n\n[@bounce_finance](/bounce_finance)\n\nOur system has detected malicious contract interaction at\n[https://etherscan.io/tx/0x88bb76d9e77019e309bb9d5d4557a1acc65c6022a9fc91f22c72d9bdb2b73b02\u2026](https://t.co/0xu79UEeb5)\nBad actor is funded by\n\n[@TornadoCash](/TornadoCash)\n\ncreates the malicious contract then executes the transaction. Total loss is\n$8.9K [#CyversAlert]"
+    }
+}
