@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1799815252797768124",
+        "timestamp": "2024-06-09 21:13:21",
+        "original_content": "?\n\n[@loopringorg](/loopringorg)\n\nhas announced that their Smart Contract Wallets are targeted with only one\nGuardian, specifically the Loopring Official Guardian! The attack succeeded by\nbreaching\n\n[@loopringorg](/loopringorg)\n\n's 2FA service, enabling the hacker to impersonate the wallet owner and get\napproval for the Recovery from the Official Guardian. The attacker then\ntransferred assets from the compromised wallets to one of the hacker's address\n[https://etherscan.io/address/0x44f887cfbd667cb2042dd55ab1d8951c94bb0102\u2026](https://t.co/9GGgRv1B1N)\nAll the stolen digital assets have been swapped for\n[$ETH] and address currently holds over\n$5M 1373 [$ETH] Want to keep your company\noff our alerts radar? Learn how to secure your assets: Book a Demo\n?\n[https://calendly.com/d/cpx9-yvd-vpp/demo-\ncall?utm_source=twitter\u2026](https://t.co/qYomYZUVB1)\n[#CyversAlert]"
+    }
+}
