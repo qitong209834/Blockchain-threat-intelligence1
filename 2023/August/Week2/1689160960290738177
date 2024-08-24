@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1689160960290738177",
+        "timestamp": "2023-08-09 14:25:30",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0x112a923cebeb71b40cf42376c8028f68c0d227c900c53d70bc6d1847500fd1a9\u2026](https://t.co/UwQBsXNfmY)\nit is a new method of rug pull where backdoor in the token contract that\nallows the \"taxReceiver\" to transfer an unlimited number of tokens without a\nbalance check. [#CyversAlert]"
+    }
+}
