@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1683196161618767878",
+        "timestamp": "2023-07-24 03:23:31",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0xcf1eab7062ac7db6285bb5dfcf1c4b54683e5c49c0dc94a5e8ff64975d855232\u2026](https://t.co/Bopd0qpUiF)\nIt seems that deployer of the [$POPEYE]\nremoved 129 [$ETH] $241K from liquidity\npool and transferred to 2 different addresses via\n[https://etherscan.io/address/0x31a74c0e0f18bc5fa7d4543c1cdf1d01a29b4a9c\u2026](https://t.co/4LIZpnhO54)\n[#CyversAlert]"
+    }
+}
