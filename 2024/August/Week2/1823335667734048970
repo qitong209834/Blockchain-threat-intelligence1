@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1823335667734048970",
+        "timestamp": "2024-08-13 20:27:53",
+        "original_content": "?Our\nsystem has detected an address poisoning transaction resulting in a loss of\n$400K [$USDT]. The victim was poisoned\nmultiple times earlier at\n[https://etherscan.io/tx/0x58a7777659e15c2f3f690b4ba6e9effc556acc930be1e9750c88943ce3c08d90\u2026](https://t.co/dWIRhVSdhb)\nand fell victim to the scammer today at\n[https://etherscan.io/tx/0x9a094687fb957e995a9607b79104e1e33648a8f8933aab95d9c784c7faa78046\u2026](https://t.co/9ICYjIjFQg)\nFunds are currently sits at scammer's address\n?\n[https://etherscan.io/address/0xa29e58e595a7c0611dcb2efa8002c6f2de5e4ff5\u2026](https://t.co/JcoUHgDvX3)\nIf you wish to safeguard yourself against such scams, please contact us to\narrange a demo of our solution at\n?\n[https://calendly.com/d/cpx9-yvd-vpp/demo-\ncall?utm_source=twitter\u2026](https://t.co/qYomYZUVB1)\n[#CyversAlert]"
+    }
+}
