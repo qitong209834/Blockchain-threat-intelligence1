@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1779775721914630318",
+        "timestamp": "2024-04-15 15:36:13",
+        "original_content": "?Our\nmonitoring system has flagged numerous suspicious transactions involving the\n[$DFOX] project across multiple networks\nincluding [#BNB],\n[#ETH], and\n[#BaseChain]. Funds from\n[#BNB] and\n[#BaseChain] has bridged to\n[#ETH] via\n[https://etherscan.io/address/0xe0abdc5846cba938903d0b4ec51724b536276710\u2026](https://t.co/ZUVeBm30sU).\nA portion of these funds has already been transferred to\n\n[@TornadoCash](/TornadoCash)\n\n, and currently holds 44.3 [$ETH] $143k.\nWe strongly advise against engaging with the\n[$DFOX] project, particularly at the\naddress 0xdAB9cd3C0d38ec56294f0112a160A1135346f289\n[#CyversAlert]"
+    }
+}
