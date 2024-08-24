@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1719248410144837964",
+        "timestamp": "2023-10-31 15:02:17",
+        "original_content": "?Our\nAI powered system has detected multiple malicious contract interacted\ntransactions with\n\n[@TeamUnibot](/TeamUnibot)\n\nAttacker has been funded by\n\n[@FixedFloat](/FixedFloat)\n\n. Attacker's contract:\n[https://etherscan.io/address/0x2b326a17b5ef826fa4e17d3836364ae1f0231a6f\u2026](https://t.co/ekPe3u8IHI)\nAttacker's address:\n[https://etherscan.io/address/0x413e4fb75c300b92fec12d7c44e4c0b4faab4d04\u2026](https://t.co/VXB0is4GjL)\nHacker has gained 354 [$ETH] $630K so far.\nThe root cause appears to be the absence of input for the 'transferFrom'\nfunction to transfer tokens that have been granted approval to the contract.\n?Revoke all approvals ASAP\n[#CyversAlert]"
+    }
+}
