@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1675389781151236097",
+        "timestamp": "2023-07-02 14:23:45",
+        "original_content": "?\nOur system has detected an attack on Polynetworks on contract\n0x250e76987d838a75310c34bf422ea9f1ac4cc906 The attacker managed to steal $30M\nUSD with 54 different transactions. This is how it is captured by our AI-\nPowered Threat Monitoring system"
+    }
+}
