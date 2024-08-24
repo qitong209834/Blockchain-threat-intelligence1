@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1691359155720724481",
+        "timestamp": "2023-08-15 16:00:21",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0x8cee548d05f5d2e791d9d9dd525a2f07dc61f8ff9704aba180a1be1ebe9eda87\u2026](https://t.co/r9qWNFhuVD)\nDeployer of the [$GLA] has removed 132\n[$ETH] $244K from LP. 40\n[$ETH] has deposited to\n\n[@TornadoCash](/TornadoCash)\n\nvia\n[https://etherscan.io/address/0xa88a470fd105b70d07535b2b9673ce8e684a5032\u2026](https://t.co/3WXr9MdDQb)\n\n[@GladiatorEvsZ](/GladiatorEvsZ)\n\naccount is restricted also website is down\n[#CyversAlert]"
+    }
+}
