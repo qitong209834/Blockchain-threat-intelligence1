@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1741488721415778723",
+        "timestamp": "2023-12-31 23:57:01",
+        "original_content": "?On\nSaturday our AI-powered system detected an exploit on\n\n[@ChannelsFinance](/ChannelsFinance)\n\nresulting loss of $320K (BNB chain). We detected the malicious contract 89\nminutes before the exploitation, the exploiter swapped and bridged the funds\nto Ethereum and Arbitrum.[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1825468748729319424/xnf_QNcO?format=jpg&name=small)](https://t.co/NfqeJbaWly)\n"
+    }
+}
