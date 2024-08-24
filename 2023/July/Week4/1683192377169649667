@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1683192377169649667",
+        "timestamp": "2023-07-24 03:08:29",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0x900eda84f77038853bc321fd305ac5d6c3994a855243359c05b707bbe09dc20c\u2026](https://t.co/a2HRWt3znm)\nIt seems that deployer of the [$NOFACE]\nhas removed 70 [$ETH] $131K from liquidity\npool and transferred them to\n[https://etherscan.io/address/0x3fd9a4778922c0999acf6f2b43ca77a0a0edb492\u2026](https://t.co/EKmg88bz4w)\n[#CyversAlert]"
+    }
+}
