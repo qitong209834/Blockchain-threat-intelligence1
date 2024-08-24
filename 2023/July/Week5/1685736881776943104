@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1685736881776943104",
+        "timestamp": "2023-07-31 03:21:17",
+        "original_content": "Another attack on Vyper: 0.3.0\n\n[@CurveFinance](/CurveFinance)\n\npool, total loss of ~19 million USD in WETH and CRV token. Fundes moved to\nthis address: 0xB1C33b391C2569B737eC387E731E88589e8ec148 Here is how it was\ncaptured by our system:"
+    }
+}
