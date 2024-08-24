@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1694961282850455934",
+        "timestamp": "2023-08-25 14:33:55",
+        "original_content": "?Today,\n@MagnateFi, the total value locked of Magnate Finance on\n[#Base] has dropped around $6.4M. It seems\nthat deployer has modified the price oracle and removed the all the asset at\n[https://basescan.org/tx/0x39555e75d76b294248a434fdfe9640e0cfe3f22bd7fceb675fd4ef4b5e02f719\u2026](https://t.co/hZqWvtSIAt)\n[#CyversAlert]"
+    }
+}
