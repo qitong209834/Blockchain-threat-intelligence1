@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1737384780310716816",
+        "timestamp": "2023-12-20 16:09:45",
+        "original_content": "?Our\nsystem has identified several suspicious transactions associated with\n\n[@TransitFinance](/TransitFinance)\n\n. The estimated total loss is approximately $115K. The affected blockchain\nnetworks are [$BNB] and\n[$ETH] The attacker appears to have\nreceived funding through\n\n[@TornadoCash](/TornadoCash)\n\n. The exploiter has reportedly transferred a total of 36\n[$ETH] $78K and 147\n[$BNB] $37,3K to\n\n[@TornadoCash](/TornadoCash)\n\n. Attacker's address:\n[https://etherscan.io/address/0xf7552ba0ee5bed0f306658f4a1201f421d703898\u2026](https://t.co/5D7zk8e3Ax)\n[https://bscscan.com/address/0xf7552ba0ee5bed0f306658f4a1201f421d703898\u2026](https://t.co/SevhSKl3Br)\nAll\n\n[@Cyvers_](/Cyvers_)\n\ncustomers are safe! You can contact us for further investigations!\n[#CyversAlert]"
+    }
+}
