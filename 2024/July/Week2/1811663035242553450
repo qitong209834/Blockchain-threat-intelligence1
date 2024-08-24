@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1811663035242553450",
+        "timestamp": "2024-07-12 15:25:01",
+        "original_content": "?Our\nsystem has detected multiple suspicious transactions involving\n\n[@DoughFina](/DoughFina)\n\n. After communicating with the [#AAVE] team,\nwe can confirm that [#AAVE] pools are NOT\naffected. The attacker was funded through\n[#Railgun] and has swapped all stolen\n[$USDC] into\n[$ETH], resulting in a total loss of\napproximately $1.8M. Our system has identified the malicious contract less\nthan 2 min before hack transactions! Want to keep your company off our alerts\nradar? Learn how to secure your assets: Book a Demo\n?\n[https://calendly.com/d/cpx9-yvd-vpp/demo-\ncall?utm_source=twitter\u2026](https://t.co/qYomYZUVB1)\n[#CyversAlert]"
+    }
+}
