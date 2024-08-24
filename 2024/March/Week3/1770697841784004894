@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1770697841784004894",
+        "timestamp": "2024-03-21 14:23:58",
+        "original_content": "?Yesterday,\n\n[@Dolomite_io](/Dolomite_io)\n\nhas suffered an approval attack, resulting in a loss of ~$1.9M on\n[#ETH]. Our system has detected the malicious\ncontract deployment before the hack transactions! The hacker took advantage of\nthe batchTransfer feature within the TradeDelegate contract, enabling them to\ntransfer tokens approved by users to the contract!\n\n[@Dolomite_io](/Dolomite_io)\n\nteam has sent an on-chain message asking for bug bounty program! You can reach\nout to us to learn more about securing and preventing illicit activities!\n[#CyversAlert]"
+    }
+}
