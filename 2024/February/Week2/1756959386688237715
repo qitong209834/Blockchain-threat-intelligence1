@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1756959386688237715",
+        "timestamp": "2024-02-12 16:32:15",
+        "original_content": "?Our\nsystem detected unusual transactions involving\n\n[@safemoon](/safemoon)\n\n. The deployer added an address as an approveLiquidityPartner at\n[https://etherscan.io/tx/0xc180b96f7b894bab25682a5154743eb9d62458ff941e1f4dcca2b558173aa416\u2026](https://t.co/MT4NSEurEw),\nwhich then removed liquidity from various pools, transferring $11.2M to\n[https://etherscan.io/address/0x6f96042e6064ed5025b13a5b5b51702942cae537\u2026](https://t.co/war6MC5z0H)\non [$ETH],\n[$BNB] and\n[#Polyogon] chains. Notably,\n\n[@safemoon](/safemoon)\n\nannounced bankruptcy for SafeMoon U.S. LLC on Jan'19 2024. Are these\ntransactions linked to the bankruptcy case?\n[#CyversAlert]"
+    }
+}
