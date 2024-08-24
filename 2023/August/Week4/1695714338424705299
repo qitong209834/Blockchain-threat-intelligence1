@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1695714338424705299",
+        "timestamp": "2023-08-27 16:26:17",
+        "original_content": "?Our\nsystem has detected a malicious transaction at\n[https://etherscan.io/tx/0x2a027c8b915c3737942f512fc5d26fd15752d0332353b3059de771a35a606c2d\u2026](https://t.co/oPKv9q01zZ)\nIt seems that\n\n[@Balancer](/Balancer)\n\nhas been hacked around $400K. Attacker has been funded\n\n[@TornadoCash](/TornadoCash)\n\n. Funds are here:\n[https://etherscan.io/address/0xed187f37e5ad87d5b3b2624c01de56c5862b7a9b\u2026](https://t.co/xvTV3C3Mnk)\nMore details coming soon!\n[#CyversAlert]"
+    }
+}
