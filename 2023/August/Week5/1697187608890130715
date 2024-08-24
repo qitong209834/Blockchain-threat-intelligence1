@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1697187608890130715",
+        "timestamp": "2023-08-31 18:00:32",
+        "original_content": "?Our\nAI-powered system has detected a suspicious transaction at\n[https://etherscan.io/tx/0xc0a76b9f05002acc4b0e7eae53e22e07a036f8eb80c44fb5ac202509a58fc464\u2026](https://t.co/kKJQ9MiDb7)\nIt seems that\n\n[@Rafldex](/Rafldex)\n\nhas lost around $5K. We have detected malicious contract deployment and\nexecuted transaction\nbelow?\n[#CyversALert]"
+    }
+}
