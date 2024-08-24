@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1670736054423306242",
+        "timestamp": "2023-06-19 18:11:30",
+        "original_content": "?Our\nsystem has detected a malicious transaction and it seems that project\n[$GUIDO] has shot down its operation on\n[https://guidothemechanics.xyz](https://t.co/UTjpZ12iJV)\n[#dex] address 0xf6b87 has removed 63\n[$eth] 108K and deposited 60\n[$eth] to\n\n[@TornadoCash](/TornadoCash)\n\nvia intermediary address.\n[#CyversAlert]"
+    }
+}
