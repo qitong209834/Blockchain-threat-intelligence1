@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Cyvers_/status/1815373206280339634",
+        "timestamp": "2024-07-22 21:07:51",
+        "original_content": "The bug exploited a vulnerability in the multi-sig setup. By compromising 4\nout of the 6 required signatures through clever phishing, the attackers gained\ncontrol. Always cross-verify the source and the access request to avoid such\nattacks. Never sign requests blindly."
+    }
+}
