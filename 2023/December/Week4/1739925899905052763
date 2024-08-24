@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1739925899905052763",
+        "timestamp": "2023-12-27 16:27:15",
+        "original_content": "?Our\nAI powered system has detected suspicious transactions involving on-chain\ntrading platform\n\n[@ThunderTerminal](/ThunderTerminal)\n\n. Platform has suffered an exploit resulting in at least $195K on\n[#Ethereum] and\n[#Solana] The root cause of the incident\nwas access to a MongoDB connection URL. Stolen funds totaling $195K have been\ndeposited into [#railgun] Hackers'\naddress:\n[https://etherscan.io/address/0x2a2C200af4E659348C4182DD9806a340851df42e\u2026](https://t.co/vUXIXLsUDz)\nAdditionally, hacker claims that funds are not SAFE! at\n[https://etherscan.io/tx/0x6aae3869ef165c46a7611769644c029ded78cd2c050bbca85a5b17850cf7f10d\u2026](https://t.co/10Iw14LgiL)\nYou can reach out to learn how to secure your digital assets with\n\n[@Cyvers_](/Cyvers_)\n\n[#CyversAlert]"
+    }
+}
