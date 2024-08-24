@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1664158907424440321",
+        "timestamp": "2023-06-01 14:36:16",
+        "original_content": "?Our\nsystem has detected a malicious transaction on\n\n[@unsheth_xyz](/unsheth_xyz)\n\n. The private key of the\n\n[@unshETH](/unsheth)\n\ndeployer has been compromised. An attacker was able to access $530K and\nexecute a malicious transaction. Our system has detected this transaction\nbelow?\n[#CyversAlert]"
+    }
+}
