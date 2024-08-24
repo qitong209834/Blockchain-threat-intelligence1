@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1738159685344039355",
+        "timestamp": "2023-12-22 19:28:57",
+        "original_content": "?Our\nAI powered system has detected a multiple suspicious transaction with\n[https://etherscan.io/address/0x89566479fd2bbb9e7859b07ca89ed580c5df5bda\u2026](https://t.co/Gen15OMtZt)\nTotal stolen amount is $2.5M on [$BNB] and\n[$ETH] chains! Attacker has bridged to\nstolen fund on [$BNB] to\n[$ETH] via\n\n[@CelerNetwork](/CelerNetwork)\n\nAttacker has got the wallet access control of 0x895bda and transferred the all\nthe fund to\n[https://etherscan.io/address/0x4ce2f0bbebc0919cbe8d68c5e05af7a881c760f1\u2026](https://t.co/SwF6P3Hejq),\nadditionally attacker has swapped all digital assets to\n[$ETH] and transferred 1082\n[$ETH] $2.5M to\n[https://etherscan.io/address/0xb919a54f934c4e49b8c9a82fced33c218d29727d\u2026](https://t.co/Pr7Aei5Nos)\nFinally, the victim has begun negotiating a bounty with the hacker at\n[https://etherscan.io/tx/0xd152042a06b9efbd6210429e45824986e705771bd6ebcf5ada2b57f093ce4b3e\u2026](https://t.co/1y5CA33Lwb)\nYou can reach out to us to learn how to secure your digital assets with\n\n[@Cyvers_](/Cyvers_)\n\n[#CyversAlert]"
+    }
+}
