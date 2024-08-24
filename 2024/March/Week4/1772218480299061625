@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/WuBlockchain/status/1772218480299061625",
+        "timestamp": "2024-03-25 19:06:26",
+        "original_content": "According to Cyvers Alerts, the RWA infrastructure Curio Ecosystem was\nattacked, resulting in a loss of $16 million. The attack appears to stem from\na permission access logic flaw, which the attacker exploited to mint an\nadditional 1 billion GCT. Currently, the attacker holds cryptocurrency assets\nvalued at $39.7 million.\n[https://x.com/cyversalerts/s/CyversAlerts/status/1772211145127989583\u2026](/CyversAlerts/status/1772211145127989583)"
+    }
+}
