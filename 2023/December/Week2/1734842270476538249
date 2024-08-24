@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1734842270476538249",
+        "timestamp": "2023-12-13 15:46:43",
+        "original_content": "?Earlier\ntoday! our system has detected a multiple suspicious transactions with\n\n[@okx](/okx)\n\n's DEX contract. Root cause seems that admin's wallet access control has been\ncompromised! Attacker was able to gain funds of the users. Total loss is\naround $1.1M. Some of the stolen funds are deposited to\n[#Railgun] and some of them are\ndistributed to different EOAs. Additionally, attacker has been funded by\n\n[@TornadoCash](/TornadoCash)\n\n! Attacker's addresses:\n[https://etherscan.io/address/0x0519efacb73a1f10b8198871e58d68864e78b8a5\u2026](https://t.co/KskapULFwv)\n[https://etherscan.io/address/0xfacf375af906f55453537ca31ffa99053a010239\u2026](https://t.co/4kzl8x3ZxB)\n[https://etherscan.io/address/0x1f14e38666cdd8e8975f9acc09e24e9a28fbc42d\u2026](https://t.co/4prm0J410k)\n[#CyversAlert]"
+    }
+}
