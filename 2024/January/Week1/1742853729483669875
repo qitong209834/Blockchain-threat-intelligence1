@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1742853729483669875",
+        "timestamp": "2024-01-04 16:14:28",
+        "original_content": "?Hey\n\n[@GammaStrategies](/GammaStrategies)\n\n, Our system has detected another attacker! Attacker's address:\n[https://arbiscan.io/address/0xccc599f33c9e1635bb32d48c25a26e64451fbbdd\u2026](https://t.co/RzV1FHG9Uu)\nFunds are bridged to [$ETH], 10\n[$ETH] $22K is sitting here:\n[https://etherscan.io/address/0xCcc599f33C9e1635bB32d48C25A26E64451FbBdD\u2026](https://t.co/DcHigMllxu)\nAttacker address on [$ETH] has been funded\nby\n\n[@TornadoCash](/TornadoCash)\n\n138 days ago! and bridged to [$ARB].\nAdditionally, attacker has interacted with\n\n[@KyberNetwork](/KyberNetwork)\n\n' exploiter asking [$ETH] for gas fee! at\n[https://arbiscan.io/tx/0xc46cd92333a8d6c745837d8a0b24ea85db6f5deb5bc0158a1eed46dc7a43064c\u2026](https://t.co/VCcnw5TGQw)\n[#CyversAlert]"
+    }
+}
