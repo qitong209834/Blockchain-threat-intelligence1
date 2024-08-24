@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1758046225914298426",
+        "timestamp": "2024-02-15 16:30:57",
+        "original_content": "?Our\nsystem has detected malicious transaction involving @dualpools! at\n[https://bscscan.com/tx/0x90f374ca33fbd5aaa0d01f5fcf5dee4c7af49a98dc56b47459d8b7ad52ef1e93\u2026](https://t.co/CTuOPbJU46)\nTotal loss is more than $40K. Attacker was funded by\n\n[@TornadoCash](/TornadoCash)\n\n! Attacker address:\n[https://bscscan.com/address/0x4645863205b47a0a3344684489e8c446a437d66c\u2026](https://t.co/JgxiiXqYwy)\nMalicious contract:\n[https://bscscan.com/address/0x38721b0d67dfdba1411bb277d95af3d53fa7200e\u2026](https://t.co/T2wI0RWicf)\nPlease do reach to us for more investigation!\n[#CyversAlert]"
+    }
+}
