@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1747927183069184293",
+        "timestamp": "2024-01-18 18:21:30",
+        "original_content": "?Our\nAI system detected a suspicious deposit of $1.25M into\n\n[@TornadoCash](/TornadoCash)\n\nearlier today. It appears that a DAO project,\n\n[@samudaixyz](/samudaixyz)\n\n, has lost control of their wallet, resulting in a loss of $1.25M. Both of\ntheir [#multisig] addresses, as well as\nthe address of\n\n[@samudaixyz](/samudaixyz)\n\n's founder,\n\n[@kushagra_agr](/kushagra_agr)\n\n, have been compromised. All assets were transferred to the hacker's address,\nconverted to [$ETH], and then deposited\ninto\n\n[@TornadoCash](/TornadoCash)\n\nadditionally, 21 [$ETH] $54K deposited to\n[#exch] exchange. The founder has issued an\non-chain message offering a 10% bounty for returning funds! Every\n\n[@Cyvers_](/Cyvers_)\n\ncustomer is safe! and assets monitored by\n\n[@Cyvers_](/Cyvers_)\n\nnever have been hacked. 0 incidents!\n[#CyversAlert]"
+    }
+}
