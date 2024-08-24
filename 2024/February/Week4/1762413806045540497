@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1762413806045540497",
+        "timestamp": "2024-02-27 17:46:10",
+        "original_content": "?On\nDecember 17th, 2022, an address on [$BNB]\nlost access control of its wallet, resulting in the loss of $269.2K in\n[$BUSD].\n[https://bscscan.com/address/0xc384f9fa3ce9fc3283cf4f6f1a1a521679e0b0bb#tokentxns\u2026](https://t.co/EAwLaWdiw6)\nThe attacker subsequently bridged the stolen funds to the\n[$ETH] chain.\n[https://etherscan.io/address/0xc384f9fa3ce9fc3283cf4f6f1a1a521679e0b0bb\u2026](https://t.co/JhSLihk2Vn)\nThe hacker, after approximately 14 months, managed to increase the stolen\nfunds to $625K. Today, attacker has deposited 70\n[$ETH] $226.8K deposited into\n\n[@TornadoCash](/TornadoCash)\n\nand still have $325.5K at its balance!\n[#CyversAlert]"
+    }
+}
