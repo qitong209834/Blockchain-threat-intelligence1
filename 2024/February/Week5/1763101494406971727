@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1763101494406971727",
+        "timestamp": "2024-02-29 15:18:47",
+        "original_content": "?Our\nsystem has detected a phishing address at\n[https://etherscan.io/address/0x85a4e4a24ac41adaee3f40f5bb34e62aabca6376\u2026](https://t.co/gE42NMgyaH).\nAn individual has unfortunately fallen victim to a loss of $1.6M, as by these\ntransactions:\n[https://etherscan.io/tx/0x13758aba458fd0422ab78dccc75490e36163e2f9ac226da2f63c75cc6f5bbb46\u2026](https://t.co/Gl5QRSxEAx)\n[https://etherscan.io/tx/0xe84e7448c497a7457f5c3d7f5a561c4090dd937094bb085938186c968c51ae79\u2026](https://t.co/84QJopq5as)\nThe phisher has converted all digital funds to Ethereum\n[$ETH] and deposited them to\n\n[@kucoincom](/kucoincom)\n\n! [#CyversALert]"
+    }
+}
