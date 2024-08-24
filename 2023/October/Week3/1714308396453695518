@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1714308396453695518",
+        "timestamp": "2023-10-17 23:52:26",
+        "original_content": "?Earlier\ntoday, our ML-powered system detected a suspicious transactions involving\n\n[@FantomFDN](/FantomFDN)\n\nFake_Phishing188024 and Fake_Phishing188025 labeled address drained all the\nassets of\n\n[@FantomFDN](/FantomFDN)\n\nfrom [$FTM],\n[$BNB] and\n[$ETH] hot wallets. We estimate total loss\naround $7M across all chains. Assets on\n[$ETH] has swapped for\n[$ETH] and moved to and EOA\n[https://etherscan.io/address/0x0b1f29df74a19c44745862ab018d925501fe9596\u2026](https://t.co/4oLCMmXQhl)\nBased on our first investigation we identified hacker's addresses\n?\n[https://ftmscan.com/address/0x1d93c73d575b81a59ff55958afc38a2344e4f878\u2026](https://t.co/C5xVsC4QxC)\n[https://etherscan.io/address/0x1d93c73d575b81a59ff55958afc38a2344e4f878\u2026](https://t.co/OPXzwO5P19)\n[https://etherscan.io/address/0x2f4f1d2c5944dba74e107d1e8e90e7c1475f4001\u2026](https://t.co/odoEf82T9L)\n[#CyversAlert]"
+    }
+}
