@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1664532620384903168",
+        "timestamp": "2023-06-02 15:21:16",
+        "original_content": "?Our\nsystem has detected a malicious contract interaction with\n[#TUQJ] at\n[https://bscscan.com/tx/0x546c12853ce3dcf70ffd63e10bce0c0ea454ce023144ecf42a40f6a27409f445\u2026](https://t.co/rFT8OJUbhq).\nAttacker was funded by\n\n[@TornadoCash](/TornadoCash)\n\nand was able to run away with $11K. See attacker behavior\nbelow?\n[#CyversAlert]"
+    }
+}
