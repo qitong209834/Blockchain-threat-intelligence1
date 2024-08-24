@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/merklejerk/status/1740736133192139034",
+        "timestamp": "2023-12-29 18:18:47",
+        "original_content": "Rogue version of\n\n[@0xProject](/0xProject)\n\n's (retired) V3 staking contract? Seems like they deployed the TEST version to\nprod, w/a public setWethContract() fn. Attacker just set it to one that fwds\nETH to themselves on deposit(). But no stakers so I guess this is just free\nmoney. Congrats. ?"
+    }
+}
