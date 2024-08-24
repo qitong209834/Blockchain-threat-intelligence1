@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1710694468972658837",
+        "timestamp": "2023-10-08 00:31:59",
+        "original_content": "?Our\nAI-powered ML has just flagged a phishing address:\n[https://etherscan.io/address/0x450805e6958775fc6dc77d5bfdb1af72c34a4b1a\u2026](https://t.co/hD8EjEI0dM)\n(TRX caller is labeled Fake_Phishing187812). This address has collected more\nthan $100K Right now holds $22.5K in\n[$USDT], and the stolen funds have been\nspread across various EOAs. Even more concerning, the phisher sent 111K\n[$USDT] to\n[https://etherscan.io/address/0xe7408135417549d46704eeb959b8d85aaec7bd48\u2026](https://t.co/9zfrq76JNI)\nusing different EOAs, And this address has been reported as an OTC scammer.\nThis address now holds a staggering $41M in crypto assets. Stay vigilant!\n[#CyversAlert]"
+    }
+}
