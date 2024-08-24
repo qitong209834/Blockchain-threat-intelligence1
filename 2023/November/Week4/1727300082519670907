@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1727300082519670907",
+        "timestamp": "2023-11-22 18:41:05",
+        "original_content": "?We\nhave flagged multiple suspicious transactions from\n\n[@HECO_Chain](/HECO_Chain)\n\nbridge today. All the asset's of\n\n[@HECO_Chain](/HECO_Chain)\n\nhas been swapped for [$ETH] and\ndistributed to different EOAs. Assets transferred: 42M\n[$USDT], 489\n[$HBTC], 346B\n[$SHIB], 173K\n[$UNI], 619K\n[$USDC], 42K\n[$LINK] and 347K\n[$TUSD] All together, we estimated around\n$86M loss. You can reach to us to secure your digital assets!\n[#CyversAlert]"
+    }
+}
