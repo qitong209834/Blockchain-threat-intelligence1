@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1747347701111341315",
+        "timestamp": "2024-01-17 03:58:50",
+        "original_content": "?$3.3\nmillion exploit detected on\n\n[@SocketDotTech](/SocketDotTech)\n\n! Our advanced AI system has detected malicious transactions on Socket Gateway\ncontract, 230 users were affected, total loss of $3.3 million mainly USDC,\nUSDT, WBTC DAI and WETH, the exploiter swapped USDC and USDT tokens for Ether.\nRevoke approvals : 0x3a23f943181408eac424116af7b7790c94cb97a5"
+    }
+}
