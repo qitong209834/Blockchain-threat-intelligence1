@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1666343449530859520",
+        "timestamp": "2023-06-07 15:16:52",
+        "original_content": "?Hey\n\n[@coinbase](/coinbase)\n\n, our system has detected a malicious address\n[https://etherscan.io/address/0x5bdc881a03de9a6e17a698942ccb687705b5959c\u2026](https://t.co/XXuwcmfZpw)\nwhich received most of the funds 22 [$eth]\n$39.8K from\n\n[@coinbase](/coinbase)\n\ndeposit addresses and transferred to an EOA. This might be a possible security\nconcern!! Have a look ?\n[#CyversAlert]"
+    }
+}
