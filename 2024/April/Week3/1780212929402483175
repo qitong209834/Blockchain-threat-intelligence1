@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1780212929402483175",
+        "timestamp": "2024-04-16 20:33:31",
+        "original_content": "?A\nrecent attack was detected thanks to\n\n[@Cyvers_](/Cyvers_)\n\n' new address poisonings feature! The victim lost $13.5K and here's how it\nunfolded: An attacker sent a poisoned transaction to the potential victim. The\nnext day, when the victim mistakenly used this poisonings address, the funds\nwere erroneously sent to the attacker. Our new address poisoning detection\nfeature successfully identified both the preparatory and the actual fraudulent\ntransaction (see screenshots from our system\n?) Ensure your crypto\ntransactions are safe. With\n\n[@Cyvers_](/Cyvers_)\n\n' cutting-edge technology, you\u2019re not just monitoring; you\u2019re proactively\nprotecting your digital assets.\n?\ufe0f To learn more book a\ndemo at: [https://cyvers.ai/demo](https://t.co/U9w0pnwSHy)\n[#CyversAlert]"
+    }
+}
