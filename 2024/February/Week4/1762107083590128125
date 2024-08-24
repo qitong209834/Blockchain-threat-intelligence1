@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1762107083590128125",
+        "timestamp": "2024-02-26 21:27:21",
+        "original_content": "?Today,\n\n[@zachxbt](/zachxbt)\n\ndetected suspicious transactions involving\n\n[@bitforexcom](/bitforexcom)\n\n! It appears that on Feb 23, 2023, the exchange distributed $56M to an EOA\n([https://etherscan.io/address/0xdcacd7eb6692b816b6957f8898c1c4b63d1fc01f\u2026](https://t.co/jDrwLXGff3))\nacross [$ETH],\n[$BNB], and\n[$MATIC] chains. Additionally,\nwithdrawals have been halted. Our initial investigation suggests this may not\nbe a security breach. Funds began flowing five days ago, and the transfer\nfrequency does not resemble typical attacker behavior. Furthermore, funds have\nnot been swapped. However, their website and social media\n([https://bitforex.com](https://t.co/TzYfwweOSl)) are currently inaccessible.\nMoreover,\n\n[@thanhvukgv](/thanhvukgv)\n\n, a [#SpAI] listing partner of\n\n[@bitforexcom](/bitforexcom)\n\n, claimed, \"They robbed all partners and investors of their money.\" we\nstrongly advise to NOT interacting with the exchange at this time.\n[#CyversAlert]"
+    }
+}
