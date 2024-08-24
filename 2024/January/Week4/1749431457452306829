@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1749431457452306829",
+        "timestamp": "2024-01-22 21:44:27",
+        "original_content": "?Today,\n\n[@ConcentricFi](/ConcentricFi)\n\nhad a security breach with loss of $1.7M. We urge you to revoke all approvals\nfor following addresses on [$ARB]\n?\n0x39c1bc90ba23d4d95eafa9335ceb83e0826e7ea7\n0x0f9da8eaf006079d772955644bac36f17934b36e\n0x319e70fc896a138619617b7d06f0dfcd2e554808\n0x6277f4f9f55bfc331bcbe8db2f221ae186489915\n0x7f8863c2086fde3d199f5dd27d555574d1bb7228\n[#CyversAlert]"
+    }
+}
