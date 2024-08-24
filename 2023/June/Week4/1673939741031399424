@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1673939741031399424",
+        "timestamp": "2023-06-28 14:21:49",
+        "original_content": "?Our\nsystem has detected a flashloan attack on\n\n[@ThemisProtocol](/ThemisProtocol)\n\nbefore the hack transaction, exploiter has gained $370K. Hack caused by flawed\noracle at\n[https://arbiscan.io/tx/0xff368294ccb3cd6e7e263526b5c820b22dea2b2fd8617119ba5c3ab8417403d8\u2026](https://t.co/O0upbFB5d6)\nStolen funds $361K bridged to [#eth] and\ndeposited to\n\n[@TornadoCash](/TornadoCash)\n\n[#CyversAlert]"
+    }
+}
