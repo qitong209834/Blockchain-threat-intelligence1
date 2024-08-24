@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1768247634538479837",
+        "timestamp": "2024-03-14 20:07:43",
+        "original_content": "?Our\nsystem has detected five phishing addresses that generated $6.1M These\nphishing addresses obtained various tokens from victims across different\nchains and bridged them to the Ethereum\n[$ETH] chain, subsequently swapping all\ntokens to [$ETH]. Finally, they\ntransferred all [$ETH] to different\naddresses. It appears that these addresses are connected to\n[#Pinkdrainer] Phishing addresses\n?\n[https://etherscan.io/address/0x986cb342ea072ce2fea55912e572914933d4aa62\u2026](https://t.co/tEAOduVVrC)\n[https://etherscan.io/address/0xe8aeffdd23a3815e5e1da68d642e39f1842b091e\u2026](https://t.co/Ev8hoiJDG6)\n[https://etherscan.io/address/0x00242400e06fa6ac51a986b3ecbc703d7a29401b\u2026](https://t.co/PdO6SFZ2py)\n[https://etherscan.io/address/0x35e894cc0d9147ce4463c7747c9ad2416a45358b\u2026](https://t.co/jUhvFLyFSb)\n[https://etherscan.io/address/0x494d928c4b8221aabc5d8a06dd211f496d9149bb\u2026](https://t.co/b3vUfun3o7)\n[#CyversAlerts]"
+    }
+}
