@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1675769161673318400",
+        "timestamp": "2023-07-03 15:31:17",
+        "original_content": "?Hey\n\n[@BoringNakas](/BoringNakas)\n\n, Our system has detected that your deployer named boringnakas.eth has removed\n55 [$ETH] $107K at\n[https://etherscan.io/tx/0xbf655779a642be399584953921dc3d3f43fa3435191c287f3ab5fc1df458c7fd\u2026](https://t.co/ZId0LQ7gSh)\nand deposited to\n\n[@coinbase](/coinbase)\n\n. Are you aware of this ?\n[#CyversAlert]"
+    }
+}
