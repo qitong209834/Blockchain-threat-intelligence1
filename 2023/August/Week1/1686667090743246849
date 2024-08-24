@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1686667090743246849",
+        "timestamp": "2023-08-02 17:15:45",
+        "original_content": "?Our\nsystem has detected suspicious transaction at\n[https://etherscan.io/tx/0x3b19e152943f31fe0830b67315ddc89be9a066dc89174256e17bc8c2d35b5af8\u2026](https://t.co/omMKhedE3q)\nAttacker has gained $324K from\n\n[@uwerx_network](/uwerx_network)\n\n. After that transaction [$Uwerx] price\nhas dropped -100% Attacker originally funded by\n\n[@TornadoCash](/TornadoCash)\n\nAttacker:[https://etherscan.io/address/0x6057a831d43c395198a10cf2d7d6d6a063b1fce4\u2026](https://t.co/a9kwUW1Oft)\n[#CyversAlert]"
+    }
+}
