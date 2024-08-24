@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1762064590186094800",
+        "timestamp": "2024-02-26 18:38:30",
+        "original_content": "?Our\nsystem has detected an address that has lost wallet access control at\n[https://etherscan.io/address/0xe6257a6d4e40ab2a1c03098a3140aad2969fcadd\u2026](https://t.co/OF9ZOhOJhX).\nIt appears that\n\n[@KasparCheng](/KasparCheng)\n\nhas lost the private keys, resulting in a loss of $332.7K. The attacker has\ntransferred all funds belonging to\n\n[@KasparCheng](/KasparCheng)\n\nto\n[https://etherscan.io/address/0x092bf3579f9cf74a35be293f441c57b1fa6ab54b\u2026](https://t.co/AT0EtoJEnC).\nFurthermore, the attacker has exchanged all digital assets to\n[$ETH] and deposited them into\n\n[@ChangeNOW_io](/ChangeNOW_io)\n\nand\n\n[@Bybit_Official](/Bybit_Official)\n\n. [#CyversAlert]"
+    }
+}
