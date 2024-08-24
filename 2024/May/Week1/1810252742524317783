@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1810252742524317783",
+        "timestamp": "2024-05-03 19:53:20",
+        "original_content": "?Our\nsystem has detected a address poisoning transaction at\n[https://etherscan.io/tx/0x4f9d5bb5b52ee7c2280fb908aa35394d96651de530ed940057f56df36302a318\u2026](https://t.co/hmgz9Px5lh)\nVictim has mistakenly sent 56.6K [$USDC]\nto poisoner ! Attacker:\n[https://etherscan.io/address/0x47ed83ef52217927861b1843df445d8209ddcbfa\u2026](https://t.co/HpIAUppbwx)\nVictim:\n[https://etherscan.io/address/0x95f3127b127947086e215d2d3a8fcc2fdfbc3d85\u2026](https://t.co/nBCGYB10yY)\nStolen funds have been swapped to [$DAI]\nand deposited to [#Railgun] at\n[https://etherscan.io/address/0xa018ff4ffd3c1d3887dad0a51ff39fa4916d4115#tokentxns\u2026](https://t.co/IFbHmTcM53)\nWant to keep your protocol safe from address poisoning attacks? Learn how to\nsecure your assets: Book a Demo\n?\n[https://calendly.com/d/cpx9-yvd-vpp/demo-\ncall?utm_source=twitter\u2026](https://t.co/qYomYZUVB1)\n[#CyversAlert]"
+    }
+}
