@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1695832586533138765",
+        "timestamp": "2023-08-27 16:26:17",
+        "original_content": "?Our\nsystem has just detected another hacker transaction at\n[https://etherscan.io/tx/0x42441d8ed0034e337dad0365a64dd19a57639801dcbf4939863f47bf6c80daa4\u2026](https://t.co/OxX8AYT7Ai)\nAttacker was able to gain $10.5K. Attacker\n[https://etherscan.io/address/0xed187f37e5ad87d5b3b2624c01de56c5862b7a9b\u2026](https://t.co/xvTV3C3Mnk)\nhas total $59.4K in the wallet.\n[#CyversAlert]"
+    }
+}
