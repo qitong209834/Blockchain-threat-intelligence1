@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1782322897144500691",
+        "timestamp": "2024-04-22 16:17:47",
+        "original_content": "?The\ncrypto betting platform\n\n[@ZKasino_io](/ZKasino_io)\n\nexecuted a rugpull on users' invested funds to generate their\n[$ZKAS] token through farming! On\n2024-04-20, 10,5K [$ETH] $33M has been\nwithdrawn from\n\n[@ZKasino_io](/ZKasino_io)\n\naccount to a [#safe] address at\n[https://etherscan.io/tx/0x0828aa04e02e04dbdcb5c1c6aa7eaaab0123a71d3cb9091877dd5a0334dbb1da\u2026](https://t.co/ym5Q32e6GB)\nAll the ETH that was deposited was provided to the\n[#lido] protocol at\n[https://etherscan.io/tx/0xd6fa04a3465bd81d4df7e4f51c0ea9ecbc3264ef950cbc4a519caa642a217402\u2026](https://t.co/LQyLnthcbi)\nThe protocol disappeared from all communication channels, including Telegram\nand Discord! [#CyversAlert]"
+    }
+}
