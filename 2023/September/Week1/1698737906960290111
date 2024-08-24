@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Cyvers_/status/1698737906960290111",
+        "timestamp": "2023-09-05 00:35:11",
+        "original_content": "if you look at the DAI transfer transaction, there was \u201cuint was = allowed\nuint (-1)\u201d which could have only been possible if the private key was\ncompromised. So the hacker gave away his trick in this transaction"
+    }
+}
