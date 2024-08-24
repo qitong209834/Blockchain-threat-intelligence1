@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1749519486112108643",
+        "timestamp": "2024-01-23 03:48:44",
+        "original_content": "?Our\nsystem has detected a suspicious transaction with \"Bullran index\"\n[$BUI] Project has totally lost 134\n[$ETH] $318K. Root cause seems to be due\nto a lack of permission control. Attacker originally funded by\n[#Railgun]. 130\n[$ETH] $303.9K has transferred to another\naddress. Attack transaction:\n[https://etherscan.io/tx/0x1ea0a2e88efceccb2dd93e6e5cb89e5421666caeefb1e6fc41b68168373da342\u2026](https://t.co/etluYUDukX)\nEvery\n\n[@Cyvers_](/Cyvers_)\n\ncustomer is safe! and assets monitored by\n\n[@Cyvers_](/Cyvers_)\n\nnever have been hacked. 0 incidents!\n[#CyversAlert]"
+    }
+}
