@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1687090581028417537",
+        "timestamp": "2023-08-03 21:18:33",
+        "original_content": "?Unverified\ncontract on [#ARBITRUM] exploited for\n~$845k! at\n[https://arbiscan.io/tx/0x864c8cfb8c54d3439613e6bd0d81a5ea2c5d0ad25c9af11afd190e5ea4dcfc1f\u2026](https://t.co/skUwGIOjNu)\n? Victim contract\nmistakenly approved assets to attacker's contract in flashloan function,\nenabling transfers via transferFrom().\n[#CyversAlert]"
+    }
+}
