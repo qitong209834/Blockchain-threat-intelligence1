@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1722144106225283180",
+        "timestamp": "2023-11-08 14:48:45",
+        "original_content": "?Our\nsystem has detected a [#MEV] bot exploit at\n[https://etherscan.io/tx/0xbc08860cd0a08289c41033bdc84b2bb2b0c54a51ceae59620ed9904384287a38\u2026](https://t.co/lcIj2ty0rk)\ndue to the arbitrage with simple reverse swaps and total loss is around $2M.\nAttacker address:\n[https://etherscan.io/address/0x46d9b3dfbc163465ca9e306487cba60bc438f5a2\u2026](https://t.co/tqFPRrQEhq)\nMalicious contract:\n[https://etherscan.io/address/0xeadf72fd4733665854c76926f4473389ff1b78b1\u2026](https://t.co/LidNddtNks)\nWe have detected malicious contract deployment 43 minutes before hack\ntransaction. [#CyversAlert]"
+    }
+}
