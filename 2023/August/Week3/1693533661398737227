@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1693533661398737227",
+        "timestamp": "2023-08-21 16:01:03",
+        "original_content": "?Our\nsystem has detected malicious transaction with\n\n[@EthereumHive](/EthereumHive)\n\nat\n[https://etherscan.io/tx/0xad818ec910def08c70ac519ab0fffa084b4178014a91cd8aa2f882d972a511c1\u2026](https://t.co/41GuHWU8cm)\nOld contract of [#EHIVE] has been hacked for\n$15.5K. Attacker has funded by\n\n[@TornadoCash](/TornadoCash)\n\nvia\n[https://etherscan.io/address/0x9f4228e29adbd1ae0a3472efc69f975de34c17f8#internaltx\u2026](https://t.co/Ifh8oNCmax)\n[#CyversAlert]"
+    }
+}
