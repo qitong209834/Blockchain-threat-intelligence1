@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1690964553402667008",
+        "timestamp": "2023-08-14 13:52:20",
+        "original_content": "?Our\nsystem has detected a price manipulation attack at\n[https://etherscan.io/tx/0x0788ba222970c7c68a738b0e08fb197e669e61f9b226ceec4cab9b85abe8cceb\u2026](https://t.co/rUWbATFSCT)\nIt seems that\n\n[@ZunamiProtocol](/ZunamiProtocol)\n\nhas been targeted and attacker gained more than $2.2M. Attacker has funded by\n\n[@TornadoCash](/TornadoCash)\n\nand stolen funds deposited to\n\n[@TornadoCash](/TornadoCash)\n\n[#CyversAlert]"
+    }
+}
