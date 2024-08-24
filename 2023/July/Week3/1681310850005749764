@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1681310850005749764",
+        "timestamp": "2023-07-18 22:31:58",
+        "original_content": "?\nOur system has detected a flashloan attack on\n[#APEDAO] at\n[https://bscscan.com/tx/0x8d35dfd9968ce61fb969ffe8dcc29eeeae864e466d2cb0b7d26ce63644691994\u2026](https://t.co/NWhdnFsTuP)\nAttacker has funded by\n\n[@TornadoCash](/TornadoCash)\n\nand able to gain $7K. Attacker address:\n[https://bscscan.com/address/0x10703f7114dce7beaf8d23cde4bf72130bb0f56a\u2026](https://t.co/9BNYzueaVe)\nSee details about attacker\nbehavior?\n[#CyversAlert]"
+    }
+}
