@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1678300692870492162",
+        "timestamp": "2023-07-10 15:10:41",
+        "original_content": "?Our\nsystem has recently detected a malicious contract interaction with\n\n[@CivFund](/CivFund)\n\nwhich caused $165K loss. Root cause seems to be approval issue, please\n[#revoke] all approvals. Attacker is funded\nby\n\n[@FixedFloat](/FixedFloat)\n\nTRX:\n[https://etherscan.io/tx/0x845f3c0fa982f35840ede0a445098202512cedabd75106da371029c0c5d0ce75\u2026](https://t.co/ujM1KCxYh5)\n[#CyversAlert]"
+    }
+}
