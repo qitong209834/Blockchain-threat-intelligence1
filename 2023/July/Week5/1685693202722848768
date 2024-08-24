@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CurveFinance/status/1685693202722848768",
+        "timestamp": "2023-07-31 00:44:58",
+        "original_content": "A number of stablepools (alETH/msETH/pETH) using Vyper 0.2.15 have been\nexploited as a result of a malfunctioning reentrancy lock. We are assessing\nthe situation and will update the community as things develop. Other pools are\nsafe."
+    }
+}
