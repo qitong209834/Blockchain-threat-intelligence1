@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1753076393737429057",
+        "timestamp": "2024-02-01 23:22:37",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0x1fc1ba6f7be691c949be8c3cea372269f2f5ea5b8710960ebc8b01e86bf3b8f8\u2026](https://t.co/AHNnKkvJfQ)\nWe have detected malicious contract deployment targeting\n\"FixedPriceSaleModule\" contract. Hacker was able to get 3.1\n[$ETH] $7.1K. Attacker was funded by\n\n[@TornadoCash](/TornadoCash)\n\n. Attacker address:\n[https://etherscan.io/address/0xe938d598fda06bf7eda5d25a15835ece97fd841e\u2026](https://t.co/kZPhHgKhnd)\n[#CyversAlert]"
+    }
+}
