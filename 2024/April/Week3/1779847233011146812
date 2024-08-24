@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1779847233011146812",
+        "timestamp": "2024-04-15 20:20:22",
+        "original_content": "?Today,\n@grandbase_fi faced a significant security breach as their deployer's wallet\nwas compromised, allowing the attacker to mint\n[$GB] tokens on\n[#BASEChain] . Unauthorized transactions\ntriggered a staggering decline in the token's value, with prices plummeting by\nover 99%. [$GB] tokens are swapped to\n[#ETH], an approximate sum of 615\n[$ETH], $2M, was bridged to\n[#ETH] wallets. Credit:\n\n[@CertiKAlert](/CertiKAlert)\n\n[#CyversAlert]"
+    }
+}
