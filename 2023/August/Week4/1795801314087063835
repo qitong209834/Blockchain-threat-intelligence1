@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1795801314087063835",
+        "timestamp": "2023-08-23 09:40:09",
+        "original_content": "?On\nAugust 23rd, the [#FBI] issued a warning about\nsix bitcoin addresses linked to the Lazarus Group hacks, including the\nfollowing incidents:?\n[#Alphapo] hack: $60M\n[#Atomic] Wallet hack: $100M\n[#CoinsPaid] hack: $37M The\n[#Lazarus] Group has accumulated around\n1,580 [$BTC] at these addresses:\n3LU8wRu4ZnXP4UM8Yo6kkTiGHM9BubgyiG 39idqitN9tYNmq3wYanwg3MitFB5TZCjWu\n3AAUBbKJorvNhEUFhKnep9YTwmZECxE4Nk 3PjNaSeP8GzLjGeu51JR19Q2Lu8W2Te9oc\n3NbdrezMzAVVfXv5MTQJn4hWqKhYCTCJoB 34VXKa5upLWVYMXmgid6bFM4BaQXHxSUoL Some of\nthese funds have started moving from address\n3LU8wRu4ZnXP4UM8Yo6kkTiGHM9BubgyiG and have been bridged to the Ethereum chain\nvia\n\n[@THORChain](/THORChain)\n\n. It seems that\n\n[@Tether_to](/Tether_to)\n\nis monitoring the Lazarus Group's movements very carefully, as they have\nblacklisted the following address on (337K\n[$USDT])\n[https://etherscan.io/address/0x0f52582114b9d25b2fc243a4727d6b6f93aa9c1f\u2026](https://t.co/mbR8a8o7tb)\n[https://etherscan.io/address/0xf8c6b247871e4ec0ff255b8eb235103ffdfbdfcf\u2026](https://t.co/CzrhVli7fJ)\n[https://etherscan.io/address/0x5f07a408d80ebd893c63e90180b89f9801776f0e\u2026](https://t.co/Au249Mp1AS)\n[#CyversAlert]"
+    }
+}
