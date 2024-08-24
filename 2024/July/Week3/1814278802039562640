@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1814278802039562640",
+        "timestamp": "2024-07-19 18:46:09",
+        "original_content": "?\n\n[@RhoMarketsHQ](/RhoMarketsHQ)\n\nhas announced that they have detected unusual activity on their platform on\n[#Scroll] chain and paused the platform!\nRoot cause of this incident seems to be an oracle access control by a\nmalicious actor! Affected pools are\n[$USDC],\n[$USDT]. Currently, attacker holds $7.6M\nacross multiple chains at\n[https://debank.com/profile/0xe000008459b74a91e306a47c808061dfa372000e/stream\u2026](https://t.co/MWv9IOMJ2J)\nWant to keep your company off our alerts radar? Learn how to secure your\nassets: Book a Demo ?\n[https://calendly.com/d/cpx9-yvd-vpp/demo-\ncall?utm_source=twitter\u2026](https://t.co/qYomYZUVB1)\n[#CyversAlert]"
+    }
+}
