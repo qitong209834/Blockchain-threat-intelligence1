@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1758084885657338339",
+        "timestamp": "2024-01-15 16:41:52",
+        "original_content": "?Our\nsystem has detected a phishing transaction with real\n[$ETH] address positioning at\n[https://etherscan.io/address/0xc6e563f6ef051c002aa89363cd35f7b29e599d77\u2026](https://t.co/AyfUEaTt5B)\nPhisher poisoned victim 0.00001509 [$ETH]\nand victim copied phisher address and sent 17\n[$ETH] $47.6K\n[#CyversAlert]"
+    }
+}
