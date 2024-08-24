@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1763122809381740615",
+        "timestamp": "2024-02-29 16:43:29",
+        "original_content": "?\n\n[@ShidoGlobal](/ShidoGlobal)\n\nrecently experienced an unexpected transfer of ownership at\n[https://etherscan.io/tx/0xaa76ea503fadddf775b1ef7f195676440fdc3ac46ab642798ab6fa7ae3aafcbe\u2026](https://t.co/QLnPZhf6d9).\nThe new owner promptly upgraded the StakingV4Proxy contract by incorporating a\nhidden withdrawToken() function, enabling them to withdraw the entire balance\nof 4,353,473,223.864904 [$SHIDO] tokens.\nThe total loss resulting from this incident amounts to approximately $4M. The\nattacker swapped a portion of the\n[$SHIDO] to\n[$ETH], sending 692.8\n[$ETH] $2.4M to the following address:\n[https://etherscan.io/address/0x4621e0cd8c91ecf1b0efcbf07f0838a5ee25c5dd\u2026](https://t.co/Yz7vj5yTX8).\nThe remaining [$SHIDO] tokens worth\n$1.6M are still held in the attacker's address:\n[https://etherscan.io/address/0x1982358c84da9d0b4b96fc9e8564d132f7d0041f\u2026](https://t.co/PQ9C7EYBWH).\n[#CyversAlert]"
+    }
+}
