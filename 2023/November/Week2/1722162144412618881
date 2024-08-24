@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1722162144412618881",
+        "timestamp": "2023-11-08 16:00:26",
+        "original_content": "?Our\nsystem has detected a malicious transaction at\n[https://etherscan.io/tx/0xb3456a338d7b3e7936a4d08b34e265818c116b7871baef8df1492a35f9f3b1bc\u2026](https://t.co/7w8XMS8NpH)\nIt seems that [#MirageFinance]\n[$MRG] has been exploited $12K. Attacker\nhas labelled as @Belugadex exploiter on\n[#Arbitrum] and funded by\n\n[@okx](/okx)\n\nAttacker:\n[https://etherscan.io/address/0x4843e00ef4c9f9f6e6ae8d7b0a787f1c60050b01\u2026](https://t.co/gPVqiZdTUT)\n[#CyversAlert]"
+    }
+}
