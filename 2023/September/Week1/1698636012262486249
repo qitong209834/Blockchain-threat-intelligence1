@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1698636012262486249",
+        "timestamp": "2023-09-04 17:55:59",
+        "original_content": "?Our\nAI-powered system has detected a malicious transaction at\n[https://etherscan.io/tx/0xbd72bccec6dd824f8cac5d9a3a2364794c9272d7f7348d074b580e3c6e44312e\u2026](https://t.co/vKHewquQI8)\nAttacker has funded by\n\n[@raiIgun_project](/raiIgun_project)\n\n. Total loss is $16K. Stolen funds are deposited to railgun. Is this related\nto you,\n\n[@EverRise](/EverRise)\n\n? [#CyversAlert]"
+    }
+}
