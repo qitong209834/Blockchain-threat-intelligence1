@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1821069428630679920",
+        "timestamp": "2024-08-07 14:22:40",
+        "original_content": "?Hey\n\n[@Nexera_Official](/Nexera_Official)\n\n, Our system has detected a suspicious transaction involving your proxy\ncontract. An address took ownership of your proxy contract and upgraded it.\nShortly after, the address used the withdraw admin function to transfer all\nthe [$NXRA] tokens. The address is\ncurrently selling all the tokens for\n[$ETH], and some of the funds have already\nbeen bridged to the [$BNB] chain. The\ntotal estimated loss is around $1.5 million. Please reach out to us to learn\nhow to protect your digital assets! Want to keep your company off our alerts\nradar? Learn how to secure your assets: Book a Demo\n?\n[https://calendly.com/d/cpx9-yvd-vpp/demo-\ncall?utm_source=twitter\u2026](https://t.co/qYomYZVtqz)\n[#CyversAlert]"
+    }
+}
