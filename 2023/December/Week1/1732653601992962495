@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1732653601992962495",
+        "timestamp": "2023-12-07 14:49:44",
+        "original_content": "?\nOur system has detected multiple suspicious transactions at\n[https://etherscan.io/address/0x1598e7e8d20e7a07be53edbd2e4b012b048d6778\u2026](https://t.co/YZDAZ7OJk0).\nThe address 0x159 received 38 [$ETH],\n12.4K [$DAI], 13.9K\n[$USDC], and 53.4K\n[$USDT]. Further investigation reveals\nthat the address 0x326c4daf6a8002eb790fa2338285e77052078fff lost wallet access\ncontrol, resulting in the loss of digital assets. The affected user has filed\na complaint on the\n\n[@chainabuse](/chainabuse)\n\nplatform at [https://shorturl.at/opzX9](https://t.co/ongtEPkzyX). The attacker\nsuccessfully swapped all digital assets to\n[$ETH] to avoid freezing, subsequently\ndepositing 78 [$ETH] $164K into\n\n[@TornadoCash](/TornadoCash)\n\n! Book a demo to see how\n\n[@Cyvers_](/Cyvers_)\n\n's AddresShield protects digital assets\n?\n[https://cyvers.ai/demo](https://t.co/U9w0pnwSHy)\n[#CyversAlert]"
+    }
+}
