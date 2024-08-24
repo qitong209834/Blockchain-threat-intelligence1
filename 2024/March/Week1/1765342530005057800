@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1765342530005057800",
+        "timestamp": "2024-03-06 19:43:52",
+        "original_content": "?Our\nsystem has detected an address poisoning transaction, resulting in the\nvictim's address being phished, with $59K\n[$USDT] at risk. The funds have not yet\nbeen swapped and can potentially be frozen by\n\n[@Tether_to](/Tether_to)\n\n! Transaction:\n[https://etherscan.io/tx/0x58f8fbdeac7f9eff15934dadeb435dadd527b38936eb980964cd8c0a7d30c059\u2026](https://t.co/VPcuFBCQTK)\nVictim:\n[https://etherscan.io/address/0x38642b1ebcda2e0c9d1e0ae5c366134d18e94730#tokentxns\u2026](https://t.co/3VYy3wBFue)\nPhisher:\n[https://etherscan.io/address/0x251e0a8354156c5f807808ad29fddbd630ed69a7\u2026](https://t.co/sfPxXs6MmO)\n[#CyversALert]"
+    }
+}
