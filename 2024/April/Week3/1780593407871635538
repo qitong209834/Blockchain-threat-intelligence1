@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1780593407871635538",
+        "timestamp": "2024-04-17 21:45:24",
+        "original_content": "?Our\nsystem has detected a suspicious transactions at\n[https://etherscan.io/tx/0x998f1da472d927e74405b0aa1bbf5c1dbc50d74b39977bed3307ea2ada1f1d3f\u2026](https://t.co/puPcP1GgYc)\nAn inactive contract has been attacked and lost $55.4K Victim:\n[https://etherscan.io/address/0x00c409001c1900ddcda20000008e112417db003b\u2026](https://t.co/DhpicF3GOp)\nAttacker:\n[https://etherscan.io/address/0x6beff34a8864b6d44d49ba300c551a81011d6b19\u2026](https://t.co/qKAlSlekXr)\nAttacker has funded by [#Railgun] on\n[#ARB] and stolen funds are bridged $55.4K to\n[#ARB].\n[#CyversAlert]"
+    }
+}
