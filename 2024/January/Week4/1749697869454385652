@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1749697869454385652",
+        "timestamp": "2024-01-23 15:37:34",
+        "original_content": "?Today,\nour AI powered system has detected suspicious transactions involving\n\n[@GAMEEToken](/GAMEEToken)\n\non [#Polygon] with loss of $7M Root cause\nappears to be a lack of access control, possibly resulting in the compromise\nof the [$GMEE] deployer address. Attacker\nalso withdraw significant amount [$GMEE]\nfrom Animoca! All stolen [$GMEE] tokens\nhave been swapped to [$MATIC]. Some of\nthe funds are bridged to [$ETH] chain.\nAdditionally, address on [$ETH] has\ninteracted with\n\n[@WhiteBit](/WhiteBit)\n\nexchange. Every\n\n[@Cyvers_](/Cyvers_)\n\ncustomer is safe! and assets monitored by\n\n[@Cyvers_](/Cyvers_)\n\nnever have been hacked. 0 incidents!\n[#CyversAlert]"
+    }
+}
