@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1762761415608168611",
+        "timestamp": "2024-02-28 16:47:26",
+        "original_content": "?Hey\n\n[@HegicOptions](/HegicOptions)\n\n? On 28 March '21, your\ndeployer initiated a transfer of 1168\n[$ETH] to an EOA. However, on 03 Oct '23,\n660 [$ETH] ($1.1M) began funneling into\n\n[@Tornadocash](/Tornadocash)\n\nvia\n[https://etherscan.io/address/0x08f5abed84693cbfa269d33164a1c900ac3f23e0\u2026](https://t.co/z03d0vVnpF).\nAdditionally, the remaining funds of 508\n[$ETH] ($1.6M) have been deposited to\n\n[@TornadoCash](/TornadoCash)\n\nvia\n[https://etherscan.io/address/0x6b9f305c706908aa80eedad55e8c46466ca5af79\u2026](https://t.co/7nU5fT0CV0)\nlast night! In total, $2.7M has been deposited to\n\n[@TornadoCash](/TornadoCash)\n\nover time! Are you aware of this activity?\n[#CyversAlert]"
+    }
+}
