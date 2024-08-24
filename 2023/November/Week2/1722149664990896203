@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1722149664990896203",
+        "timestamp": "2023-11-08 15:10:50",
+        "original_content": "?Our\nsystem has detected a malicious transaction at\n[https://etherscan.io/tx/0xbf5b2d22fa88965ddfc6e6d685fc7cfc683340c49e126386759ed9e4027b1415\u2026](https://t.co/EckWowVH59)\nIt seems that contract named \"rBalancer(Aura) rETH-WETH\" has been exploited\naround 30 [$ETH] Attacker's address:\n[https://etherscan.io/address/0x9abe851bcc4fd1986c3d1ef8978fad86a26a0c57\u2026](https://t.co/VwpVj7SvO5)\nMalicious contract:\n[https://etherscan.io/address/0x9c52c485edd3d22847a1614b8988fbf520b33047\u2026](https://t.co/GtnlWxiWeS)\n[#CyversAlert]"
+    }
+}
