@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1685694715092701184",
+        "timestamp": "2023-07-31 00:44:58",
+        "original_content": "?Attention\n[#Vyper] users! Versions 0.2.15, 0.2.16, and\n0.3.0 are exposed to malfunctioning reentrancy locks.\n?\ufe0f Immediate action is\ncrucial! Please check your projects and take necessary precautions.\n[#CyversAlert]"
+    }
+}
