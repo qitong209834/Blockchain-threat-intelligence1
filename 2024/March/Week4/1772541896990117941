@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1772541896990117941",
+        "timestamp": "2024-03-26 16:31:35",
+        "original_content": "?Our\nsystem has detected a suspicious transaction involving\n\n[@AstrAstrol75591](/AstrAstrol75591)\n\n, resulting in a total loss of approximately $22K. The attacker appears to\nhave funded\n\n[@TornadoCash](/TornadoCash)\n\n. Furthermore, our system detected a victim contract at malicious contract\ndeployment. The victim's address is:\n[https://bscscan.com/address/0x888827d2b6ab33303c6020d9714b1b0c0689a8dd\u2026](https://t.co/TIkkh0y118)\nIn addition to this, the attacker seems to have gained access control, as\nindicated by the suspicious withdrawal of 624\n[$WBNB] tokens. Notably, the attacker\ncurrently holds a balance of $371K\n[#CyversAlert]"
+    }
+}
