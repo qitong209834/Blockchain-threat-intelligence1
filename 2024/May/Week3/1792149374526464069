@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/blckhv/status/1792149374526464069",
+        "timestamp": "2024-05-19 19:04:42",
+        "original_content": "The recent Noya contest in\n\n[@code4rena](/code4rena)\n\nwas tough, especially for us as we entered 4 days before its end. What we've\ndone is try to find issues with the smallest amount of duplicates, instead of\nfocusing on maximal coverage\n\u2b07\ufe0f \\- Focus on external\nintegrations that we are already familiar with. \\- Think of more ways that can\nbreak the code, that are not part of the code itself. After reviewing the\nsubmissions of the auditors I admire, I can say we are picking a good pace.\n?"
+    }
+}
