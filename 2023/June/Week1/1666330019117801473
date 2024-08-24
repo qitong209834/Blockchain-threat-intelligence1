@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1666330019117801473",
+        "timestamp": "2023-06-07 14:23:30",
+        "original_content": "?Hey\n\n[@compoundfinance](/compoundfinance)\n\n, our system has found a possible\n[#flashloan] attack at\n[https://etherscan.io/tx/0xcff84cc137c92e427f720ca1f2b36fbad793f34ec5117eed127060686e6797b1\u2026](https://t.co/8jc3MAExsZ)\nAttacker was funded by\n\n[@TornadoCash](/TornadoCash)\n\nand gained $27K worth of [$DAI].\n[#CyversAlert]"
+    }
+}
