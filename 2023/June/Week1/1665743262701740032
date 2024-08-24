@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1665743262701740032",
+        "timestamp": "2023-06-05 23:31:56",
+        "original_content": "?Our\nsystem has detected a malicious contract interaction with\n[$SLOT] at\n[https://bscscan.com/tx/0x3638a6a1b9ee0551278bba9c2488a514eff273c3d7a003d686c4eb31ee99d40c\u2026](https://t.co/xoi9iyqpaX)\nand same attacker attacked to [$HORDE]\nat\n[https://bscscan.com/tx/0x681c14e5181c19142f4cb956aa3f4ca9e95d5ecca4f9f0dff1aefc8ed0cddbe6\u2026](https://t.co/G9T9D9xEYs).\nAttacker was funded by\n\n[@TornadoCash](/TornadoCash)\n\nand run away all together $10.3K.\n[#CyversAlert]"
+    }
+}
