@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1693523827681051092",
+        "timestamp": "2023-08-21 15:21:59",
+        "original_content": "?Our\nsystem has detected a malicious transaction at\n[https://etherscan.io/tx/0xcdd93e37ba2991ce02d8ca07bf6563bf5cd5ae801cbbce3dd0babb22e30b2dbe\u2026](https://t.co/MWdlEkz8ul)\nIt seems that\n\n[@BTC20Token](/BTC20Token)\n\nhas been hacked for 18 [$ETH] $30K\nAttacker has funded by\n\n[@TornadoCash](/TornadoCash)\n\n. Attacker address:\n[https://etherscan.io/address/0x6ce9fa08f139f5e48bc607845e57efe9aa34c9f6\u2026](https://t.co/aXvJuSPzmy)\n[#CyversAlert]"
+    }
+}
