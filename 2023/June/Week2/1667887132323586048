@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1667887132323586048",
+        "timestamp": "2023-06-11 21:30:54",
+        "original_content": "?\nOur system has detected an exploit on BNB. A bad actor is funded by\n\n[@TornadoCash](/TornadoCash)\n\ncreates the malicious contract then executes the transaction. Total loss is\n$105K [#CyversAlert] Have a look at\nhow it was captured by our system and the explanation of the attack flow"
+    }
+}
