@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1712125286236442938",
+        "timestamp": "2023-10-11 23:17:32",
+        "original_content": "?Our\nAI powered system has detected a malicious contract interaction with\n[#blackholetoken] at\n[https://bscscan.com/tx/0xc11e4020c0830bcf84bfa197696d7bfad9ff503166337cb92ea3fade04007662\u2026](https://t.co/DxxxUGW2ht)\nAttacker was able to gain $1.2M. We have detected the malicious contract used\n10 min earlier than a attack\ntransaction? All the stolen\nfunds 2K [$BNB] are deposited to\n\n[@TornadoCash](/TornadoCash)\n\nAttacker address:\n[https://bscscan.com/address/0xfdbfceea1de360364084a6f37c9cdb7aaea63464\u2026](https://t.co/7jhpvf7eDh)\n[#CyversAlert]"
+    }
+}
