@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1704411823225623030",
+        "timestamp": "2023-09-20 16:26:59",
+        "original_content": "?Our\nML-powered system just flagged two malicious transactions\n?:\n1\ufe0f\u20e3\n[https://etherscan.io/tx/0x10e3388dc801fbeb9be80687803034047f787cfe78ada237db65a027afb1ca9e\u2026](https://t.co/IxP9Wsbnv3)\n2\ufe0f\u20e3\n[https://etherscan.io/tx/0x62dd18f8858cbe4a6f7f503d9e8a2aee2dfb814cd2fe6fd40d02bd1cfc03aab8\u2026](https://t.co/aGfzFZqAzr)\nThe hacker deployed 2 malicious contracts. Victims:\n\n[@Soda_finance](/Soda_finance)\n\nlost 50 [$SOETH], and\n\n[@immunefi](/immunefi)\n\n's asset XSD Pool contract lost 4.3\n[$WETH]. 65\n[$ETH] (~$109K) were deposited to\n\n[@TornadoCash](/TornadoCash)\n\n[#CyversAlert]"
+    }
+}
