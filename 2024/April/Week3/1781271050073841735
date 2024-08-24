@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1781271050073841735",
+        "timestamp": "2024-04-19 15:23:04",
+        "original_content": "?\n\n[@hedgeyfinance](/hedgeyfinance)\n\nhas experienced security breach with their Hedgey Token Claim Contract! Total\nloss is around $1.9M. Attacker is funded by\n\n[@ChangeNOW_io](/ChangeNOW_io)\n\n. All stolen funds are swapped to [$DAI]\nand transferred to an EOA at\n[https://etherscan.io/address/0xd84f48b7d1aafa7bd5905c95c5d1ffb2625ada46\u2026](https://t.co/merY6JmvQK)\nWe urge all users to revoke all approvals to prevent further loss!\nAnnouncement from team:\n[https://x.com/hedgeyfinance//hedgeyfinance/status/1781257581488418862\u2026](/hedgeyfinance/status/1781257581488418862)\n[#CyversAlert]"
+    }
+}
