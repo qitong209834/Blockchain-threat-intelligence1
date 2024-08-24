@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1719660461778489552",
+        "timestamp": "2023-11-01 18:19:38",
+        "original_content": "?Our\npowered ML system has detected a smart contract exploit at\n[https://etherscan.io/tx/0xf7c21600452939a81b599017ee24ee0dfd92aaaccd0a55d02819a7658a6ef635\u2026](https://t.co/DHgsIvckNM)\ntargeted at\n\n[@OnyxProtocol](/OnyxProtocol)\n\nMalicious contract has been funded by\n\n[@TornadoCash](/TornadoCash)\n\nValue lost is $2.2M USD, funds are now at this address :\n[https://etherscan.io/address/0x085bDfF2C522e8637D4154039Db8746bb8642BfF\u2026](https://t.co/3jbKw21T0N)\nContract has since self destructed"
+    }
+}
