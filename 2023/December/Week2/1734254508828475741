@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1734254508828475741",
+        "timestamp": "2023-12-12 00:51:10",
+        "original_content": "?Earlier\ntoday, Our system has detected multiple suspicious transactions from various\nwallets associated with\n\n[@stoic_dao](/stoic_dao)\n\n. The estimated total loss is approximately $1.1M. The attacker's address is:\n[https://etherscan.io/address/0xc982543623bbd0d79113f8e24d11cdac765afdd5\u2026](https://t.co/rfxeABg4Fz).\nIt appears that some of the funds have been deposited into the\n\n[@MEXC_Official](/MEXC_Official)\n\nexchange. Additionally, a portion has been swapped to\n[$USDC], with $66K\n[$USDC] parked here:\n[https://etherscan.io/address/0x0d837ab89370610d522c7bb812597719c216cb0f\u2026](https://t.co/S8ZelHNjeo)\nYou can reach us to investigate more and learn how to secure your digital\nassets with\n\n[@Cyvers_](/Cyvers_)\n\n! [#CyversAlert]"
+    }
+}
