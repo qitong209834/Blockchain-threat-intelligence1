@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1763091921403056489",
+        "timestamp": "2024-02-29 00:05:35",
+        "original_content": "?\n\n[@SenecaUSD](/SenecaUSD)\n\nexperienced an exploitation resulting in approximately $6.5M in total losses.\nThe primary cause was identified as an arbitrary call issue. Attacker was\nfunded by\n\n[@FixedFloat](/FixedFloat)\n\n. Attacker has transferred $5.3M to [#safe]\naddress which is created by\n\n[@SenecaUSD](/SenecaUSD)\n\n's deployer at\n[https://etherscan.io/address/0xb7aF0Aa318706D94469d8d851015F9Aa12D9c53a\u2026](https://t.co/DFJUmTlEcZ)\nAdditionally, attacker has transferred $1.04M to different EOAs at\n[https://etherscan.io/address/0x0c77350c4bde539ffcee261a149dbc6e6afda517\u2026](https://t.co/Zw8rsNSod4)\n[https://etherscan.io/address/0xa07c64e55f52aaf5c361321cf01b316ecbddb5a9\u2026](https://t.co/tqwfzUYgq4)\nWe recommend users to routinely review their approvals!\n[#CyversAlert]"
+    }
+}
