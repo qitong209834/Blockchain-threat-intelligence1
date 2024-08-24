@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1678651109991145474",
+        "timestamp": "2023-07-07 03:22:49",
+        "original_content": "?\n\n[@MultichainOrg](/MultichainOrg)\n\nassets on [#Fantom]\n[#Arbitrum]\n[#Optimism]\n[#Cronos]\n[#Polygon]\n[#Avaleanche]\n[#BNB]\n[#Moonbeam]\n[#Ethereum] are drained:\n[$USDC]: $23,999,250\n[$fUSDT]: $29,657,932\n[$WBTC]: $2,139,053\n[$WETH]: $17,168,126\n[$ETH] $10,102,001\n[$DAI] : $2,994,317 Sum: $103,277,346\n[#CyversAlert]"
+    }
+}
