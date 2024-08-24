@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1778858838310936839",
+        "timestamp": "2024-04-13 02:51:45",
+        "original_content": "?Hey\n\n[@SumerMoney](/SumerMoney)\n\n, Our system has detected a malicious transaction with your \"Sumer USDC\nDeposit (sdrUSDC)\" contract. Cyvers platform detected the attack 90 seconds\nbefore the exploit transaction! The total loss is around $350K. You can reach\nto us to learn how to"
+    }
+}
