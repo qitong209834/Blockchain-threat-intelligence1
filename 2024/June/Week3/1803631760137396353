@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/WuBlockchain/status/1803631760137396353",
+        "timestamp": "2024-06-20 11:31:36",
+        "original_content": "According to Cyvers CTO\n\n[@Meir_Dv](/Meir_Dv)\n\n, a Certik-associated address: 0x1d\u20267ac9 created a contract: 0x45\u2026CeA9 on the\nBase on May 24, which casts doubt on Certik\u2019s claim that the vulnerability was\ndiscovered on June 5. The address is also testing OKX and Coinbase on May 24\nto see if there is the same vulnerability as Kraken.\n[https://x.com/Meir_Dv/status/1803526308258787704\u2026](/Meir_Dv/status/1803526308258787704)"
+    }
+}
