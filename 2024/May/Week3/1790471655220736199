@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1790471655220736199",
+        "timestamp": "2024-05-15 03:58:02",
+        "original_content": "?A\ncouple of hours ago, the deployer at\n0xb3955302E58FFFdf2da247E999Cd9755f652b13b executed four upgrades on the proxy\ncontract. This contract appears to be associated with\n\n[@ALEXLabBTC](/ALEXLabBTC)\n\n. Within an hour, two addresses initiated withdrawals:\n[https://bscscan.com/tx/0x94746d33792aeb27d2066b6d8f3c8a8c7410fe15c9500059f35e0b21c9bfb416\u2026](https://t.co/Lx65QASGIc)\n[https://bscscan.com/tx/0x47e123af93add709bc2516f6a5db057dfbb1d66a75b693cd7980cd3eb28c7357\u2026](https://t.co/GPYpidxDj0)\nA total of $4.3 million worth of digital assets were transferred to:\n[https://bscscan.com/address/0xa747af2a527e72ce303353b458a1c51ebcd53188\u2026](https://t.co/YRutDsp1qy)\n[https://bscscan.com/address/0x27055ae433e9dcb30f6ebcc1a374cf5cc03c484e\u2026](https://t.co/X8DzYFyAby)\nIt's worth noting that both addresses received funding from\n\n[@TornadoCash](/TornadoCash)\n\n. Want to keep your company off our alerts radar? Learn how to secure your\nassets: Book a Demo ?\n[https://calendly.com/d/cpx9-yvd-vpp/demo-\ncall?utm_source=twitter\u2026](https://t.co/qYomYZUVB1)\n[#CyversAlert][](https://t.co/oBrIAWVRnA)\n"
+    }
+}
