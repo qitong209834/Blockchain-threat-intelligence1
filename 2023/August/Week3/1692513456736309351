@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1692513456736309351",
+        "timestamp": "2023-08-18 20:27:08",
+        "original_content": "?Earlier\ntoday,\n\n[@exactlyprotocol](/ExactlyProtocol)\n\nhas been hacked with multiple transactions.\n1.[https://optimistic.etherscan.io/tx/0x3d6367de5c191204b44b8a5cf975f257472087a9aadc59b5d744ffdef33a520e\u2026](https://t.co/NllTQbVDAO)\n2.[https://optimistic.etherscan.io/tx/0x1526acfb7062090bd5fed1b3821d1691c87f6c4fb294f56b5b921f0edf0cfad6\u2026](https://t.co/0G4bOruQ5i)\n3.[https://optimistic.etherscan.io/tx/0xe8999fb57684856d637504f1f0082b69a3f7b34dd4e7597bea376c9466813585\u2026](https://t.co/8lipZgidfF)\nTotal loss is more than 7100 [$ETH] $12M\nStolen funds are bridged to [#Ethereum]\n[#CyversAlert]"
+    }
+}
