@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Cyvers_/status/1692158131743441214",
+        "timestamp": "2023-08-17 20:55:04",
+        "original_content": "Regarding the data layer, if attackers modify the data while uploading it to\nthe chain, it may lead to irreversible errors due to the immutability of the\nblockchain. This can be possible mainly based on the above two categories."
+    }
+}
