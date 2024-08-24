@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1739294179623162095",
+        "timestamp": "2023-12-25 22:37:01",
+        "original_content": "?Our\nAI-powered system has identified several irregular transactions linked to\n[https://etherscan.io/address/0x2cbd36e764db1cef5ef3d0c097139858ab3e6897\u2026](https://t.co/KE363xferl).\nIt seems the address marked as Fake_Phishing268895\n[https://etherscan.io/address/0x00006bbe73c2c7878dc9dc19e0d947e4c4270000\u2026](https://t.co/h05hafKFP2)\nhas received approvals from users transferred their digital assets! These\ndigital assets have been swapped for approximately 41.4\n[$ETH] $91K and transferred through\nvarious EOAs to\n\n[@TornadoCash](/TornadoCash)\n\nWe strongly advise revoking any permissions granted to this suspicious address\nto safeguard your assets and prevent further unauthorized activity.\n[#CyversAlert]"
+    }
+}
