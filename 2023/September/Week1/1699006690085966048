@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1699006690085966048",
+        "timestamp": "2023-09-05 18:28:55",
+        "original_content": "?Our\nsystem has detected a malicious transaction at\n[https://etherscan.io/tx/0xe28ca1f43036f4768776805fb50906f8172f75eba3bf1d9866bcd64361fda834\u2026](https://t.co/TsCiX6c24S)\nIt seems that [$HATE] has been hacked\n$10.5K. Attacker has funded by\n\n[@TornadoCash](/TornadoCash)\n\nand executed the malicious transaction. Attacker address:\n[https://etherscan.io/address/0x6ce9fa08f139f5e48bc607845e57efe9aa34c9f6\u2026](https://t.co/aXvJuSPzmy)\n[#CyversAlert]"
+    }
+}
