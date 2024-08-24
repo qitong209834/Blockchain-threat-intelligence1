@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1681542880383447041",
+        "timestamp": "2023-07-19 13:53:58",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0x82a9a63df7a808506060ede5e87912dc05c62c82b43210808ed359808548b681\u2026](https://t.co/JmMK1FlYX3)\nDeployer of [$TOOTH] token has removed\n97 [$ETH] $186K from liquidity pool. Funds\nare sitting here:\n[https://etherscan.io/address/0xdd61451792a349ed5a6a9b5c9367d267370f6790\u2026](https://t.co/TK44KRnGxO)\nDoes project belong to you @DRAtoothless?\n[#CyversAlert]"
+    }
+}
