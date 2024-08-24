@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1742335957141946435",
+        "timestamp": "2024-01-03 08:03:57",
+        "original_content": "?Our\nAI powered system has detected suspicious transaction involving\n\n[@RDNTCapital](/RDNTCapital)\n\nRoot cause seems like to be price manipulation issue! Total loss is more than\n$4.4M. Attacker's address:\n[https://arbiscan.io/address/0x826d5f4d8084980366f975e10db6c4cf1f9dde6d\u2026](https://t.co/2FtQAhJ6nh)\nMalicious contract:\n[https://arbiscan.io/address/0x39519c027b503f40867548fb0c890b11728faa8f\u2026](https://t.co/n0VKf9ABHO)\nTeam has sent a on-chain message asking for further communication at\n[https://arbiscan.io/tx/0xcd1865e3bf185fc5fe0b5fb055f6d74cfa68ee50335ff92ad721063538922664\u2026](https://t.co/bDq27b4lyK)\n[#CyversAlert]"
+    }
+}
