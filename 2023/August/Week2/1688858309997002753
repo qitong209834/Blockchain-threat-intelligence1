@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1688858309997002753",
+        "timestamp": "2023-08-08 18:22:53",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0x0fa4f9d141e9de470a75ef5760db78335072c993ab70303b3ff805ac8ae9e09e\u2026](https://t.co/9nkVuIYJ41)\nIt seems that deployer of the [$PLANK]\nhas removed 157 [$ETH] $287K 30\n[$ETH] has been deposited to\n\n[@TornadoCash](/TornadoCash)\n\nand rest is transferred to\n\n[@cointool](/cointool)\n\nvia\n[https://etherscan.io/address/0x85e6e67e7cc0fb9d88001cb42192479bf0c1f8c0\u2026](https://t.co/bbIPYuQBDq)\n[#CyversAlert]"
+    }
+}
