@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1742126043006116054",
+        "timestamp": "2024-01-02 18:09:50",
+        "original_content": "?Our\nAI-powered system has identified multiple\n[#rugpull] transactions on\n[#ARB] linked to this address:\n[https://arbiscan.io/address/0xd2dbf67e79de04596b77eb7a28aaf23f029fba1d\u2026](https://t.co/3cesjUU5zx).\nThe address has been involved in creating numerous tokens. The address has\nbridged 500K [$USDT] to\n[$ETH], then swapping it to\n[$DAI] before depositing into\n\n[@TornadoCash](/TornadoCash)\n\nat\n[https://etherscan.io/address/0xd2dbf67e79de04596b77eb7a28aaf23f029fba1d\u2026](https://t.co/Pq0QfzPM6R).\nIt still possesses 563K [$USDC] on\n[$ARB]. We urge you NOT to engage with any\ntokens associated with this address.\n[#CyversAlert]"
+    }
+}
