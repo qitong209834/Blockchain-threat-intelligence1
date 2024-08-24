@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1665711503566163968",
+        "timestamp": "2023-06-05 21:25:44",
+        "original_content": "?Hey\n\n[@doppler](/doppler)\n\n, our system has detected a malicious contract interaction at\n[https://etherscan.io/tx/0xbd6be33de57014f8fc1d7eb6fc748306781872c83e504d80692412a1d9197234\u2026](https://t.co/LpNWVZtSiA),\nmalicious actor created and funded by\n\n[@TornadoCash](/TornadoCash)\n\n. You might have lost $7.6K\n[#CyversAlert]"
+    }
+}
