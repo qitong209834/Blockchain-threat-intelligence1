@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1690974655660650496",
+        "timestamp": "2023-08-14 14:32:29",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0xf6df8ceadb34188f2f605ff3b8e623f21af8982470f6254bd2e7866651611403\u2026](https://t.co/Jlqs4yhzUk)\nDeployer of the [$FERB] has removed 64.8\n[$ETH] $120.9K and transferred to EOA\n[https://etherscan.io/address/0x5826fe7344358d62ea8332d49371b6ba206ce7f8\u2026](https://t.co/jcZxbyAng2)\nFrom there 40 [$ETH] has been deposited to\n\n[@TornadoCash](/TornadoCash)\n\n. [#CyversAlert]"
+    }
+}
