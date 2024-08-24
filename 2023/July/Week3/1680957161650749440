@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1680957161650749440",
+        "timestamp": "2023-07-17 23:06:32",
+        "original_content": "?Our\nsystem has detected flashloan transaction at\n[https://bscscan.com/tx/0x557628123d137ea49564e4dccff5f5d1e508607e96dd20fe99a670519b679cb5\u2026](https://t.co/6r2sqVyNUj)\nAttacker is funded by\n\n[@TornadoCash](/TornadoCash)\n\ncash via an EOA address. Loss is totally $31K. Attacker:\n[https://bscscan.com/address/0x3a10408fd7a2b2a43bd14a17c0d4568430b93132\u2026](https://t.co/3cpJkiJQDV)\n[#CyversAlert]"
+    }
+}
