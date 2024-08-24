@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1731976194214523060",
+        "timestamp": "2023-12-05 17:57:57",
+        "original_content": "?Our\nsystem has detected that the [#Multisig]\nhacker has transferred 2K [$ETH] to\n$3.861M to\n[https://etherscan.io/address/0x4fb0bc75d56035fb6d07c80e44c156c88ba852ba\u2026](https://t.co/ofzsrSDhKk)\nsince September 23! This consolidation address has deposited 324\n[$ETH] $715K to the\n[#eXch] exchange since September 23.\nAdditionally, 950 [$ETH] (worth $2.09M)\nhas been transferred to another EOA at\n[https://etherscan.io/address/0xa4f681a20e741a64cde5720cdd024baf9eae1c39\u2026](https://t.co/rWvlpjvxom).\n[#CyversAlert]"
+    }
+}
