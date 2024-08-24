@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1811348411947405364",
+        "timestamp": "2024-07-11 18:34:49",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at :\n[https://bscscan.com/tx/0x368f842e79a10bb163d98353711be58431a7cd06098d6f4b6cbbcd4c77b53108\u2026](https://t.co/ycTJEO9A9Z)\nThe attacker, funded by\n\n[@TornadoCash](/TornadoCash)\n\n, has gained $49.5K. Additionally, the attacker sent an on-chain message to\nthe contract deployer, claiming to be a white-hat hacker and requesting an EOA\nto transfer the funds at:\n[https://bscscan.com/tx/0xe0a2c42c4b312a1b9199303476ac9497c177241c60385da56676cf3818e592da\u2026](https://t.co/WZ38FkVGll)\nWant to keep your company off our alerts radar? Learn how to secure your\nassets: Book a Demo ?\n[https://calendly.com/d/cpx9-yvd-vpp/demo-\ncall?utm_source=twitter\u2026](https://t.co/qYomYZUVB1)\n[#CyversAlert]"
+    }
+}
