@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1682274406637117440",
+        "timestamp": "2023-07-21 14:20:48",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0x56309f995387e882865a87b6a7f37d1984c1ac108b37b350441063d7efa3a3b6\u2026](https://t.co/drcQCsdtpu)\nDeployer of [$LAW] has removed 12.9\n[$ETH] $24.5K from liquidity pool and\ntransferred to\n[https://etherscan.io/address/0xf4c50ee2b0e892c9ba0d63e546c650f9072804cc\u2026](https://t.co/8s9kanjN87)\n[#CyversAlert]"
+    }
+}
