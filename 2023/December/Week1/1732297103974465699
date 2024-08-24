@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1732297103974465699",
+        "timestamp": "2023-12-06 15:13:08",
+        "original_content": "?Our\nsystem has detected malicious transactions at\n[https://bscscan.com/tx/0x51913be3f31d5ddbfc77da789e5f9653ed6b219a52772309802226445a1edd5f\u2026](https://t.co/whV2o7pGf0).\nIt appears that\n\n[@BEARNDAO](/BEARNDAO)\n\nhas fallen victim to a loss amounting to $769K. Attacker:\n[https://bscscan.com/address/0xce27b195fa6de27081a86b98b64f77f5fb328dd5\u2026](https://t.co/epfZIQHv52)\nAttacker's contract:\n[https://bscscan.com/address/0xe1997bc971d5986aa57ee8ffb57eb1deba4fdaaa\u2026](https://t.co/XVO3ZXppzX)\nSome of the funds have been transferred to different addresses:\n[https://bscscan.com/address/0x42df55549558b6119fe9c628b856dec6b86ed4c5#tokentxns\u2026](https://t.co/j2eBWlftgj)\n[https://bscscan.com/address/0x4d1f328e0dc4d3e8b7a81184cb89edc4cb7cd63a#tokentxns\u2026](https://t.co/hEG26QxXES)\n[#CyversAlert]"
+    }
+}
