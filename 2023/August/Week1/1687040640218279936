@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/Cyvers_/status/1687040640218279936",
+        "timestamp": "2023-08-01 01:38:00",
+        "original_content": "? The vulnerability was\ncaused by the Vyper language compiler rather than the smart contract code\nitself. An unreported flaw in versions 0.2.15-0.3.0 allowed attackers to\nbypass the reentrancy lock modifier, enabling the exploit."
+    }
+}
