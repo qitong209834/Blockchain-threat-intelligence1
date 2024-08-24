@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1701367820276158598",
+        "timestamp": "2023-09-12 06:51:12",
+        "original_content": "?\n\n[@0x0Audits](/0x0Audits)\n\n, Our system has detected malicious transaction at\n[https://etherscan.io/tx/0x00b375f8e90fc54c1345b33c686977ebec26877e2c8cac165429927a6c9bdbec\u2026](https://t.co/98TR4Yzwbr)\nIt seems that your proxy contract has been exploited for $61K 39.9\n[$ETH] Attacker can be white hat, funded\nby\n\n[@MEXC_Official](/MEXC_Official)\n\nYou can reach to us for further assistance!\n[#CyversAlert]"
+    }
+}
