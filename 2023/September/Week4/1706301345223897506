@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1706301345223897506",
+        "timestamp": "2023-09-25 21:35:16",
+        "original_content": "?Red\nCode?Yesterday, our ML-\npowered system detected a suspicious transaction involving\n\n[@HuobiGlobal](/HuobiGlobal)\n\nand\n\n[@HTX_Global](/HTX_Global)\n\n. Despite our attempts to reach out, we received no response. An EOA received\n5K [$ETH] $7.9M from\n\n[@HuobiGlobal](/HuobiGlobal)\n\n's hot wallet. ? This\nmorning, we spotted\n\n[@HTX_Global](/HTX_Global)\n\n's hot wallet migration, as announced on their support page. We've confirmed\none of their hot wallets was compromised, resulting in an $7.9M loss. Hacker\naddress:?\n[https://etherscan.io/address/0xdb1d74467c9042517a354304256e0d658d8aec83\u2026](https://t.co/bu89FwGN5R).\n?\n\n[@HuobiGlobal](/HuobiGlobal)\n\nis offering a 5% white hat bonus to the hacker at\n[https://etherscan.io/tx/0x87f216527e8552c94e1f2c7b6bba167712585a7fbd385781aa5d61ba0b7f863b\u2026](https://t.co/nSeEDrERqr)\n(In Chinese) Please contact us for more information!\n? FYI:\n\n[@tayvano_](/tayvano_)\n\n,\n\n[@zachxbt](/zachxbt)\n\n,\n\n[@1nf0s3cpt](/1nf0s3cpt)\n\n. [#CyversAlert][](https://t.co/XfrcS8khDw)\n"
+    }
+}
