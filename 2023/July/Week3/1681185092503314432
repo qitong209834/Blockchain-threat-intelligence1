@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1681185092503314432",
+        "timestamp": "2023-07-18 14:12:15",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0xbdc83cdbdec860f78006d77452dd2982142cd9a79b9757a7f995f64598855f2f\u2026](https://t.co/Td3ekEYeAs)\nDeployer of [$MOJO] token has removed 15\n[$ETH] $28K and transferred to\n0xfF86d3Fe5c441df786A57Dc6676B95E592e849ED\n[#CyversAlert]"
+    }
+}
