@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1775072778112180640",
+        "timestamp": "2024-04-02 16:08:24",
+        "original_content": "?Our\nsystem has detected some suspicious transactions with\n\n[@FixedFloat](/FixedFloat)\n\n! Approximately 14 hours ago, a staggering $2.8M was withdrawn from their hot\nwallet on the [$ETH] chain. The funds were\ndirected to a suspicious address, which subsequently received various digital\nassets including [$ETH],\n[$USDT],\n[$WETH],\n[$DAI], and\n[$USDC]. The suspicious address promptly\nswapped these assets into [$ETH] via\n[#DEX] , before funneling all funds into the\n[#eXch] exchange. After these transactions,\nthe hot wallet ceased its operations, and the company's website is currently\nundergoing maintenance. It's pertinent to note that\n\n[@FixedFloat](/FixedFloat)\n\nexperienced a previous security breach on February 16, resulting in a loss of\n$26M attributed to an access control issue.\n[#CyversAlert]"
+    }
+}
