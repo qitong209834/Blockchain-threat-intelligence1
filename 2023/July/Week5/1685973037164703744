@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1685973037164703744",
+        "timestamp": "2023-07-31 19:17:50",
+        "original_content": "?Our\nsystem has detected a suspicious transaction at\n[https://etherscan.io/tx/0x1f2759b030c31dc41b0d9f0f8f5b9cc03f6751981ba358027ef48710e3a38b45\u2026](https://t.co/0DwBQJBdCi)\nIt seems that deployer of [#RAIDEN] token\nhas removed 50.9 [$ETH] $95.4K from\nliquidity pool. 54 [$ETH] has been\ndeposited to\n\n[@TornadoCash](/TornadoCash)\n\nvia\n[https://etherscan.io/address/0xebada7c9c0aa7f1934c5d01139efa4e4f8247dd5\u2026](https://t.co/IoHP0tOf3r)\n[#CyversAlert]"
+    }
+}
