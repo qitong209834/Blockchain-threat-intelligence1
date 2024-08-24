@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1729785112487690731",
+        "timestamp": "2023-11-29 16:51:23",
+        "original_content": "?\n\n[@VelodromeFi](/VelodromeFi)\n\nhas announced that their frontend has been compromised! Attacker was able to\ngain around $42K. Attacker addresses:\n[https://etherscan.io/address/0x02BA13f39D7df9C3F7592257b636eD6C7CC4ae78\u2026](https://t.co/hjfDzSPP6G)\n[https://etherscan.io/address/0xf64fCEdFCe714Bbe835761e54D7067f2f8231443\u2026](https://t.co/IOuew0LBW0)\nDo not interact with project website until control is taken!\n[#CyversAlert]"
+    }
+}
