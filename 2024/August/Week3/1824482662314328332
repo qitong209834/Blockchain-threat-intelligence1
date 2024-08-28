@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/functi0nZer0/status/1824482662314328332",
+        "timestamp": "2024-08-17 00:24:38",
+        "original_content": "First week of Wildcat V2 audit done Issues found: * One medium (credential\ngriefing) * One low hardly worth fixing (we will anyway) * Two notes I'm\nposting this because Sod's law suggests this is the way to find six criticals\nquickly Will continue to update over the next weeks"
+    }
+}
