@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/0xSweetMoolah/status/1798336154040938977",
+        "timestamp": "2024-06-05 02:25:19",
+        "original_content": "In case you have missed it, here is a very interesting review of Euler V2\nwhich dives into their core algorithms and important pieces of code.\nIncluding: Higher-level design, Core, Vaults, Oracles, Risk management and\nAdditional implementation details:"
+    }
+}
