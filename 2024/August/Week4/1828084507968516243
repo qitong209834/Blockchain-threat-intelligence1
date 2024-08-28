@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/SlowMist_Team/status/1828084507968516243",
+        "timestamp": "2024-08-26 22:58:05",
+        "original_content": "? SlowMist Weekly Security\nReport (Aug 18-24) While we don't have an exact amount that was compromised\nthis week, we are seeing a raise in compromised accounts. Total Incidents: 8\nTotal Losses: N/A (But the damage is done!)\n? Account Compromises: \\-\nAquarius, Polygon, Artela, McDonald\u2019s, AvaLabs, Sahara AI: Multiple social\nmedia & Discord hacks. Avoid clicking any suspicious links!\n? Contract Vulnerability:\n\\- HFLH: Attack on BNB Chain\u2014stay vigilant and protect your assets!\n? Frontend Attack: \\-\nParcl: Website hacked, draining wallets & showing fake transactions. Be\ncautious of fake rewards and double-check all transactions! Insights: 1\\. Lock\nDown Your Accounts: Use strong, unique passwords and enable 2FA everywhere!\n2\\. Stay Skeptical: Always verify links and messages\u2014beware of phishing! 3\\.\nRegular Audits: Maintain routine audits prevent these breaches and stay up to\ndate on the latest vulnerabilities. Please note that the list above includes\nall reported events; there may be others that went unreported. For additional\ninformation, please visit\n[https://hacked.slowmist.io](https://t.co/e90CSvTm6B) As always, stay\nvigilant!"
+    }
+}
