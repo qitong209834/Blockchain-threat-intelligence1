@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1820795419905110469",
+        "timestamp": "2024-08-06 18:54:39",
+        "original_content": "Analysis: The root cause is the failure to properly initialize operator weight\nconfiguration required for cross-chain transaction confirmation during\ncontract upgrade. The minimumVoteWeight parameter is set to zero, allowing any\nsignature to pass cross-chain verification."
+    }
+}
