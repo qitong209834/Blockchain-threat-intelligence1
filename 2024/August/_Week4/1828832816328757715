@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1828832816328757715",
+        "timestamp": "2024-08-27 01:32:55",
+        "original_content": "The winner is\n\n[@886Lian](/886Lian)\n\n. There were two bugs: 1\\. The first one was injected, where ownership is\ntransferred to the zero address, making both functions useless. 2\\. The second\none was found in the actual contest, which Lian described below."
+    }
+}
