@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1828755527901286611",
+        "timestamp": "2024-08-28 18:09:05",
+        "original_content": "?Today,\nour system has detected some malicious transactions involving\n[#AAVE] across different chains! However,\ntransactions were detected on peripheral\n[#Aave] contracts, but they DONT affect the\ncore protocol or user funds. The issue involved leftover \"dust\" from past\ntransactions, with no impact on other users. Aave Labs has disabled the\naffected features temporarily as a precaution.\n\n[@bgdlabs](/bgdlabs)\n\n, We were happy to help! Want to keep your company off our alerts radar? Learn\nhow to secure your assets: Book a Demo\n?\n[https://calendly.com/d/cpx9-yvd-vpp/demo-\ncall?utm_source=twitter@bgdlabs\u2026](https://t.co/bUEpLKNwrU)\n[#CyversAlert]"
+    }
+}
