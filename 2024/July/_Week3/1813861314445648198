@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1813861314445648198",
+        "timestamp": "2024-07-18 16:50:52",
+        "original_content": "4/ The attacker obtains signature data from the WazirX multisig wallet and\nmodifies the wallet's logic contract to the pre-deployed attack contract. The\ncorresponding tx is:"
+    }
+}
