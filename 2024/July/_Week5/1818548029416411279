@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1818548029416411279",
+        "timestamp": "2024-07-31 12:06:28",
+        "original_content": "Terra blockchain was exploited for ~60M\n[$ASTRO], 3.5M\n[$USDC], 500k\n[$USDT], and 2.7\n[$BTC]. The attacker exploited a\nreentrancy vulnerability in the timeout callback of ibc-hooks. The\nvulnerability was disclosed in April this year:\n[https://github.com/cosmos/ibc-\ngo/security/advisories/GHSA-j496-crgh-34mx\u2026](https://t.co/CY39X28KyE)"
+    }
+}
