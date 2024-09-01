@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1830090808135205064",
+        "timestamp": "2024-09-01 11:50:24",
+        "original_content": "Can you find the bug in this code? This is a simplified version of an actual\nbug discovered in a Sherlock audit contest. Identify the bug in this Voter\ncontract that could lead to stuck rewards"
+    }
+}
