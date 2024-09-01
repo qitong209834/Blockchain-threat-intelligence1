@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1829793706938974221",
+        "timestamp": "2024-08-13 20:27:53",
+        "original_content": "?Our\nsystem detected an address poisoning transaction on the\n[$BNB] chain, leading to a $100K loss 1\ndays ago. The scammer swapped all [#BUSD] and\ndistributed the funds across multiple EOAs. The total loss from this scam\nvector is around $1.86M for August. Most of the losses in August have been\ntraced to [$ETH],\n[$BNB],\n[$BASE], and\n[$ARB] chains. If you wish to safeguard\nyourself against such scams, please contact us to arrange a demo of our\nsolution at ?\n[https://calendly.com/d/cpx9-yvd-vpp/demo-\ncall?utm_source=twitter\u2026](https://t.co/qYomYZUVB1)\n[#CyversAlert]"
+    }
+}
