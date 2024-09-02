@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1830491313088647675",
+        "timestamp": "2024-09-02 14:21:52",
+        "original_content": "?Our\nsystem has flagged a suspicious transaction involving an MEV contract at\n[https://etherscan.io/tx/0x394536f49a0823921f958c3131c6e9c4b6fcfeb9ce86cd3bab2462d7d5adec5a\u2026](https://t.co/28ZIN0ZQTM)\nAn address funded via\n\n[@TornadoCash](/TornadoCash)\n\non BNB was bridged to the [#ETH] chain using\nOKX Web3 services and exploited the MEV contract, resulting in a $4.6K loss.\nStolen funds are deposited to\n\n[@TornadoCash](/TornadoCash)\n\nat\n[https://etherscan.io/address/0x6cbdf9d5d54392c277062fccfa1fc86426f282cd\u2026](https://t.co/PTHkl9vulo)\nWant to keep your company off our alerts radar? Learn how to secure your\nassets: Book a Demo ?\n[https://calendly.com/d/cpx9-yvd-vpp/demo-\ncall?utm_source=twitter@bgdlabs\u2026](https://t.co/bUEpLKNwrU)\n[#CyversAlert]"
+    }
+}
