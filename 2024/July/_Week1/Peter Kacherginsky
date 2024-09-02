@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "Peter Kacherginsky",
+        "timestamp": "2024-07-01 00:00:00",
+        "original_content": "\u2219 Paid\n\nGreetings!\n\nAlmost $75M were stolen this week across 7 incidents. This week\u2019s incidents continue the trend where the majority of losses have little to do with smart contracts. Insider threat (Holograph), web2 infra (CoinStats), hot wallet compromise (BTCTurk) all serve as a reminder to start paying more attention to security controls outside of smart contract audits. Even Ethereum Foundation was impacted after their mailing list dependency (SendPulse) was compromised to send phishing emails."
+    }
+}
