@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CertiKAlert/status/1831194775544099324",
+        "timestamp": "2024-09-04 11:13:15",
+        "original_content": "[#CertiKInsight]\n?\n\n[@Penpiexyz_io](/Penpiexyz_io)\n\nPenpie contracts on Ethereum and Arbitrum suffered reentrancy attacks. The\nattacker 0x7A2f4D625Fb21F5e51562cE8Dc2E722e12A61d1B exploited the reward\naccounting and swapped its gain for 11,109 ETH (~$27M)."
+    }
+}
