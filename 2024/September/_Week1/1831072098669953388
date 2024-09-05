@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1831072098669953388",
+        "timestamp": "2024-09-04 04:49:42",
+        "original_content": "Today\n\n[@Penpiexyz_io](/Penpiexyz_io)\n\nwas exploited, resulting in a loss of $>16M, including $7,879,029.18 wstETH,\n$2,517,458.57 sUSDe, $3,409,021.04 agETH, $2,226,244.80 rswETH and four other\nPendle-related YT tokens. The root cause is the introduction of an evil market\nthat was used to inflates the staking balance to claim unwarranted rewards.\nHere is the related tx/address:\n[https://etherscan.io/tx/0x56e09abb35ff12271fdb38ff8a23e4d4a7396844426a94c4d3af2e8b7a0a2813\u2026](https://t.co/MaexBd4L0E)\n[https://etherscan.io/address/0x7a2f4d625fb21f5e51562ce8dc2e722e12a61d1b\u2026](https://t.co/e5g3eJJVLP)"
+    }
+}
