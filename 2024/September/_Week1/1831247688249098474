@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CyversAlerts/status/1831247688249098474",
+        "timestamp": "2024-09-04 03:24:23",
+        "original_content": "?Last night, Cyvers was the\nfirst Web3 security company to identify a smart contract exploit targeting\n\n[@Penpiexyz_io](/Penpiexyz_io)\n\n, an independent protocol built on\n\n[@pendle_fi](/pendle_fi)\n\n. ? Analysis: The\nvulnerability exploited was in the PendleStaking contract, which lacked a\nreentrancy guard. The attacker created a fake SY token and linked it to\nvaluable PENDLE-LPT market tokens, using untrusted market arguments. By\ninvoking batchHarvestMarketRewards(), they harvested rewards based on changes\nin balance, triggering a sequence that allowed them to re-enter the contract,\ndeposit, and withdraw minted shares\u2014securing a profit. Cyvers remains\ncommitted to safeguarding the Web3 ecosystem. Stay alert and ensure your smart\ncontracts are secure. ?\n[#Web3Security]\n[#Blockchain]\n[#SmartContract]\n[#DeFi]\n[#Reentrancy]\n[#Penpie]\n[#Pendle]\n[#HackDetection]\n[#Cyvers]"
+    }
+}
