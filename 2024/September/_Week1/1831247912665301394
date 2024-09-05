@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CertiKAlert/status/1831247912665301394",
+        "timestamp": "2024-09-04 12:57:11",
+        "original_content": "5/ PendleStaking proceeded to calculate the new reward as the balance had\nincreased from the previous deposit. The rewards were sent to the rewarder of\nmarket_0x5b6c which was configured to take LP_0x6010 and LP_0x038c as\nbonusTokens"
+    }
+}
