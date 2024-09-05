@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CertiKAlert/status/1831247914514989237",
+        "timestamp": "2024-09-04 12:57:11",
+        "original_content": "6) The exploiter both claimed the reward from PendlePie and withdrew from\nPendleStaking, effectively doubling the initial LP deposit The LP was burned\nto remove liquidity from markets, 0x6010 and 0x038c, to acquire 1808 rswETH\nand 2754 agETH. Half was used to repay the initial flashloan"
+    }
+}
