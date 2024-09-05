@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/sherlockdefi/status/1830656172803965297",
+        "timestamp": "2024-09-03 01:16:58",
+        "original_content": "Do you know the answer? Consider a scenario where you make a transaction to a\nsmart contract and the transaction reverts. Will there be any state changes at\nany level in case of a revert or not? Give your reasoning in the comments.\n?"
+    }
+}
