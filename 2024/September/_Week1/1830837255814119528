@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/CertiKAlert/status/1830837255814119528",
+        "timestamp": "2024-09-03 13:16:31",
+        "original_content": "[#CertiKInsight]\n? Pythia staking contract\nwas drained in suspicious claimRewards() calls by\neth:0xd861e6F1760d014D6EE6428cF7F7d732563c74c0 The profit was swapped for 21\nETH (~$53K) and has been deposited to\n[http://Tornado.Cash](https://t.co/0lwPdz0OWi). Stay Vigilant!"
+    }
+}
