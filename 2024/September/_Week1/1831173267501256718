@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1831173267501256718",
+        "timestamp": "2024-09-04 11:31:42",
+        "original_content": "1\\. The attacker first created an attack contract and built the corresponding\nmarket contract through the official factory contract 2\\. The\nbatchHarvestMarketRewards() of the staking contract was called to update the\nreward for the market where the redeemRewards() is called."
+    }
+}
