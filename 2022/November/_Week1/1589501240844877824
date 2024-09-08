@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1589501240844877824",
+        "timestamp": "2022-11-07 14:13:17",
+        "original_content": "6/ The attacker executed two more attacks and returned the flashloan with a\nprofit of 424 [$BNB] (~ $140,000).\nSuggestion: When developing contracts, pay attention to flashloan attack\nscenario, the security of the way rewards are issued, and the secure use of\nlibrary functions."
+    }
+}
