@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1571503544230084609",
+        "timestamp": "2022-09-18 22:16:53",
+        "original_content": "3/ So far 741 ETHW have been sent to the exchange by the attacker. Beosin\nrecommends manually updating the chainId if it is pre-defined in the contract,\neven if the project decides not to support ETHW."
+    }
+}
