@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1585587030981218305",
+        "timestamp": "2022-10-27 18:59:41",
+        "original_content": "[$VTF] on BNB chain was attacked. The\nattacker 0x57c112cf4f1E4e381158735B12aaf8384B60E1cE profited 58,000\n[$BUSD]. There is a bug in VTF's contract\nto receive holding rewards. Under normal circumstances, users can claim\n[$VTF] token holding rewards via the\nupdateUserBalance function."
+    }
+}
