@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1564240190851383302",
+        "timestamp": "2022-08-29 21:14:58",
+        "original_content": "[#BeosinAlert]\n[$DDC] was exploited for $104,600 in tx\n([https://bscscan.com/tx/0xd08cfb22d14bc4f2808970b5ce2557124ae3d7dc9fda756647a3427b8275f054\u2026](https://t.co/h6KWif4cEK))\nAttack flow?: The attacker\nfirst swapped 1.3 USD for 26 [$DDC]."
+    }
+}
