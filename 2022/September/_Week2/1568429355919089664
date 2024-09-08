@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1568429355919089664",
+        "timestamp": "2022-09-10 10:41:13",
+        "original_content": "[#BeosinAlert]\n[$DPC] was hacked for ~$103,755. The\nattacker first used the tokenAirdop function in the DPC token contract to\nprepare for claiming the rewards, then swapped\n[$USDT] for\n[$DPC], added liquidity to obtain LP\ntokens, and then staked LP tokens in the token contract."
+    }
+}
