@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1566647888393822208",
+        "timestamp": "2022-09-05 12:42:15",
+        "original_content": "3/ The attacker redeems [$DAO] into BSC-\nUSD, then keeps redeeming each other to get the rewards issued in the contract\n(0xea41...34D0). Finally repays the flashloan and swaps the profits for BSC-\nUSD, which are currently sit in the attacker\u2019s address."
+    }
+}
