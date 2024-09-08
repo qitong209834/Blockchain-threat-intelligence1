@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1588579161651957760",
+        "timestamp": "2022-11-05 01:09:16",
+        "original_content": "When the [$BDEX] price of the BDEX-WBNB\npair gets higher, the convertDustToEarned function can be called to buy BDEX\nagain at a high price using WBNB. At this point the price of BDEX rises again,\nand the hacker uses the reserve to swap for more\n[$WBNB], making a profit of 16\n[$WBNB]."
+    }
+}
