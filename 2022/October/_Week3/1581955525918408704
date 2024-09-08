@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1581955525918408704",
+        "timestamp": "2022-10-17 18:11:37",
+        "original_content": "4/ Seems that the attacker did not fully decompile all the contract codes. The\nattack contract only swapped [$MT] and\nforgot about the more valuable [$ULM]."
+    }
+}
