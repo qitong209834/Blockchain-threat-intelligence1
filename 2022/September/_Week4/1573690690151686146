@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1573690690151686146",
+        "timestamp": "2022-09-24 23:07:48",
+        "original_content": "4/ The assembled information was then sent to the [http://api.circle-\ncdn.com](https://t.co/KICdVMamx1) server in file format using the curl\ncommand, in a txt format named after a random number. No temporary files were\nleft after the upload and cleanup."
+    }
+}
