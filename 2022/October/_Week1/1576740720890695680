@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1576740720890695680",
+        "timestamp": "2022-10-02 09:44:51",
+        "original_content": "4/ This contract does not validate calldata, which is parsed as the input\nbelow, specifying the recipient as the attacker's address."
+    }
+}
