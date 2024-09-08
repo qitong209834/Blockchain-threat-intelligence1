@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1580097386256662529",
+        "timestamp": "2022-10-12 15:25:48",
+        "original_content": "[#BeosinAlert] The Journey of\nawakening project [$ATK] suffered a\nflashloan attack with a loss of ~$120,000. The ATK project's strategy contract\n(0x96bF2E6CC029363B57Ffa5984b943f825D333614) was targeted by flashloan and a\nlarge amount of [$ATK] tokens were taken\nfrom the contract."
+    }
+}
