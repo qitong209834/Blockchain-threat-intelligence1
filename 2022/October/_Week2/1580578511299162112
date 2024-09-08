@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/AptinLabs/status/1580578511299162112",
+        "timestamp": "2022-10-13 23:17:37",
+        "original_content": "APTIN has been relaesed v1.0.13, This is the final community test version on\n[#Aptos] Testnet. Mainnet is ready for\nlaunch! Following notes: \\- add @switchboardxyz price feed fuction \\- add\nliquidition fuction \\- Fix v0.9.23 bugs Following the guide.\n[https://docs.aptin.io/aptin-finance/testnet-getting-started/start-\nhere\u2026](https://t.co/yCFqdh8ltQ)"
+    }
+}
