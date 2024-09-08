@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1578375800427945984",
+        "timestamp": "2022-10-05 00:03:57",
+        "original_content": "On Oct 5, Sovryn\n\n[@SovrynBTC](/SovrynBTC)\n\nwas hacked for ~$1.1 million (44.93\n[$RBTC] and 211,045\n[$USDT]). The root cause of the exploit\nwas the external call of _callTokensToSend function. An analysis by\nBeosin?"
+    }
+}
