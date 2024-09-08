@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1579863848747950082",
+        "timestamp": "2022-10-11 23:57:47",
+        "original_content": "Tx: 0x8c3f442fc6d640a6ff3ea0b12be64f1d4609ea94edd2966f42c01cd9bdcf04b5\nAttacker: 0x9c9fb3100a2a521985f0c47de3b4598dafd25b01 Beosin Trace have found\nthat all the stolen funds have been transferred to the\n0x2B63d4A3b2DB8AcBb2671ea7B16993077F1DB5A0 address."
+    }
+}
