@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1555925823735050245",
+        "timestamp": "2022-08-06 22:36:36",
+        "original_content": "2/ The root cause is the initialized function of the victim contracts can be\nrepeatedly called by anyone. The attacker\n(0x43ec1d163cc4c15b574f86d8203c3b0f3ebed7a3) first created fake LP tokens and\nuses the initialized function to set the contract's real LP token to the fake\none."
+    }
+}
