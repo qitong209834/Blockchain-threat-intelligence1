@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1568429367306616832",
+        "timestamp": "2022-09-10 10:41:13",
+        "original_content": "3/ Finally, the attacker called the claimDpcAirdrop function in the\n[$DPC] contract to claim the rewards and\nswapped them for [$USDT]. The stolen\nfunds are still at the attacker's address\n0xf211Fa86CBc60d693D687075B03dFF3c225b25C9."
+    }
+}
