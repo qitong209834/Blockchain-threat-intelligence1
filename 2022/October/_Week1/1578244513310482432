@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1578244513310482432",
+        "timestamp": "2022-10-07 12:43:08",
+        "original_content": "Brief analysis of the\nexploit?\n[#Binance]\n\n[@cz_binance](/cz_binance)\n\nBSC Token Hub uses a special pre-compiled contract for validating IAVL trees\nwhen performing cross-chain transaction verification. There is a bug in its\nimplementation which may allow an attacker to forge arbitrary messages."
+    }
+}
