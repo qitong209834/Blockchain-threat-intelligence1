@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1589501237988585472",
+        "timestamp": "2022-11-07 14:13:15",
+        "original_content": "5/ So the attacker used flashloan to amplify the proceeds (the last time 733\ndays ago), and bypassed the iscontract. It is worth noting that here\ndepositAll and withdrawAll are not time-related, so the attacker can call\nwithdrawAll immediately after deposit to claim the reward."
+    }
+}
