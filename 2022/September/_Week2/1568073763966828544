@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1568073763966828544",
+        "timestamp": "2022-09-09 11:08:13",
+        "original_content": "[#ScamAlert]\n\u26a0\ufe0f Beosin EagleEye detected\nthat $Elizabeth token\n[https://bscscan.com/token/0x9dc18f8a7bbd6d45088204e214b079428281753d\u2026](https://t.co/L4hMSAZYk8)\nis a potential scam. There's a backdoor in the contract. The recipient will\ngrant 0xf6eB...8167f2 the maximum approval after a normal address receives a\ntransfer."
+    }
+}
