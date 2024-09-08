@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1580498617793929216",
+        "timestamp": "2022-10-13 13:14:27",
+        "original_content": "5/ The claimRank() function passes in a term (>= 1 day) for minting, requiring\nonly to pay gas fee of calling. The claimMintRewardAndShare() function is for\nclaiming, which only judges the term is reached or not (1 day set by hacker),\nthen it can be withdrawn unconditionally."
+    }
+}
