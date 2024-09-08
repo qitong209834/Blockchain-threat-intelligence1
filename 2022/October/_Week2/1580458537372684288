@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1580458537372684288",
+        "timestamp": "2022-10-13 13:14:27",
+        "original_content": "4/ FTX hot wallet address will transfer a small amount of money to the attack\ncontract, and subcontracts are created in batches. The subcontracts will self-\ndestruct each time after execution. Then subcontract's fallback() function\nwill initiate mint request to Xen contract."
+    }
+}
