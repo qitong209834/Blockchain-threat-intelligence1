@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1578246676677918721",
+        "timestamp": "2022-10-07 12:43:08",
+        "original_content": "5) Adjust the leaf node added in step 3 so that the computed root hash is\nequal to the correct root hash selected in step 1 for a successful commit 6)\nFinally construct the withdrawal proof for that particular block (110217401)"
+    }
+}
