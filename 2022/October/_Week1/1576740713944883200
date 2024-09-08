@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1576740713944883200",
+        "timestamp": "2022-10-02 09:44:51",
+        "original_content": "3/ In the implementation of Transit Swap contract, none of the above three\ncontracts properly validate the user\u2019s input data, allowing the attacker to\nconstruct any specified calldata, in which the approved user's tokens can be\ntransferred to any address specified by the hacker."
+    }
+}
