@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1564957807266484230",
+        "timestamp": "2022-08-31 20:46:28",
+        "original_content": "3/ The attacker flashloaned [$USDT] to\nget [$VENUS], then staked them to get LP\ntokens, sent LP to multiple addresses and then claim\n[$Cupid] tokens by calling the\n0xe98bfe1e() function of the victim contract, finally sold them for a profit\nof 78,623 USDT."
+    }
+}
