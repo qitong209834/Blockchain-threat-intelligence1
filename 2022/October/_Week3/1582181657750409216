@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1582181657750409216",
+        "timestamp": "2022-10-18 09:27:50",
+        "original_content": "Step 7: The attacker swaps all the\n[$PLTD] tokens to\n[$BUSD], almost draining the entire BUSD\nbalance of Case-LP. The attacker gains 690,000\n[$BUSD] and repays the 666,000 BUSD\nflashloan. The remaining 24,497 [$BUSD]\nprofit is sent to 0x083c057221e95D45655489Fb01b05C4806387C19"
+    }
+}
