@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1559760874184646657",
+        "timestamp": "2022-08-17 05:22:01",
+        "original_content": "[#BeosinAlert]\n\n[@stader__near](/stader__near)\n\nhas experienced a hack with a loss of ~165k\n[$Near](~$830,000). The attacker\n\"gregoshes.near\" first deposited 82\n[$Near] to get 79\n[$Nearx]. Then he exploited a Reentrancy\nvulnerability in the nearx.stader-labs.near contract's batch_transaction\nfunction."
+    }
+}
