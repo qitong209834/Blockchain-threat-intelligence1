@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1584551436184322048",
+        "timestamp": "2022-10-24 22:24:30",
+        "original_content": "7/ The price obtained by calling get_virtual_price() in the price function in\nCurvePoolOracle is not the correct price."
+    }
+}
