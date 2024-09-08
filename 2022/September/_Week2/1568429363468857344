@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1568429363468857344",
+        "timestamp": "2022-09-10 10:41:13",
+        "original_content": "2/ The attacker then repeatedly called the claimStakeLp function to repeatedly\nclaim the rewards. The rewards can keep accumulating because of the \"\nClaimQuota = ClaimQuota.add(oldClaimQuota[addr]);\" in the getClaimQuota\nfunction."
+    }
+}
