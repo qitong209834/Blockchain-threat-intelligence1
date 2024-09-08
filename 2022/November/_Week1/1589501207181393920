@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1589501207181393920",
+        "timestamp": "2022-11-07 14:13:13",
+        "original_content": "[#Flashloan] Beosin EagleEye monitored a\nflashloan attack on MooCakeCTX contract. The loss is ~$140K. There is no time\nrestrictions on collateral and rewards, and the prevention of caller is not\ncomprehensive enough, enabling the attacker to increase dividends via\nflashloan."
+    }
+}
