@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1579003620741513216",
+        "timestamp": "2022-10-07 12:43:08",
+        "original_content": "Vulnerablity: In the branch where len(pin.Left) is not 0, pin.Right data is\nnot used when calculating hash. The hacker exploits this to construct data and\nadd proof.LeftPath[1].Right data, but the data is not involved in the hash\ncalculation. Current version has fixed this bug."
+    }
+}
