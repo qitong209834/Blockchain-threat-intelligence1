@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1579863842179670017",
+        "timestamp": "2022-10-11 23:57:47",
+        "original_content": "[@templedao](/templedao)\n\nWe\u2019re seeing reports that TempleDAO was hacked for ~$2.36M. The root cause is\nthe lack of permission checks in the migrateStake function of the\nStaxLPStaking contract. Anyone can withdraw StaxLP from the contract through\nthis function."
+    }
+}
