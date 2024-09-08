@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1582181650976616448",
+        "timestamp": "2022-10-18 09:27:49",
+        "original_content": "Look at line 451 to 456. In step 4, _bron is set to the balance of Cake-LP\nminus 1, and the fifth step restores the balance of Cake-LP. This step\ndirectly reduces the balance of Cake-LP to 1, and then calls the sync function\nof Cake-LP to synchronize the balance to reserve."
+    }
+}
