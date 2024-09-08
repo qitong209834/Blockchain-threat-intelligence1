@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1580426718711463937",
+        "timestamp": "2022-10-13 13:14:27",
+        "original_content": "We're seeing reports that FTX\n\n[@FTX_Official](/FTX_Official)\n\nwas under an gas stealing attack. The attacker deploys the arbitrage contract\nand then initiates an ETH withdrawal operation from FTX to the arbitrage\ncontract."
+    }
+}
