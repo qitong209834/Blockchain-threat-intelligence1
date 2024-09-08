@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1573217029574004736",
+        "timestamp": "2022-09-23 15:45:40",
+        "original_content": "Polkadot uses a hybrid consensus algorithm combining BABE (Blind Assignment\nfor Blockchain Extension) and GRANDPA algorithms in order to guarantee both\nprobabilistic and provable certainty. BABE is responsible for block\nproduction, while GRANDPA is for finalizing blocks."
+    }
+}
