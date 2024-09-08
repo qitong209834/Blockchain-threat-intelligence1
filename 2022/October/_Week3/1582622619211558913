@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1582622619211558913",
+        "timestamp": "2022-10-19 14:40:06",
+        "original_content": "The collateralized lending contract supports the lending of 4 tokens CELO,\ncEUR, cUSD, and MOO. We assume that the price of each token may be based on\nits CELO pair. Since the latter 3 tokens have not been exchanged, the price\nhas not changed and has only been borrowed once."
+    }
+}
