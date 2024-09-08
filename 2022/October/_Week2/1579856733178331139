@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1579856733178331139",
+        "timestamp": "2022-10-11 23:29:32",
+        "original_content": "Rabby Swap\n\n[@Rabby_io](/Rabby_io)\n\nsuffered an exploit with a loss of ~$200,000. There is an external call to\nRabbyRouter's _swap function, resulting anyone can call this function and\ntransfer out users\u2019 funds who have approved this contract. Pls revoke approval\nfor the following contracts:"
+    }
+}
