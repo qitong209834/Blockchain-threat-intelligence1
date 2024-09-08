@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1573690613022662656",
+        "timestamp": "2022-09-23 20:34:05",
+        "original_content": "[#BeosinAlert]\n[#supplychain] Please note the\nmalicious attack code in the v2 Margin Trading SDK v0.41.1 if you trade on\n\n[@dYdX](/dYdX)\n\n. The exception file [http://api.circle-\ncdn.com/setup.py](https://t.co/7OmhR4BoD5) was from a publicly available\nmalicious code sample library on Github\uff1a [https://github.com/phylum-\ndev/malware-\nsamples/blob/87323ccc0d5c63222a42c188a64cdf35fb506c5d/npm/%40dydxprotocol/perpetual/setup.py\u2026](https://t.co/5t77PCViag)"
+    }
+}
