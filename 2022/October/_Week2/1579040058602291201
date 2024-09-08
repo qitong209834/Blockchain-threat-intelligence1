@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1579040058602291201",
+        "timestamp": "2022-10-09 17:24:20",
+        "original_content": "2/ The attacker first created the attack contract\n0xe167cdaac8718b90c03cf2cb75dc976e24ee86d3 to call the DaoModule 0x8f90\ncontract's executeProposalWithIndex() function to execute a proposal."
+    }
+}
