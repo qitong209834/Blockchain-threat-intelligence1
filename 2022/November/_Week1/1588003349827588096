@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1588003349827588096",
+        "timestamp": "2022-11-03 11:01:15",
+        "original_content": "The root cause is the redeem_skyward function of the skyward.near contract\ndoes not properly check the token_account_ids parameter, enabling the attacker\nto pass in the the same token_account_id and claim the\n[$WNear] reward multiple times."
+    }
+}
