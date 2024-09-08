@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1572174852517416960",
+        "timestamp": "2022-09-20 18:44:29",
+        "original_content": "[#BeosinAlert] Wintermute\n\n[@wintermute_t](/wintermute_t)\n\nhacked for $160M due to private key compromise. Attacker address:\n0xe74b28c2eae8679e3ccc3a94d5d0de83ccb84705 Attack contract:\n0x0248f752802b2cfb4373cc0c3bc3964429385c26 Victim contract:\n0x00000000ae347930bd1e7b0f35588b92280f9e75"
+    }
+}
