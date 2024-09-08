@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1584551399941365763",
+        "timestamp": "2022-10-24 22:24:27",
+        "original_content": "CurvePoolOracle was under TWO attacks, which affected\n\n[@QiDaoProtocol](/QiDaoProtocol)\n\nand\n\n[@market_xyz](/market_xyz)\n\n. Attacker 1(0x4206d) gained 138 [$ETH]\nand attacker 2 (0xe3671) profited 700\n[$Matic]. Attacker 1:\n0x4206d62305d2815494dcdb759c4e32fca1d181a0 Attacker 2:\n0xe3671a41c44f50048e60939df3d26704c9652d9d"
+    }
+}
