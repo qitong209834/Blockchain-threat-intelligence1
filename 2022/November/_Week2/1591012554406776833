@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1591012554406776833",
+        "timestamp": "2022-11-11 18:18:40",
+        "original_content": "In the deposit function, the attacker transfers the tokens to the flashloan\ncontract to provide liquidity, then contract minted the LP tokens to the\nattacker, allowing the attacker to use the withdraw function to withdraw\ntokens. Eventually the flashloan judgment will be passed.[](https://t.co/OYh4i7IVA9)\n"
+    }
+}
