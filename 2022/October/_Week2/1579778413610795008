@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1579778413610795008",
+        "timestamp": "2022-10-11 18:18:16",
+        "original_content": "The attacker first used 0x68e8198d5b3b3639372358542b92eb997c5c314 address\n(suspected the project owner's address) to call the bridgeWithdraw function in\nthe contract to withdraw the QANX tokens, and then swapped them for the\ncorresponding platform tokens."
+    }
+}
