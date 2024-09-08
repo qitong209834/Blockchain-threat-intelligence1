@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1588579154542620674",
+        "timestamp": "2022-11-05 01:09:16",
+        "original_content": "The root cause is the convertDustToEarned function of the BvaultsStrategy\ncontract does not do price checks. Also, small trading pairs are sensitive to\nprice fluctuations in swapping volume. The attacker first swaps 34\n[$WBNB] for 14181\n[$BDEX] tokens as reserve."
+    }
+}
