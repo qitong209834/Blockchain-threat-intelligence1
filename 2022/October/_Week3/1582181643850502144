@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1582181643850502144",
+        "timestamp": "2022-10-18 09:27:49",
+        "original_content": "Step 6: All the previous operations are for this step. The attacker transfers\n1 [$PLTD] to the address\n0x16b9a82891338f9ba80e2d6970fdda79d1eb0dae, and since this address is not the\naddress of Take-LP, the internal function _tokenTransfer is called for this\ntransfer."
+    }
+}
