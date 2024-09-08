@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1566647882140160000",
+        "timestamp": "2022-09-05 12:42:15",
+        "original_content": "2/ The attacker first creates an attack contract, calls the mock function, and\nflashloans a large amount of [$BSC]-USD to\nswap for [$DAO]. Then calls the 0xe23d04e4\nfunction of (0xea41... .34D0) to get the rewards."
+    }
+}
