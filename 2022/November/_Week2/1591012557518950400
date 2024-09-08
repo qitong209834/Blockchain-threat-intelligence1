@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1591012557518950400",
+        "timestamp": "2022-11-11 18:18:42",
+        "original_content": "Our recommendation: a) It is suggested to perform a reentrancy protection. b)\nContract balance should not be used when judging the return of flashloan."
+    }
+}
