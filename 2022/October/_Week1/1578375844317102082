@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1578375844317102082",
+        "timestamp": "2022-10-07 21:24:54",
+        "original_content": "7/ Finally, the attacker calls the burn function to burn 22,653 Load Token to\nget 27,086 side token. Then the attacker calls the related function in a loop\nto get the side token, and finally converts them to RBTC. The stolen funds\nwere deposited to Tornado cash."
+    }
+}
