@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1585587038057029632",
+        "timestamp": "2022-10-27 18:59:41",
+        "original_content": "However, the function does not determine how long the user has held the token.\nThe attacker deploys a large number of attack contracts in advance, gets the\nfirst [$VTF] via flashloan, then transfers\nVTF tokens to the attack contract in turn to claim the holding rewards."
+    }
+}
