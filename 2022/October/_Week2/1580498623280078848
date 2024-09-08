@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1580498623280078848",
+        "timestamp": "2022-10-13 13:14:27",
+        "original_content": "6/ However, in the calling process, the transaction initiator is the FTX hot\nwallet address, so the entire call process of gas is paid by the FTX hot\nwallet address, and the Xen mint address is the attacker\u2019s address."
+    }
+}
