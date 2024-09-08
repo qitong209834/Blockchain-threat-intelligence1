@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1584888021299916801",
+        "timestamp": "2022-10-25 20:42:04",
+        "original_content": "Beosin EagleEye monitored a flashloan attack on\n[$ULME] with a loss of 50,646\n[$BUSD]. Users are advised to revoke\nBUSD's approval for ULME contracts and transfer out funds in time. Attack\nflow?\n[https://bscscan.com/tx/0xdb9a13bc970b97824e082782e838bdff0b76b30d268f1d66aac507f1d43ff4ed\u2026](https://t.co/mODhpDugs4)"
+    }
+}
