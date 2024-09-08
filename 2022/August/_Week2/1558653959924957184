@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1558653959924957184",
+        "timestamp": "2022-08-13 23:38:26",
+        "original_content": "GEMDAO rugged with 322 [$BNB] (~$105,553).\nThe contract owner called the backdoor function transfer() to increase the\n[$GEMDAO] balance and then redeemed the\n[$WBNB] in the pool. The transfer()\nfunction will directly increase its own balance when the recipient is the\nowner."
+    }
+}
