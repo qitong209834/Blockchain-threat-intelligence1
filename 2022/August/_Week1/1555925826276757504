@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1555925826276757504",
+        "timestamp": "2022-08-06 22:36:36",
+        "original_content": "3/ The attacker then stakes the fake token via the stake function to obtain\nthe contract's LP tokens; then, the attacker again uses the initialized\nfunction to set back to the original real LP token, and withdraw the\ncontract's real LP through the withdraw function."
+    }
+}
