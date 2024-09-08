@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1585938516890243072",
+        "timestamp": "2022-10-28 18:16:16",
+        "original_content": "The NFT id obtained by locking token A can participate in the migration of the\nFEG-WETH pair, without detecting if the user's lock is the same as the one\nbeing operated. The parameter sqrtPriceX96 relating to the price calculation\nof the UNI-V3 migration, is also input by user."
+    }
+}
