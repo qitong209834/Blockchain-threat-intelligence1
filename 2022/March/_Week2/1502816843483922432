@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1502816843483922432",
+        "timestamp": "2022-03-13 09:14:55",
+        "original_content": "2/ The hack is made possible due to a reentrancy bug (introduced by the use of\na crafted token contract) in the depositByAddLiquidity() function, which\nsomehow doubles the credits the hacker is able to claim.[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1830544359529562112/APU5-mmw?format=jpg&name=small)](https://t.co/isehpJCd1N)\n"
+    }
+}
