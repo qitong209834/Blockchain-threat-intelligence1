@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1595300056156213248",
+        "timestamp": "2022-11-23 10:16:33",
+        "original_content": "Tx\uff1a0xf6ff8f672e41b8cfafb20881f792022f6573bd9fbf4f00acaeea97bbc2f6e4f7 This was\ncaused by private key compromise as the transaction was initiated from the\n0x6be8...5e894 address. The total loss is ~$42M."
+    }
+}
