@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1595346828069081088",
+        "timestamp": "2022-11-23 17:21:37",
+        "original_content": "The hacker calls the changeRewardPerNode function to set daily reward value to\nan extremely large number, then claim the node reward via claimNodeReward. The\ncalculation of node reward depends on the rewardPerDay value set by the\nhacker, resulting in a high calculated reward."
+    }
+}
