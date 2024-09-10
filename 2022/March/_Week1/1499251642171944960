@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1499251642171944960",
+        "timestamp": "2022-03-03 13:08:02",
+        "original_content": "3/ The hack is made possible due to a bug in distinguishing ERC721 and ERC1155\nin buyItem(), which mis-calculates the price of ERC721 as ERC1155 with the\n(untrusted) given 0 quantity.[![](https://pbs.twimg.com/card_img/1830554498437365760/QnYOGT3f?format=jpg&name=small)](https://t.co/rUTIGgWEth)\n"
+    }
+}
