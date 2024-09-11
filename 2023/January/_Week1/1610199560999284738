@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1610199560999284738",
+        "timestamp": "2023-01-03 17:01:03",
+        "original_content": "8/ Also the account is updated with 'lastEpoch[_from] = currentEpoch'\nafterwards, so an account cannot claim rewards repeatedly, which explains why\nthe attacker creates a large number of attack contracts. The total profit is\n39,201 [$USDC] and 11,112,305\n[$GDS], or about $180,000."
+    }
+}
