@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1613928057563234313",
+        "timestamp": "2023-01-13 23:56:48",
+        "original_content": "[@LendHubDefi](/LendHubDefi)\n\non Heco was exploited for $6M. LendHub has two contracts and the old contract\nis not deprecated, allowing an attacker to use collateral on the first Lendhub\ncontract to obtain pegged tokens, then use the pegged tokens to borrow funds\non the second contract."
+    }
+}
