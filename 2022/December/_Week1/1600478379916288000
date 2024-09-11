@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1600478379916288000",
+        "timestamp": "2022-12-07 21:12:32",
+        "original_content": "When calling the transfer function, if the sender is the pair contract, part\n[$AES] will be burned (similar to\ndeflationary). Through repeated forced balancing operations,\n[$AES] is burned to a small amount, so\nthat a small amount of [$AES] can be\nswapped for a large amount of [$USDT]."
+    }
+}
