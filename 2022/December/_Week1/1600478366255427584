@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1600478366255427584",
+        "timestamp": "2022-12-07 21:12:32",
+        "original_content": "Beosin EagleEye monitored an exploit on\n[$AES]. The attacker gained ~$61,608.\nAttacker: 0x85214763f8eC06213Ef971ae29a21B613C4e8E05"
+    }
+}
