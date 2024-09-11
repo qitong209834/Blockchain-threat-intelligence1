@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1622852770872303616",
+        "timestamp": "2023-02-07 15:00:25",
+        "original_content": "In the executeInteractions function, any interaction parameters can be\nspecified and pass in GPv2Interaction\u2019s library execute to call. The execute\nfunction can make any call to the target specified by the interaction\nparameter through the CoW Protocol: GPv2Settlement contract."
+    }
+}
