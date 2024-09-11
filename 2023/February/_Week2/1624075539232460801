@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1624075539232460801",
+        "timestamp": "2023-02-10 23:59:11",
+        "original_content": "8/ Although get_virtual_price is only a read-only function, relying on the\noutput of get_virtual_price introduces vulnerabilities. An attacker can create\na fallback function when receiving native tokens to liquidate other users'\naccounts in case of price manipulation."
+    }
+}
