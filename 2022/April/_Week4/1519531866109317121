@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1519531866109317121",
+        "timestamp": "2022-04-28 12:14:28",
+        "original_content": "2/ The hack is made possible due to the flashloan-assisted manipulation of\nprice oracle that reads from the StableV1 AMM - USDC/DEI pair. The manipulated\nprice of collateral DEI is then used to borrow and drain the pool. Sounds\nfamiliar?[![Visit\nftmscan.com](https://pbs.twimg.com/card_img/1830561597657673728/U3b2vJw2?format=jpg&name=small)](https://t.co/USKNHhXeid)\n"
+    }
+}
