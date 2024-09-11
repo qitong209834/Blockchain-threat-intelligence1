@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1623942548082556930",
+        "timestamp": "2023-02-10 15:10:48",
+        "original_content": "2/ The pool balance can be manipulated due to pair addresses is not\n_isExcluded addresses. The attacker flashloaned some\n[$BUSD] or\n[$WBNB], bought corresponding tokens, and\nburned the tokens in the attack contract by repeatedly calling the burn\nfunction."
+    }
+}
