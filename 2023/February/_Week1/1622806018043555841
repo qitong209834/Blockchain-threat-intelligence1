@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1622806018043555841",
+        "timestamp": "2023-02-07 11:54:38",
+        "original_content": "3/ The attacker uses the tAmount to call deliver function, which is to reduce\nthe user-specified tAmount and add it to the fee. The 284631626035854 tAmount\nFDPs account for 28% of the entire FDP total supply.[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1830544359529562112/APU5-mmw?format=jpg&name=small)](https://t.co/EA0c60Tbfz)\n"
+    }
+}
