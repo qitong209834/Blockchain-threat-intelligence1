@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1624075541870678016",
+        "timestamp": "2023-02-10 23:59:12",
+        "original_content": "9/ Suggestion When interacting with the curve LP protocol, especially when a\nprice needs to be obtained, the reentrancy lock should be triggered before\nobtaining the price. One appropriate solution is to call the pool's\nwithdraw_admin_fees function to trigger a reentrancy lock."
+    }
+}
