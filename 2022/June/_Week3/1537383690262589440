@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1537383690262589440",
+        "timestamp": "2022-06-16 18:33:39",
+        "original_content": "3/ The hack is made possible due to the price oracle manipulation, which\nmisuses the balances of assets in the pool to directly calculate the LP token\nprice. It is greatly facilitated by the flashloan to skew the reserves in the\npool."
+    }
+}
