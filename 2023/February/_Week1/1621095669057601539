@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1621095669057601539",
+        "timestamp": "2023-02-02 18:38:16",
+        "original_content": "8/ The hacker sets [$WALBT] to a low\nprice in 2nd TX. When the [$WALBT] price\nis extremely low, the stake rate of WALBTs staked by other users will be at\nliquidation, enabling hacker to liquidate\n[$WALBT] staked by other users at low\ncost, eventually obtaining ~114M WALBT."
+    }
+}
