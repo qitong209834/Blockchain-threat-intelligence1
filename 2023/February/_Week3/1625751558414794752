@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1625751558414794752",
+        "timestamp": "2023-02-15 14:59:09",
+        "original_content": "The attacker is then able to use the safeTransferFrom function to directly\ntransfer the [$WETH] approved to the\nvictim contract by the \u2018from address\u2019 to the attack contract without signature\nverification."
+    }
+}
