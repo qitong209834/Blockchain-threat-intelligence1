@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1602907558532231169",
+        "timestamp": "2022-12-14 14:05:17",
+        "original_content": "Beosin EagleEye monitored an exploit on\n\n[@nmbplatform](/nmbplatform)\n\n. tx: 0x42f56d3e86fb47e1edffa59222b33b73e7407d4b5bb05e23b83cb1771790f6c1 The\nattacker made a profit of ~$76,415, which now held in the address:\n0x9D3B564983fd44E727CdaD3C47CfC3D81Ed5bB4B"
+    }
+}
