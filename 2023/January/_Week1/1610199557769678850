@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1610199557769678850",
+        "timestamp": "2023-01-03 17:01:02",
+        "original_content": "7/ The 0x0b995c0 attack contract transfers 2,184,763 liquidity tokens to the\nprevious 0x0f8d735c0 attack contract and claims the rewards. The amount of\nreward is related to the proportion of liquidity tokens, so the attack\ncontract can claim a large amount of GDS rewards."
+    }
+}
