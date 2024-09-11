@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1602546351295721476",
+        "timestamp": "2022-12-13 14:09:56",
+        "original_content": "4/ The AMPL-USDC pool of ElasticSwap on Ethereum was also attacked by the same\ntechnique, Tx:\n[https://etherscan.io/tx/0xb36486f032a450782d5d2fac118ea90a6d3b08cac3409d949c59b43bcd6dbb8f\u2026](https://t.co/9d5QwcOgd9)\nThe attacker made a profit of ~445 [$ETH]\nor about 564k [$USD], which is still held\nin the attacker's account 0xbeadedbabed6a353c9caa4894aa7e5f883e32967"
+    }
+}
