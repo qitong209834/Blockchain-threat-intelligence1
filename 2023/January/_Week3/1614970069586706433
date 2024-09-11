@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1614970069586706433",
+        "timestamp": "2023-01-16 20:57:23",
+        "original_content": "The hacker first used flashloan to get a large amount of\n[$BUSD], swapped for $520 tokens, then\ncalled the procback() function to burn 520 token of LP address. This step will\nraise the price of $520. The attacker finally swapped $520 back for BUSD to\nmake a profit."
+    }
+}
