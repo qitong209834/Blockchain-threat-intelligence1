@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1520369315698016256",
+        "timestamp": "2022-04-30 19:47:46",
+        "original_content": "The old reentrancy bug bites again on Compound forks w/ $80M loss! This time,\nit re-enters via exitMarket()!!!\n[https://etherscan.io/tx/0xab486012f21be741c9e674ffda227e30518e8a1e37a5f1d58d0b0d41f6e76530\u2026](https://t.co/NpC8AAZRXc)\nWatch out, all Compound forks in EVM-compliant chains. Get in touch with your\nauditors now or feel free to contact us if we can be of any help[![](https://pbs.twimg.com/card_img/1830553222685085697/p8ZlTSuo?format=jpg&name=small)](https://t.co/Lv4YheVZ9X)\n"
+    }
+}
