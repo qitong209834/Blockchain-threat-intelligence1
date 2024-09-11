@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1626421567629705216",
+        "timestamp": "2023-02-17 11:21:33",
+        "original_content": "Platypus @Platypusdefi on Avalanche was under a flashloan attack with a loss\nof $8.5M.\n[https://snowtrace.io/tx/0x1266a937c2ccd970e5d7929021eed3ec593a95c68a99b4920c2efa226679b430\u2026](https://t.co/L9ACF0WJ76)\nThe attacker first flashloans 44M\n[$USDC], then calls deposit function of\nthe Platypus contract, which will mint an equal amount of LP-USDC."
+    }
+}
