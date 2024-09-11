@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1623942551945486337",
+        "timestamp": "2023-02-10 15:10:48",
+        "original_content": "3/ This results in a decrease in _tTotal and a larger return value for\n_getrate, which led to a gradual decrease in the pool balance to 1. The\nremaining tokens were then swapped for a large amount of\n[$BUSD] or WBNB at a high price."
+    }
+}
