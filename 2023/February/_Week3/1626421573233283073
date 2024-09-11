@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1626421573233283073",
+        "timestamp": "2023-02-17 11:21:33",
+        "original_content": "3/ The _borrowLimitUSP function returns a percentage of the deposit value in\nMasterPlatypusV4 as the maximum amount that can be borrowed. The return value\nis used to mint a large amount of [$USPs]\nvia borrow function. Under normal logic, the hacker cannot withdraw the\ncollateral."
+    }
+}
