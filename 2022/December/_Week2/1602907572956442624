@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1602907572956442624",
+        "timestamp": "2022-12-14 14:05:17",
+        "original_content": "When receiving the reward, it uses the queryRate function of the oracle to\ncalculate the rate, but when the queryRate function calculates the rate, it\nuses the reserve in the NIMB/NBU_WBNB (0x7D88... .A60C) pool to calculate."
+    }
+}
