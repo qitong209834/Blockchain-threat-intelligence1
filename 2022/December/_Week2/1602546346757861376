@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1602546346757861376",
+        "timestamp": "2022-12-13 14:09:56",
+        "original_content": "2/ The attacker first adds liquidity and transfers a certain amount of\n[$USDC.e] into the TIC-USDC pool, at\nwhich point the amount of USDC.e to be transferred to the attacker is\nmultiplied by the number of LP tokens, then the attacker removes liquidity to\nmake a profit."
+    }
+}
