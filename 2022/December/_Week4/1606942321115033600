@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1606942321115033600",
+        "timestamp": "2022-12-25 16:57:04",
+        "original_content": "The hack is made possible due to mistakenly adding USDC into supported\nrouters. Also with a lack of validation in routerCallNative, the hacker can\ndrain all funds from users who have approvals to the RubicProxy. Revoke\n[https://etherscan.io/address/0x3335a88bb18fd3b6824b59af62b50ce494143333\u2026](https://t.co/dO73Ns7cLh)\nASAP via [http://revoke.cash](https://t.co/4DogFvS61G)"
+    }
+}
