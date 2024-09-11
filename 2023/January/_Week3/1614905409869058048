@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1614905409869058048",
+        "timestamp": "2023-01-16 16:40:25",
+        "original_content": "4/ Then the attack contract creates another internal contract\n0x97C347baCbD37D853C98dE415fCE3F459908b4f5 and transfer part of the\nexp1(0x757E9F) asset to exp2(0x97C347) Exp2 liquidates exp1's debt and redeems\n103k jFIAT tokens, repaying the flashloan."
+    }
+}
