@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1615197763373006848",
+        "timestamp": "2023-01-17 12:02:09",
+        "original_content": "2/ However, the hacker's duration variable is 0, so it will directly return\nthe total_percent variable as the reward parameter. The hacker then calls the\nwithdrawAndClaim function to withdraw rewards, get the total_percent amount of\nORT tokens, and repeats the steps to profit."
+    }
+}
