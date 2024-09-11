@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1622492226701131777",
+        "timestamp": "2023-02-06 15:07:45",
+        "original_content": "The address (jZKbvD) can use transferFrom function to 0 authorization and\ntransfer WOOF from any address. The attacker transferred out\n[$WOOF] and updated the pool's reserves,\nand then used a large amount of [$WOOF]\ntokens to swap out all the WBNBs in the pair."
+    }
+}
