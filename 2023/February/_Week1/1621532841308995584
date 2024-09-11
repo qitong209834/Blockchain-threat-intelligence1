@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1621532841308995584",
+        "timestamp": "2023-02-03 23:35:26",
+        "original_content": "8/ After calling _updateBalance function,the afterBalance (5,689,532) is equal\nto beforeBalance plus amountIn. The final deposit of USDT in the\nExchangeWithAtomic contract is recorded as 5,689,532."
+    }
+}
