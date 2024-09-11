@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1622852774680748032",
+        "timestamp": "2023-02-07 15:00:25",
+        "original_content": "Specifically, in the attack, the maximum value of the\n[$DAI] was approved to the SwapGuard\ncontract. In the SwapGuard contract, anyone can call the envelope function to\nmake a withdrawal. The attacker eventually profited 114,824\n[$DAI]."
+    }
+}
