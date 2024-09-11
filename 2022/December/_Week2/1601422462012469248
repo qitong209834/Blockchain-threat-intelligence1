@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1601422462012469248",
+        "timestamp": "2022-12-10 11:44:02",
+        "original_content": "Seems [$Mu] and\n[$MuG] tokens were exploited. Attack tx:\n[https://snowtrace.io/tx/0xab39a17cdc200c812ecbb05aead6e6f574712170eafbd73736b053b168555680\u2026](https://t.co/crpKtIiLvs)\nAttacker: 0xd46b44A0e0b90E0136cf456dF633Cd15a87DE77E. The attacker made a\nprofit of about ~57,659 [$USDC]. The\nprofit was sent to [http://Tornado.Cash](https://t.co/sjV0KlpIbO)."
+    }
+}
