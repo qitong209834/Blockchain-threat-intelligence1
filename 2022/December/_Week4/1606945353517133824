@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1606945353517133824",
+        "timestamp": "2022-12-25 17:30:01",
+        "original_content": "The attacker modified the oracle address via setOracleAddress function, then\nmint 100,000,000 $H20 to 0x6f31eb634aba6921fbf15fc9aa6e08f11348f64f using\njoinAndMint function, and finally called the liquidate function to obtain a\nlarge amount of USDT through a fake price oracle."
+    }
+}
