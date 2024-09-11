@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1612761362027155456",
+        "timestamp": "2023-01-10 18:40:47",
+        "original_content": "Beosin EagleEye monitored an exploit on\n[$BRA]. The loss is ~820\n[$WBNB] ($225K). The attack is caused by\na logic vulnerability in the BRA contract, where the BRA transfer process will\ngenerate rewards if the caller or receiver is pair."
+    }
+}
