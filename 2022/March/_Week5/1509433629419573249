@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1509433629419573249",
+        "timestamp": "2022-03-31 15:25:23",
+        "original_content": "3/ The hack is made possible due to the incompatibility between Compound fork\nand ERC677/ERC777-based tokens, which have the built-in callback functions\nmisused to allow for reentrancy to drain the lending pool.[](https://t.co/9JfnBr9pfL)\n"
+    }
+}
