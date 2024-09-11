@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1602907565784170496",
+        "timestamp": "2022-12-14 14:05:17",
+        "original_content": "The oracle can be manipulated, allowing the hacker to manipulate the oracle to\nclaim more collateral rewards. The hacker first uses flashloan to manipulate\nthe amount in NIMB/NBU_WBNB (0x7D88.. .A60C) pool, then uses the previously\nprepared address (pre-pledged) to claim rewards"
+    }
+}
