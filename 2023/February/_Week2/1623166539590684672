@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1623166539590684672",
+        "timestamp": "2023-02-08 11:47:14",
+        "original_content": "DAYUDAO-WBNB-WP trading pair was under a price manipulation attack in tx:\n[https://bscscan.com/tx/0x6ba555e7eb6aab8d7adebede79b5c476f9ca27b407df722fb6cb574e0d3af070\u2026](https://t.co/evDYFFYwYC).\nThe profit is 10 [$WBNB]. (Intel by\n\n[@bbbb](/bbbb)\n\n) The swap of $DAYUDAO for [$WP] uses\n[$WBNB] as the intermediate token to\ncalculate the price."
+    }
+}
