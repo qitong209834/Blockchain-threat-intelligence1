@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1584336827514638336",
+        "timestamp": "2022-10-24 06:51:41",
+        "original_content": "It is a price manipulation issue. The miMATIC market uses CurvePoolOracle for\nprice feed, which is manipulated to borrow funds from the market\n[https://polygonscan.com/address/0x3dc7e6ff0fb79770fa6fb05d1ea4deacce823943\u2026](https://t.co/kDv10Zp2nz)\n\n[@market_xyz](/market_xyz)\n\n[@QuickswapDEX](/QuickswapDEX)\n\n[@QiDaoProtocol](/QiDaoProtocol)[](https://t.co/SXePgm5HHg)\n"
+    }
+}
