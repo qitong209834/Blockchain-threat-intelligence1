@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1622806021730340867",
+        "timestamp": "2023-02-07 11:54:38",
+        "original_content": "4/ After calling deliver, _getRate becomes smaller when _rTotal is 28% less\nand _tTotal remains the same. Since transaction pair is not a deflation\nexcluded address, the balance obtained becomes larger. The attacker can\ndirectly withdraw the increased [$FDP] and\nswap into [$WBNB].[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1830544359529562112/APU5-mmw?format=jpg&name=small)](https://t.co/EA0c60Tbfz)\n"
+    }
+}
