@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1599690236103393281",
+        "timestamp": "2022-12-05 17:00:44",
+        "original_content": "The 0x00e639 address approved the maximum amount of LYM transfer 8 days ago.\nThen [$LYM] were transferred to Contract 2\n(0x2038b897 address), which then swaps out 302,661\n[$BUSD]. The\n[$BUSD] were transferred to the deployer\nand the 0x92c2eA2F address."
+    }
+}
