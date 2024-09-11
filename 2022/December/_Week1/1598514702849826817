@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1598514702849826817",
+        "timestamp": "2022-12-02 11:09:38",
+        "original_content": "[@ankr](/ankr)\n\nhas been exploited. [$aBNBc] has dropped\n-99.5%. The hacker minted tons of\n[$aBNBc] and made a profit of 5,500 BNB\n(~$1.6 million) The deployer changed the implementation contract to the\nvulnerable contract address before the attack (possibly due to private key\ncompromise)."
+    }
+}
