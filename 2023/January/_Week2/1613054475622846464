@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1613054475622846464",
+        "timestamp": "2023-01-11 11:21:47",
+        "original_content": "[$ACS] rugged for $10K via a backdoor\nfunction. The scammer transfers the [$ACS]\nwithin the BSC-USD-ACS pair through transferFrom function, causing an\nimbalance in the K value, and then uses a small number of\n[$ACSs] to transfer out a large amount of\nBSC-USD within the pair."
+    }
+}
