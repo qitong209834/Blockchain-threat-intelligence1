@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1595346830669516803",
+        "timestamp": "2022-11-23 17:21:37",
+        "original_content": "Before the attack transaction, the attacker created the node record by\ndepositing 1,000 [$AUR] into the contract\nvia a transaction\n(0xb3bc6ca257387eae1cea3b997eb489c1a9c208d09ec4d117198029277468e25d), thus\nenabling the attacker to withdraw the node reward."
+    }
+}
