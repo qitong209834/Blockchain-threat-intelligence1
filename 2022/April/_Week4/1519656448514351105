@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1519656448514351105",
+        "timestamp": "2022-04-28 12:14:28",
+        "original_content": "Thanks to\n\n[@lafachief](/lafachief)\n\n, we clarify that the hack is more involved, i.e., a flash swap is used to\nmanipulate VWAP of Muon oracles and another flash swap inside the same tx to\nmanipulate the onchain price. The attack happens across multiple txs over a\ntimespan of a few minutes.[![Visit\nftmscan.com](https://pbs.twimg.com/card_img/1830561597657673728/U3b2vJw2?format=jpg&name=small)](https://t.co/USKNHhXeid)\n"
+    }
+}
