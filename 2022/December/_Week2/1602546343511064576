@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1602546343511064576",
+        "timestamp": "2022-12-13 14:09:56",
+        "original_content": "[@ElasticSwap](/ElasticSwap)\n\nwas hacked for ~$850K. The root cause is the inconsistency between the\ncalculation of add liquidity and remove liquidity. The add liquidity uses a\nconstant K value algorithm, while remove liquidity uses the balance of two\ntokens in the current pool to calculate."
+    }
+}
