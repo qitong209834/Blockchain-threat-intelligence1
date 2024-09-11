@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1597535801377968129",
+        "timestamp": "2022-11-29 18:19:49",
+        "original_content": "The hacker calls the transfer function to transfer a minimum unit of\n[$SEAMAN], which triggers the contract\nto swap [$SEAMAN] for\n[$BUSD] in BUSD-SEAMAN pair. Then swap\n[$BUSD] for\n[$GVC] in the BUSD-GVC pair, which\nconsumes the amount of GVCs in the BUSD-GVC pair and raise\n[$GVC] price."
+    }
+}
