@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1625751551863291905",
+        "timestamp": "2023-02-15 14:59:09",
+        "original_content": "Multichain\u2019s AnyswapV4Router contract was exploited for 87\n[$ETH] in\n[https://etherscan.io/tx/0x192e2f19ab497f93ed32b2ed205c4b2ff628c82e2f236b26bec081ac361be47f\u2026](https://t.co/Vi3cZQV6Ya).\nThe attacker uses MEV contract (0xd050) to front-run and calls AnySwapV4Router\ncontract's anySwapOutUnderlyingWithPermit function to sign and approve the\ntransfer."
+    }
+}
