@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1612761369207771136",
+        "timestamp": "2023-01-10 18:40:47",
+        "original_content": "3/ Here the attacker sets pair as the receiver address, and BRA reverts back\nto pair, resulting in an increase of\n[$BRA] amount after one skim (rewards).\nAfter multiple skims, a large number of\n[$BRAs] have existed in the pair."
+    }
+}
