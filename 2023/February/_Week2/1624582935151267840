@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1624582935151267840",
+        "timestamp": "2023-02-12 09:35:29",
+        "original_content": "Seems FarmApp contract singer's private key was abused, the attacker\n(0x2a45a576beecc945527a1b106c6d41d3ea52f9f7) used singer's signature to call\nthe sowSeed function to generate newSowData with 42 sowid, and called\nclaimedSeed function again to steal 936,387\n[$MMT]."
+    }
+}
