@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1625751555222933504",
+        "timestamp": "2023-02-15 14:59:09",
+        "original_content": "Although the function uses the token's permit signature verification, the\nstolen WETH does not have an associated signature verification function and\nonly triggers a fallback in the deposit function."
+    }
+}
