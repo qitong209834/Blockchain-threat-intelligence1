@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1601908620316532736",
+        "timestamp": "2022-12-11 19:55:51",
+        "original_content": "[$WOG] is suspected to be attacked. The\nattacker obtained a large number of [$WOG]\ntokens via 0x146b0d9275d9619d5556940fa4daf08598767eea contract, then swapped\nfor ~170,000 [$BSC]-USD. The profit is\ncurrently held at 0x36ecf288148e0840ea9dcfcae3a548144c253a9a address."
+    }
+}
