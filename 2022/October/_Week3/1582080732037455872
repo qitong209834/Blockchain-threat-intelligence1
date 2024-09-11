@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1582080732037455872",
+        "timestamp": "2022-10-18 02:46:54",
+        "original_content": "It seems a swap/router (\n\n[@BitKeepOS](/BitkeepOS)\n\n?) is being exploited (w/ loss ~$1M): Please revoke: (1)\n[https://revoke.cash](https://t.co/9axb7vT2Hl) (2) Connect your wallet (3)\nCheck Include unregistered tokens .. (3) Search for 0x75eb..12de to see if any\nhave approvals (4) Revoke approval if exist"
+    }
+}
