@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1638557499929563136",
+        "timestamp": "2023-03-22 23:05:24",
+        "original_content": "2/ There\u2019s a backdoor in the Nuwa contract 0x344 (not open source). The\nfunction 0xfa319eee will swap the deposited\n[$BUSD] for\n[$nuwa] and send all\n[$nuwa] in the contract to the caller."
+    }
+}
