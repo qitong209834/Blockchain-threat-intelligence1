@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1638006835398742017",
+        "timestamp": "2023-03-21 10:33:06",
+        "original_content": "2/ The reward contract then transferred 190,000,000 BNQ to the attacker. One\ntx:\n[https://bscscan.com/tx/0x97824224c549a5a5158d72c34166ae88f538fecb491dfb4bff548efabb624b28\u2026](https://t.co/jqP8fDsnVU)\nThe attacker transferred [$BNQ] to\n[https://bscscan.com/address/0x2c03afd4c1e892bad9bb365a033c527eb5b2ade1\u2026](https://t.co/BfB9361oho)\nand swapped for $72,652 BSC-USD, causing the\n[$BNQ] price to drop -99%. The rest of\n[$BNQ] are held at 0x2c03 address."
+    }
+}
