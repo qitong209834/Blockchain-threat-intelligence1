@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1639655134232969216",
+        "timestamp": "2023-03-25 23:47:01",
+        "original_content": "Big Winner [$DBW] was exploited for $20K\nin tx\n[https://bscscan.com/tx/0x3b472f87431a52082bae7d8524b4e0af3cf930a105646259e1249f2218525607\u2026](https://t.co/6YpF4Z8yCV)\non Mar 24. (Tx by\n\n[@bbbb](/bbbb)\n\n) The root cause is that the dividend awards are based on the percentage of LP\ncurrently owned by the user, and does not take into account multiple dividends\nafter the transfer of LP."
+    }
+}
