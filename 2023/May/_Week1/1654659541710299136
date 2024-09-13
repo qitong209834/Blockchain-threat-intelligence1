@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1654659541710299136",
+        "timestamp": "2023-05-06 09:29:11",
+        "original_content": "[$DEI]\n\n[@DeusDao](/DeusDao)\n\nwas hacked for ~$6.38M on BSC and Arbitrum. Root cause:  The burnFrom function\nwrote the two address parameters in a flipped order when obtaining the user's\napproval value, resulting in the approval value obtained being the one that\ncan be manipulated by hackers."
+    }
+}
