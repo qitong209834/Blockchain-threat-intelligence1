@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1647456374148980736",
+        "timestamp": "2023-04-16 12:26:20",
+        "original_content": "5/ Attack contract 2 then sent 500.3 WBTC to the hWBTC contract and borrowed\n1021.91 ETH via the remaining 2 hWBTCs. Finally the attack contract 2 repaid\nthe previous debt by using 1 hWBTC, and withdrew 500.3 WBTC from the contract."
+    }
+}
