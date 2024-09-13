@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1653619782317662211",
+        "timestamp": "2023-05-03 12:37:33",
+        "original_content": "Never Fall on BSC was under a price manipulation attack with a loss of 70K.\n[https://bscscan.com/tx/0xccf513fa8a8ed762487a0dcfa54aa65c74285de1bc517bd68dbafa2813e4b7cb\u2026](https://t.co/iKuiXp8c5t)\nThe attacker flashloans 1.6M [$BUSD] and\nuses 200K BUSD to buy 75.5M of Never Fall tokens via buy function in the Never\nFall contract. The buy function adds liquidity with 90% BUSD that the user has\ndeposited and Never Fall in the contract, and then swaps the remaining\n[$BUSD] in the pair. The remaining 1.4M\nBUSD is then swapped for Never Fall in the BUSD-Never Fall pool. Finally the\nheld Never Fall is sold via the sell function (the sell function sends the\nuser the BUSD added to the contract after the liquidity has been removed). The\n74,250 [$BUSD] profit has been sent to\n[http://Tornado.cash](https://t.co/N4iY8kTDi0) by the attacker."
+    }
+}
