@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1638005783882510337",
+        "timestamp": "2023-03-21 10:33:06",
+        "original_content": "[$BNQ] on BNB chain was exploited for\n~$72K. [$BNQ] price dropped -99%. The\naddress 0x28Faec787179FCe7D173DeE71de2766F334C5111 used proxy contract to\ndeposit a certain amount of [$BNQ], then\ncalled claimReward function to consume a large amount of\n[$BNQ].[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1828666315848183808/ijmwcl8y?format=jpg&name=small)](https://t.co/5V2byNivRv)\n"
+    }
+}
