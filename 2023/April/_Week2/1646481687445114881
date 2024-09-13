@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1646481687445114881",
+        "timestamp": "2023-04-13 15:23:53",
+        "original_content": "Detailed analysis of the Yearn Finance\n\n[@iearnfinance](/iearnfinance)\n\n$11M hack. The root cause is the misconfiguration of yUSDT Token contract.\nWhen performing a rebalance to reselect pools, only USDT is used as the add\namount, and USDC cannot add to the pool."
+    }
+}
