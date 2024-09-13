@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1641018602878042113",
+        "timestamp": "2023-03-29 08:56:52",
+        "original_content": "[$UNMS] on BNB chain was attacked for\n$100k in\n[https://bscscan.com/tx/0x5feb28c35ddda566cf224714f7f721d093ab1de964ea0420f025dd44d953a344\u2026](https://t.co/fjtMSVgGnV).\nThe claimMintToken function in the unopen source contract\n0x5d0078c31bc748a25f7b527aab1fc04d04fc7270189691939033423035198192997\ndetermines the number of tokens to mint via the reserve value in the pair."
+    }
+}
