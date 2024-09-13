@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1638065608221954048",
+        "timestamp": "2023-03-21 10:33:06",
+        "original_content": "3/ Correction: It's a rugpull rather than an attack. The initial fund of\n[$BNQ] contract\n0x5c530131700B8dd88e4FAEFEa616D04f6f13Fc96 is from\n[http://Tornado.cash](https://t.co/EEPqfuJiNc). In 0x49fe5c contract, the\nowner directly transfers to 0x28Fa...5111 via safePull, which can only be\ncalled by owner."
+    }
+}
