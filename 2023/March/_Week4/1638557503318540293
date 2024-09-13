@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1638557503318540293",
+        "timestamp": "2023-03-22 23:05:24",
+        "original_content": "3/ The initial attacker 0xCFf8bdf57F4e62C1d4F82420B8A1CAD70D5BF383 deployed\nthe malicious contract one day earlier, but was front-run by the 0x286E Mev\nbot in its execution, causing the original transaction to be reverted. 0x286\nbot then sold the [$NUWA] for ~$110k.[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1795720988698832896/gxN4mDlS?format=jpg&name=small)](https://t.co/b7LLYVcFeM)\n"
+    }
+}
