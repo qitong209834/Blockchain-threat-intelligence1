@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1642825119637831682",
+        "timestamp": "2023-04-03 17:37:50",
+        "original_content": "Root causes: 1) MEV will use all funds when it arbitrates in a low liquidity\npool. 2) The same tokens can be obtained with a small amount of funds in\nuniswap V3, whose value has been manipulated in the V2 pool. 3) The hacker may\nhave validator access and can modify the bundle."
+    }
+}
