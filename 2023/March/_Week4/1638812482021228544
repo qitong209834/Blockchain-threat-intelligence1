@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1638812482021228544",
+        "timestamp": "2023-03-23 15:58:38",
+        "original_content": "One victim (0xfaB576fF46BD27B095A4EEe4a293eCB0C41D5A85) lost 70 WBTC (~2M USD)\nwith a simple approval phishing attack. There is around 10 minutes gap between\nthe approval and the token transfer. If the victim leverages\n\n[@MetaDockTeam](/MetaDockTeam)\n\n's approval Diagnosis to take an approval check, he/she could avoid this loss."
+    }
+}
