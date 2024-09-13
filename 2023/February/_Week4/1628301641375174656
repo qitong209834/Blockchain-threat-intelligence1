@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1628301641375174656",
+        "timestamp": "2023-02-22 15:52:17",
+        "original_content": "3/ The attacker then uses redeem function to withdraw both the capital and the\nrewards. After making a withdrawal from one address, the funds are transferred\nto the next address for the same operation, allowing the hacker to profit\nrepeatedly. Tx:\n[https://bscscan.com/tx/0xc09678fec49c643a30fc8e4dec36d0507dae7e9123c270e1f073d335deab6cf0\u2026](https://t.co/Q3QLLUuwJj)"
+    }
+}
