@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1649644783223328768",
+        "timestamp": "2023-04-22 13:22:19",
+        "original_content": "Mutual Aid VCC rugged via a backdoor function. (Tx credit\n\n[@bbbb](/bbbb)\n\n)\n[https://bscscan.com/tx/0xef1746520086c224da86c92ee9631366ddf883e4ab1d35e8958c095f5eb80ebe\u2026](https://t.co/j6DAITBLXz)\nAttacker (0xE4A1920AAcc21d2B478ACdB0046AA41117947748) withdrew 1\n[$BNB] from Tornado cash as gas fee 21\ndays ago, then called the backdoor function 0x5cf29416, which can transfer\n[$VCC] from the victim contract to the\nspecified address. The attacker gained 90M\n[$VCCs], which were later swapped for\n23,000 [$BUSD], finally swapped for 70\n[$WBNB] ($22,700)."
+    }
+}
