@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1635231791509549057",
+        "timestamp": "2023-03-13 18:41:31",
+        "original_content": "2/ The hack is made possible due to the flawed logic its donation and\nliquidation. Specifically, the donateToReserves needs to ensure the donator is\nstill over-collateralized. And liquidation needs to ensure the *correct*\nconversion rate from borrow to collateral asset."
+    }
+}
