@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1642373359815233536",
+        "timestamp": "2023-04-02 11:48:16",
+        "original_content": "The attacker then swaps $500K BSC-USD for\n[$BUSD] in Allbridge's Bridge contract,\nresulting in a high dividend for the previous liquidity deposit. The BUSD\nliquidity in 0x179a is then removed, at which point the liquidity balance\nwithin the 0x179a pool is broken."
+    }
+}
