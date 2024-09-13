@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1645692516401033216",
+        "timestamp": "2023-04-11 15:37:26",
+        "original_content": "The South Korean exchange [#GDAC] announced\nthat its hot wallet was hacked on April 8 (UTC), and the value of lost assets\nwere ~13M USD. On Ethereum, the hacker swapped all 220k\n[$USDT] for Ether and laundered all 461\nEther into\n\n[@TornadoCash](/TornadoCash)\n\n. On WEMIX, after stealing 10M [$WEMIX],\nthe hacker (0x5719) successively bridged funds to Ethereum. The addresses\nHacker 4 (0x5719) and Hacker 5 (0x6225) received the bridged funds. See more\ndetail in\n?[https://metasleuth.io/result/eth/0x87597bdb421482190e223aca0a4dead75ab0a98d?source=7b74f8f1-a74d-47db-b76e-c50c11f25409\u2026](https://t.co/plb2E9wEAE)"
+    }
+}
