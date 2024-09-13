@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1626502171104788480",
+        "timestamp": "2023-02-17 16:32:57",
+        "original_content": "The selfSwap function has a logic flaw that calls fill function, which calls\nan hacker-defined data. The hacker constructs a transferfrom function in the\ndata and passes in other user\u2019s and his own attack address, allowing tokens\napproved to the contract to be transferred out."
+    }
+}
