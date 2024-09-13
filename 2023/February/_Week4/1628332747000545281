@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1628332747000545281",
+        "timestamp": "2023-02-22 17:47:40",
+        "original_content": "NFT project CRYPTONINJA WORLD does not authenticate the burn operation in its\ncontract. Anyone can call the burn function and pass in a specified tokenId to\nburn. All NFTs in this project have the risk of being burned arbitrarily.\n[https://etherscan.io/address/0xd93704f2a0ea3db109de194d4a51ff3e5e77cefd\u2026](https://t.co/rO24KozZV5)"
+    }
+}
