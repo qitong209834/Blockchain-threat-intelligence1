@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1647810647152005120",
+        "timestamp": "2023-04-17 11:54:07",
+        "original_content": "Address 0x0e7a6 has been scammed for 494.71 Ether, with 25% flowing into the\nscam contract creator's address and 75% flowing into the phisher's address.\nThis distribution method is fixed and written in the contract. From the flow\nof funds, it appears that several known phishers have previously used this\ncontract. Track the funds through the following report:\n[https://metasleuth.io/report?report_id=8e22db2d295557bd23b45a9a0f0d1ada\u2026](https://t.co/jIcQ5D9Gus)"
+    }
+}
