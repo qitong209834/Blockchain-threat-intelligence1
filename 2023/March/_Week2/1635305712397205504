@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1635305712397205504",
+        "timestamp": "2023-03-13 23:43:59",
+        "original_content": "[@eulerfinance](/eulerfinance)\n\nEuler Finance was exploited with a ~$197M loss in multiple Txs. 34,224,863\n[$USDC], 849\n[$WBTC], 85,818\n[$stETH] and 8,877,507\n[$DAI] were stolen. Take on tx to analyze:\n0xc310a0affe2169d1f6feec1c63dbc7f7c62a887fa48795d327d4d2da2d6b111d"
+    }
+}
