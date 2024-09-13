@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1638557496796397569",
+        "timestamp": "2023-03-22 23:05:24",
+        "original_content": "Seems [$nuwa] on BSC failed to rug and\nwas front-run by the MEV bot 0x286E09932B8D096cbA3423d12965042736b8F850. The\nbot profited ~$110K. [$nuwa] price\ndropped -78%.\n[https://bscscan.com/tx/0x4cd49b9bf7ee4d1bd1265a0eaec2f3c22beabbb91f1dae1848f2cefe774aa92c\u2026](https://t.co/76B3GnhpZP)\n(Intel by\n\n[@bbbb](/bbbb)\n\n)"
+    }
+}
