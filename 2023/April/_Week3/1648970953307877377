@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1648970953307877377",
+        "timestamp": "2023-04-20 16:44:46",
+        "original_content": "[$XBN] was exploited in\n[https://bscscan.com/tx/0x3b698ba37f33ac0f822a0de7e097126d71e8216bf59ec9b2e6044df7d4f40296\u2026](https://t.co/GCUKqZHxuc).\nThe attacker gained ~$10K. The attacker uses flashloan to transfer\n[$XBN] from the BUSD-XBN (0xab73..6D) pool\nto the WBNB-XBN (0xb43c..53) pool and causes the\n[$XBN] price in the WBNB-XBN pool to drop."
+    }
+}
