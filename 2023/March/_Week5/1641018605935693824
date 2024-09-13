@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1641018605935693824",
+        "timestamp": "2023-03-29 18:04:58",
+        "original_content": "The attacker borrowed a large amount of\n[$BUSD] in the pair via flashloan,\nresulting in a huge change in the ratio of\n[$BUSD] and\n[$UNMS], then he withdrew\n189452864815631476477918587 UNMS from the contract and sold for 100k\n[$BUSD]."
+    }
+}
