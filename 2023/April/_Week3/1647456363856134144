@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1647456363856134144",
+        "timestamp": "2023-04-16 12:26:20",
+        "original_content": "On Apr 15th,\n\n[@HundredFinance](/HundredFinance)\n\nwas exploited for over $7M on\n[#Optimism]. Hundred Finance was also a\nvictim of a reentrancy attack on Mar 2022. Txs:\n0x15096dc6a59cff26e0bd22eaf7e3a60125dcec687580383488b7b5dd2aceea93\n0x6e9ebcdebbabda04fa9f2e3bc21ea8b2e4fb4bf4f4670cb8483e2f0b2604f451"
+    }
+}
