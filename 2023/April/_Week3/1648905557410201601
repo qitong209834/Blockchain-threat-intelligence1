@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1648905557410201601",
+        "timestamp": "2023-04-20 11:44:50",
+        "original_content": "?From ETH to BSC to ARB,\nElleria Bridge Exploiter is nowhere to hide. The initial funds came from\n\n[@FixedFloat](/FixedFloat)\n\nand were transferred from BSC->ARB through multichain. Then the final profit\n(~140.5ETH) was bridged from ARB->ETH through multichain and deposited into\nFixedFloat in 4 txns. MetaSleuth noticed that Elleria Bridge Exploiter has a\nspecial liking for FixedFloat. And we found an address 0xfd71 on both BSC and\nARB has an unusual relationship with the exploiter. Click our shared link to\nsee the details:\n[https://metasleuth.io/result/eth/0xf2cbf39e7668ebb113f2c609bbd6ea1dfce5d376?source=7bce3560-6758-47cb-\nab92-1abd6263fe79\u2026](https://t.co/kowaOHINxi)"
+    }
+}
