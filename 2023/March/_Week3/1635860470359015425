@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1635860470359015425",
+        "timestamp": "2023-03-15 12:17:41",
+        "original_content": "Our initial analysis shows the\n\n[@Poolz__](/Poolz__)\n\nhack is due to a classic arithmetic overflow issue, which is exploited to\ndrain funds from the contract -- Poolz: Token Vesting\n[https://bscscan.com/address/0x8bfaa473a899439d8e07bf86a8c6ce5de42fe54b#code\u2026](https://t.co/OA6PQJcKNC)"
+    }
+}
