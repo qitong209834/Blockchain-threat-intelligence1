@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1655846558762692608",
+        "timestamp": "2023-05-09 16:05:58",
+        "original_content": "MultiChainCapital [$MCC] was under a\nflashloan attack in tx\n[https://etherscan.io/tx/0xf72f1d10fc6923f87279ce6c0aef46e372c6652a696f280b0465a301a92f2e26\u2026](https://t.co/2SJp5sd0fA)\nThe deflationary token does not exclude pair from the excluded address,\nallowing the attacker to use deliver function to mint tokens, and finally\nswapped the minted tokens for 10 [$ETH]."
+    }
+}
