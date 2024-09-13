@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1642825117129674753",
+        "timestamp": "2023-04-03 17:37:50",
+        "original_content": "At this point, the WETH is swapped out by attack tx, so the MEV bot's attempt\nto swap back WETH will fail to execute."
+    }
+}
