@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1647552192243728385",
+        "timestamp": "2023-04-16 18:47:07",
+        "original_content": "Newly deployed SwaposV2Pair contracts on Ethereum were hacked for $467,192.\nThere\u2019s a judgment error in the k-value, which allows the attacker to withdraw\nfunds from the pair contract. Attacker:\n0x2df07C054138Bf29348F35a12a22550230BD1405 One tx:\n0x78edc292af51a93f89ac201a742bce9fa9c5d9a7007f034aa30535e35082d50a"
+    }
+}
