@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1635856097067294722",
+        "timestamp": "2023-03-15 12:11:00",
+        "original_content": "?After the zero transfer\nscam, we first find a new similar phishing method that is rampant nowadays!!\nHere is the summary: ? 1\\.\nAfter monitoring a user initiates a large transfer to a certain address\n(usually above $10,000), the scammer will forge an address that is extremely\nsimilar to the previous transfer target. 2\\. The scammer then sends a nominal\namount, usually less than $0.1, to the user's account from this forged fake\naddress. 3\\. And if the user mistakenly believed that this small deposit came\nfrom the original transfer address and copied it. Oooooooop!!!! They fall for\nthe phishing trap and transfer their money to the scammer. This is a new type\nof phishing, similar to the previous \"zero-transfer\" scam. Stay vigilant and\ndo not readily copy the address of a small deposit without verifying its\nauthenticity."
+    }
+}
