@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1645976721378934785",
+        "timestamp": "2023-04-12 10:26:45",
+        "original_content": "MetaPoint ($POT) on BSC was hacked with a loss of $920K. The root cause is\nthat users will create a new contract to hold their funds each time they\ndeposit [$POT], but the contract has a\npublic approve function to transfer all users' assets."
+    }
+}
