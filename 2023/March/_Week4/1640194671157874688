@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1640194671157874688",
+        "timestamp": "2023-03-27 11:30:56",
+        "original_content": "2/ Then the attacker changed the cBTC contract implementation to a malicious\ncontract (0x05b2957591a4d1334b230f8c56fd62ddee17b52e) and called the\n0x804edaad method to transfer 7,010 soWBTCs to\n0x5c8db6eea11896065ec7dcfc67f458c54ccf7bff, which were then swapped for 141\nWBTCs.[![](https://pbs.twimg.com/card_img/1828022333656686592/AcIexLhM?format=jpg&name=small)](https://t.co/NZtya1mi7Z)\n"
+    }
+}
