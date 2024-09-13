@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1646481713760178176",
+        "timestamp": "2023-04-13 19:53:21",
+        "original_content": "9) Due to step 2, the contract would withdraw both USDT and USDC and add them\nto a higher-yield pool. Since the contract now only has bZx, it can only\nwithdraw USDC. After that, the funds are reinvested into another USDT pool, at\nwhich point the reinvestment would be skipped."
+    }
+}
