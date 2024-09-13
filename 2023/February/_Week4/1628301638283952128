@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1628301638283952128",
+        "timestamp": "2023-02-22 15:52:17",
+        "original_content": "2/ The attacker uses flashloan to increase the deposit volume to each deposit\naccounts. The capital volume is increased directly in the deposit function\nbecause the second deposit does not settle the reward."
+    }
+}
