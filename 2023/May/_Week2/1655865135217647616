@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1655865135217647616",
+        "timestamp": "2023-05-09 17:19:47",
+        "original_content": "~20 hours ago, we found a new phishing address 0x345e3...71aab trying to call\nthe permit() function to steal vitalik.eth\n\n[@VitalikButerin](/VitalikButerin)\n\nassets."
+    }
+}
