@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1635305722308333568",
+        "timestamp": "2023-03-13 23:43:59",
+        "original_content": "4/ At the time of liquidation, as the previous hacker made the ratio of\ncollateral assets (eDAI) to debt assets (dDAI) < 1 through 'donateToReserves'\nand 'mint' function, this allows the liquidator to liquidate the attacker's\ndebt without transferring funds to the protocol."
+    }
+}
