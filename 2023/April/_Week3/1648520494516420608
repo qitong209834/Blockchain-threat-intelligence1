@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1648520494516420608",
+        "timestamp": "2023-04-19 09:31:23",
+        "original_content": "The transfer of [$OLIFE] will call\n_reflectFee function, which decreases the total amount of _tTotal. After\naccumulation, the pool's balance is significantly increased when calculated\nvia balanceOf, and the hacker can directly call swap to withdraw\n[$WBNB] from the pool. The stolen funds\nare transferred to 0x662D2dC484D65a3Ba4Da80E36EAa9a400AF0726B."
+    }
+}
