@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1651930386904252421",
+        "timestamp": "2023-04-28 19:58:05",
+        "original_content": "The\n\n[@0vixProtocol](/0vixProtocol)\n\non Polygon suffered a significant attack resulting in a total loss of\napproximately 2M USD. The attacker bridged all profits to Ethereum using\n\n[@StargateFinance](/StargateFinance)\n\nand exchanged them for ETH. The 1070 ETH remains in the exploiter's address.\nThe initial funding for the attack came from\n\n[@TornadoCash](/TornadoCash)\n\non Ethereum. The attacker swapped the acquired ETH for Matic and bridged it to\nPolygon via\n\n[@HopProtacol](/HopProtacol)\n\n. Check the details:\n[https://metasleuth.io/result/polygon/0x702ef63881b5241ffb412199547bcd0c6910a970?source=b7631565-4ec8-459d-a0f0-884b6323c215\u2026](https://t.co/SipHLqQnAr)"
+    }
+}
