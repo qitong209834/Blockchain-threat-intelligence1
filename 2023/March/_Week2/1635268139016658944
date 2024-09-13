@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1635268139016658944",
+        "timestamp": "2023-03-13 17:24:55",
+        "original_content": "3/ Right after a withdrawal operation that accidentally sent 8.8M DAI profit\nto another attacker 0xb66cd, the first attacker 0x5f259 claimed to be the\nowner of an MEV bot that has accidentally front-run the first tx of the\nhacker. Even so, do not forget this 0x5f259 is still a deflation token\nexploiter and has laundered profits to Tornado Cash. withdrawal tx:\n[https://etherscan.io/tx/0xdae809e4a1ddf77c39d44a4acfe6165bedbc19a385c4b241242cc9bd582a80b9\u2026](https://t.co/IvLnqT7klA)\nstatement tx:\n[https://etherscan.io/tx/0x44b559c86ca8ccac5c16df507516ef19c06042a48cdbd865cb9db4c52d15ea17\u2026](https://t.co/mkTPq9IBhH)\nfund flow graph:\n[https://metasleuth.io/result/eth/0xB2698C2D99aD2c302a95A8DB26B08D17a77cedd4?source=b4fc36bc-010b-4282-838b-c6f1559b6878\u2026](https://t.co/0ItgsnULHs)[](https://t.co/dcann6BCop)\n"
+    }
+}
