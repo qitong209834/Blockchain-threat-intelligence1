@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1650796317122383873",
+        "timestamp": "2023-04-25 17:38:06",
+        "original_content": "A batch of fake Open Campus [$EDU]\ncontracts have been created these days. One scam address:\n0x4749a5f83F6F003440cB4B6aD1628d39E900D0c4 The owner\n0xac150dfd7991622d9f89d505504c572c8eb2282b has been buying and selling\n[$EDUs] in the pair\n0xE3f26c1aDC28f9C85D4B8AB4a995637ad6684862, creating the illusion that many\npeople are participating. Users cannot sell the tokens in default state, as\nthe state of the whitelist address is not public, and the switch state and\nwhitelist address are controlled by the owner. Please stay vigilant!"
+    }
+}
