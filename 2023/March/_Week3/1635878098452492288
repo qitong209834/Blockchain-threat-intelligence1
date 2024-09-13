@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1635878098452492288",
+        "timestamp": "2023-03-15 12:19:17",
+        "original_content": "The LockedDeal contract of\n\n[@Poolz__](/Poolz__)\n\nPoolz Finance on ETH, BSC and Polygon was attacked for ~ $500,000. (Thanks\n\n[@bbbb](/bbbb)\n\nfor the intel) The attacker called the vulnerable function \u2018CreateMassPools\u2019\nand triggered an integer overflow vulnerability in the parameter _StartAmount.\nThe attacker also obtained a large number of other tokens ($ESNC,\n[$KMON], etc.)\n[https://debank.com/profile/0x190cd736f5825ff0ae0141b5c9cb7fcd042cef2a\u2026](https://t.co/dbs8K51h3l)"
+    }
+}
