@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1643476343886327808",
+        "timestamp": "2023-04-05 02:29:01",
+        "original_content": "Sentiment protocol was under an attack with a loss of ~$1 million caused by a\nprice error due to reentrancy.\n[https://arbiscan.io/tx/0xa9ff2b587e2741575daf893864710a5cbb44bb64ccdc487a100fa20741e0f74d\u2026](https://t.co/1cFOxqpbZV)"
+    }
+}
