@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1628636830752206849",
+        "timestamp": "2023-02-23 14:04:12",
+        "original_content": "2/ The exploiter manipulates tTotal and rTotal in deflationary tokens via\nflashloan & the functions deliver and burn. Steps: Swap a large number of\n[$TATA] to call deliver to update rTotal\nand tFeeTotal -> Burn tTotal via burn function -> Call deliver to update its\nown rTotal.[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1830544359529562112/APU5-mmw?format=jpg&name=small)](https://t.co/8LOpYGk21w)\n"
+    }
+}
