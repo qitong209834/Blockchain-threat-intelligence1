@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1628301635834486784",
+        "timestamp": "2023-02-22 15:52:17",
+        "original_content": "@fi_dynamic [$DYNA] was under a flashloan\nattack with a loss of 73 [$BNB]. The\nattacker 0x0c925a25fdaac4460cab0cc7abc90ff71f410094 used multiple different\ncontracts to deposit in StakingDYNA contract via deposit function six days\nbefore the attack to create a deposit record."
+    }
+}
