@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1635173671240364032",
+        "timestamp": "2023-03-13 14:59:17",
+        "original_content": "[$BCGA] on BNB Chain rugged. The owner\n0x44f2526bca61fb789fef81c3a36bee2fdecf8acb called a privileged function\n0x25bbb5ae to mint a large amount of\n[$BCGA], then immediately swapped for\n128.45 [$BNB] (~$39,092).\n[https://bscscan.com/tx/0x59367a104ed5737fc61691dd7a09c4a34e590aa5a7f340d06c3592e66004355c\u2026](https://t.co/ITI1GptiBD)[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1828005707838615552/4YtCFJAy?format=jpg&name=small)](https://t.co/eGjYX7eaMs)\n"
+    }
+}
