@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1640194668389634048",
+        "timestamp": "2023-03-27 10:32:05",
+        "original_content": "The deployer of Kokomo Finance deployed a contract cBTC\n(0x1e02e6a5b549eead726ebcce64a54215196760e2), then called _setRewardSpeed to\nmodify the reward and suspended borrow."
+    }
+}
