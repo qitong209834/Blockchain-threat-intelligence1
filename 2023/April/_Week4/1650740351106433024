@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1650740351106433024",
+        "timestamp": "2023-04-25 06:08:58",
+        "original_content": "FWIW, we'd like to clarify this is not a problem with Pyth per se. The issue\nhere is that a malicious actor can push an oracle update that is somehow\nhonored by Alpaca.\"[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1830544233360400385/tsw7b85-?format=jpg&name=small)](https://t.co/PfDjNyyJuQ)\n"
+    }
+}
