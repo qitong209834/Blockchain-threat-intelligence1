@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1646105974078599168",
+        "timestamp": "2023-04-12 19:00:22",
+        "original_content": "Feature Tip \u270d\ufe0f When an\naddress participates in too numerous transactions, the analyzed result may\nonly contain partial data. For such addresses, we mark them with a symbol to\ninform users. In this case, if the analyzed result lack of the\naddress/transaction data users cared about, users can manually add the\ncorresponding address/transaction to the graph through the 'Add Address/Tx'\nfunction. As the most active phishing address recently, Fake_Phishing66321\ninvolves numerous transactions. And the analyzed result does not contain a\nphishing transaction with 50 WBTC. After manually entering the corresponding\ntransaction hash, the transfer shows. Try the 'Add Address/Tx' function to\ncreate a more complete fund flow graph!"
+    }
+}
