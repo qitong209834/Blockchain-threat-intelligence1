@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1644940303466647553",
+        "timestamp": "2023-04-09 12:41:35",
+        "original_content": ".\n\n[@SushiSwap](/SushiSwap)\n\nRouteProcessor2 was attacked, and sifuvision.eth\n\n[@0xSifu](/0xSifu)\n\nlost 1800 ETH due to this. We tracked the stolen funds and presented them as\nfollows. The first attacker (0x9deff) has returned 90 ETH (of 100 stolen).\nBlockSec rescued 100 ETH and will return it shortly. The negotiation between\nsifuvision.eth and c0ffeebabe.eth is underway. And the majority of stolen\nfunds went to beaverbuild\n\n[@beaverbuild](/beaverbuild)\n\n, rsync-builder, and Lido: Execution Layer Rewards Vault\n\n[@LidoFinance](/LidoFinance)\n\n."
+    }
+}
