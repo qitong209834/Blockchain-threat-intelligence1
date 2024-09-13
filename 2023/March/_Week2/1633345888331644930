@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1633345888331644930",
+        "timestamp": "2023-03-08 13:56:20",
+        "original_content": "[@tender_fi](/Tender_fi)\n\nwas exploited for ~$1.58M by a whitehat hacker on Mar 7. The hacker kept 62.15\n[$ETH] as a bug bounty and returned the\nremaining funds. Root cause: The oracle contract at\n[https://arbiscan.io/address/0x614157925d4b6f7396cde6434998bfd04789272d#code\u2026](https://t.co/JtYia8ISJn)\nhas a coding error that incorrectly multiplied the price by 1e20."
+    }
+}
