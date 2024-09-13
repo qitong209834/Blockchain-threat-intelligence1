@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1636373562402705409",
+        "timestamp": "2023-03-16 22:27:14",
+        "original_content": "Seems\n\n[@BuggFinance](/BuggFinance)\n\nwas exploited for $5K. (Intel by\n\n[@bbbb](/bbbb)\n\n) The hacker calls the 0xFea6aA4a9d44137Ac7cA1a288030A4161f686df3 contract's\n0x814b2047 method to modify the contract's slot to\n[$XjdgZU] token address he created\n(0x616F26C1394645653C74FEa49029DBf4d8119482)[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1830544359529562112/APU5-mmw?format=jpg&name=small)](https://t.co/D7AU0nlACI)\n"
+    }
+}
