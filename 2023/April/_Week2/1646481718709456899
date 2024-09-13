@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1646481718709456899",
+        "timestamp": "2023-04-13 19:53:22",
+        "original_content": "11) As a result, the \"pool\" variable calculated was the 1 unit transferred by\nhacker, and since \"pool\" is used as the divisor, it calculated a massive\nvalue, minting 1.25 * 10^15 yUSDT tokens for the hacker. Finally the hacker\nuses yUSDT to swap out all the other stablecoins."
+    }
+}
