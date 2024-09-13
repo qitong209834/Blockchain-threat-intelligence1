@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1648970955522461696",
+        "timestamp": "2023-04-20 16:44:46",
+        "original_content": "Then, the attacker repeatedly calls the migrate function of the XBC\n(0x0321394309CaD7E0E424650844c3AB3b659315d3) contract. This migrate function\nreferences the price of the WBNB-XBN pool, allowing the attacker to swap more\n[$XBN] using\n[$XBC]."
+    }
+}
