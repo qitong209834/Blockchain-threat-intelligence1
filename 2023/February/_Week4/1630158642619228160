@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1630158642619228160",
+        "timestamp": "2023-02-27 18:51:21",
+        "original_content": "An old contract\n[https://bscscan.com/address/0x6d8981847eb3cc2234179d0f0e72f6b6b2421a01\u2026](https://t.co/3UH4YgskKg)\non BNB chain lacks access control in its core function. Users who have\napproved to this contract can be attacked. An attacker\n0x7d192fa3a48c307100c3e663050291fff786aa1f gained ~$330K."
+    }
+}
