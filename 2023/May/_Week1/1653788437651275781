@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1653788437651275781",
+        "timestamp": "2023-05-03 23:47:44",
+        "original_content": "AutoDonateUkraine [$ADU] on BSC was under\na flashloan attack in\n[https://bscscan.com/tx/0xc6f6b70e9e35770b699da9b60244d461d02db66859df42319c3207d76931423c\u2026](https://t.co/reQRHhmKbL)\nThe loss is ~$7K. The attacker used the deliver function to increase\n[$ADU] in the pair, then withdraws the\nexcess [$ADU] with skim. After repeating\nthe operation several times, the price in the pair become unbalanced and the\nattacker is able to profit 22 [$WBNB]\nfrom the pair."
+    }
+}
