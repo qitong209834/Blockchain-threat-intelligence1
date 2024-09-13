@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/peckshield/status/1650622890348523521",
+        "timestamp": "2023-04-25 06:08:58",
+        "original_content": "Hi\n\n[@AlpacaFinance](/AlpacaFinance)\n\n: you may want to take a look at the following tx:\n[https://bscscan.com/tx/0xfcbc09744090fe1a0d8a812f744f947cbbc7f817ff01f6e69ba157a86f57915e\u2026](https://t.co/PfDjNyyJuQ)\nIt seems the new Alpaca 2.0 makes use of a pyth-based oracle, which may\nsubject to malicious update.[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1830544233360400385/tsw7b85-?format=jpg&name=small)](https://t.co/PfDjNyyJuQ)\n"
+    }
+}
