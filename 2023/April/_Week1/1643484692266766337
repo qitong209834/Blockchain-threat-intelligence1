@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1643484692266766337",
+        "timestamp": "2023-04-05 12:51:09",
+        "original_content": "4/ At this time the attacker is in the process of \"exitPool\", the total supply\nin the pool has been reduced and the data has not been updated, enabling the\nattacker to exploit this data error to borrow more assets."
+    }
+}
