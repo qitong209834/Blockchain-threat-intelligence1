@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1643484689783750656",
+        "timestamp": "2023-04-05 12:51:09",
+        "original_content": "3/ In the fallback function, the attacker calls the 0x62c5 contract's borrow\nfunction, which does a price calculation based on the return data from\nBalancer Vault.getPoolTokens()."
+    }
+}
