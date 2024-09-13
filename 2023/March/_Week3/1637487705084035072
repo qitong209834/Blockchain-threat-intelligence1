@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1637487705084035072",
+        "timestamp": "2023-03-20 00:14:26",
+        "original_content": "We have received reports that @Harvest_Keeper has been maliciously\ntransferring users\u2019 funds. The project used owner privilege to transfer out\n[$USDT] staked by users in the\nHarvestKeeper contract by calling the 'getAmount' function.[![Visit\nBscScan.com](https://pbs.twimg.com/card_img/1830544359529562112/APU5-mmw?format=jpg&name=small)](https://t.co/yW2v93Ds5Y)\n"
+    }
+}
