@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1630884748779474944",
+        "timestamp": "2023-03-01 18:56:36",
+        "original_content": "6/ All the stolen funds were deposited into Tornado Cash by\n[https://etherscan.io/address/0x8B5A8333eC272c9Bca1E43F4d009E9B2FAd5EFc9\u2026](https://t.co/WF97i280FY)\nRecommendation: When upgrading a contract, do not change the original storage\norder of the variables, i.e.: only new storage items can be added, the order\ncannot be modified."
+    }
+}
