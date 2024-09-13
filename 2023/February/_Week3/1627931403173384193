@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/BeosinAlert/status/1627931403173384193",
+        "timestamp": "2023-02-21 15:21:05",
+        "original_content": "2/ So, when GenesisRewardPool contract uses openTrade function for lending,\ncalling TradingHelper contract\u2019s SwapWETH function does not perform the swap\noperation via the original sushiswap router, but sends the tokens directly to\nthe scammer."
+    }
+}
