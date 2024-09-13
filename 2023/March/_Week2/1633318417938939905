@@ -1,0 +1,7 @@
+{
+    "threat_intelligence": {
+        "url": "https://x.com/MetaSleuth/status/1633318417938939905",
+        "timestamp": "2023-03-08 12:07:11",
+        "original_content": "\u26a0\ufe0fIt seems zero-dollar\npurchases are shifting to blur\n\n[@blur_io](/blur_io)\n\n. ?We have detected some on\nchain zero-dollar purchases in blur. The Phisher\n0xceeab561bf05005201bab220ea2491b6fe4da403 has successfully executed several\nzero-dollar purchases in opensea\n\n[@opensea](/opensea)\n\n, and now is trying to execute it in blur. But all transactions were reverted\ndue to wrong signature. We think the phisher was testing new\ndeception?. Stay vigilant !"
+    }
+}
